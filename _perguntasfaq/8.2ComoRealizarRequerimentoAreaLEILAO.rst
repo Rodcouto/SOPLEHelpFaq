@@ -14,7 +14,7 @@
 	
 		Código de Recolhimento: 10091 – Leilão de Áreas em Disponibilidade.
 	
-		Número de Referência: nº do processo minerário da Área arrematada (Ex.: 123456/2010)
+		Número de Referência: nº do processo minerário da Área arrematada sem a barra diagonal (Ex.: 123456/2010, deve digitar 1234562010)
 		
 
 2.  Gerar e pagar o Boleto de Emolumentos dentro dos  prazos definidos no Edital da sua Rodada:
@@ -42,5 +42,6 @@
 	
 	4.4 Anexar os documentos complementares e informar os dados do emolumento, não esquecendo de anexar o comprovante do pagamento, bem como o comprovante de pagamento do lance vencedor.
 
-Observação Importante: 
-	O Protocolo Digital permitirá protocolizar o pré-requerimento apenas dentro dos prazos defindos no edital da Rodada. 
+OBSERVAÇÕES IMPORTANTES: 
+	- Ao finalizar a protocolização consulte se o seu processo foi gerado corretamente no SEI! da ANM. Caso apareça o documento intitulado "Erro" ao final do processo, não houve a finalização do requerimento, devendo ser repetidos os passos do item 4, acima.
+	- O Protocolo Digital permitirá protocolizar o pré-requerimento apenas dentro dos prazos definidos no edital da Rodada. 
