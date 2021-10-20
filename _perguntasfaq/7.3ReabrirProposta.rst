@@ -14,4 +14,4 @@ A funcionalidade de "Inscrição de Proposta" será habilitada novamente para en
 .. image:: ../imagens/7.3ReabrirPropostas2Reabrir.png
 
 IMPORTANTE: 1. O usuário poderá Inscrever proposta apenas nas áreas em que Manifestou Interesse durante a Fase de Oferta Pública do Edital. 
-            2. Após reabrir as propostas e fazer as alterações, lembre-se de "Finalizar" novamente para que suas propsotas estejam concorrendo. 
+            2. Após reabrir as propostas e fazer as alterações, lembre-se de "Finalizar" novamente para que suas propostas estejam concorrendo. 
