@@ -19,12 +19,6 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/3.4QualCertificadoDigital
    _perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR
    _perguntasfaq/3.6NaoTenhoCertificadoDigital
-
-.. toctree::
-   :maxdepth: 3
-   :caption: AValiação Social 
-   
-   _perguntasfaq/5.1DadosCadastrais
    
 .. toctree::
    :maxdepth: 3
@@ -39,6 +33,12 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/4.7SOPLEComoCancelarManifestacaoDeInteresse
    _perguntasfaq/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse
 
+.. toctree::
+   :maxdepth: 3
+   :caption: AValiação Social 
+   
+   _perguntasfaq/5.1DadosCadastrais
+   
 .. toctree::
    :maxdepth: 3
    :caption: Leilão - Proposta Fechada
