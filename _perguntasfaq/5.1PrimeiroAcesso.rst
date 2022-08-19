@@ -16,4 +16,5 @@ Nesta página deverá ser preenchido os seguintes quesitos:
 Somente após preencher todos os dados da página de modo devido, irá aparecer a opção de salvar.
 
 .. image:: ../imagens/salvar.png
- Assim dando acesso as demais areas do site.
+
+Assim dando acesso as demais areas do site.
