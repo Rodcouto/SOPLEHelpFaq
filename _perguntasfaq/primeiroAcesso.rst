@@ -1,0 +1,21 @@
+﻿Primeiro acesso?
+=============================================
+
+Ao informar o seu *login* e *senha* no portal **gov.br**, você será redirecionado para a pagina de informações gerais.  
+    
+Nesta página deverá ser preenchido os seguintes quesitos:
+
+	1. Nome completo e CPF;
+	2. Data de nascimento;  
+  3. Telefone para contato e E-mail.
+  4. Informar dados completos de endereço pessoal ou empresarial se for o caso;
+  5. Informar o seu tipo de perfil cadastral, sendo este garimpeiro ou minerador; 
+  6. Informar se faz este perfil em questão está vinculado a uma corporativa;
+
+.. image:: ../imagens/dadoscadastrais.png
+
+Somente após preencher todos os dados da página de modo devido, irá aparecer a opção de salvar.
+
+.. image:: ../imagens/Salvar%20alterações.png
+
+. Assim dando acesso ao restante do site;
