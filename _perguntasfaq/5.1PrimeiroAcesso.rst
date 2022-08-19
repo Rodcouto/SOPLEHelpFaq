@@ -13,9 +13,7 @@ Nesta página deverá ser preenchido os seguintes quesitos:
   6. Informar se faz este perfil em questão está vinculado a uma corporativa;
 
 .. image:: ../imagens/dadoscadastrais.png
-
 Somente após preencher todos os dados da página de modo devido, irá aparecer a opção de salvar.
 
 .. image:: ../imagens/salvar.png
-
  Assim dando acesso as demais areas do site.
