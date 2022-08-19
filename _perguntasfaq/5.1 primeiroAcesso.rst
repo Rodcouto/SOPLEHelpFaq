@@ -18,4 +18,4 @@ Somente após preencher todos os dados da página de modo devido, irá aparecer 
 
 .. image:: ../imagens/Salvar%20alterações.png
 
-. Assim dando acesso ao restante do site;
+  Assim dando acesso as demais areas do site.
