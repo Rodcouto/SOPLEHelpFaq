@@ -6,7 +6,7 @@ Acesse o endereço eletrônico:  https://sople.anm.gov.br
 Ao realizar a autenticação no sistema você será Direcionado para a tela de Dados cadastrais. 
 
 .. image:: ../imagens/3.0AcessoAoSOPLECadeado.png
-  1. Clique no cadeado no canto superior direito, para ter acesso ao gov.br. 
+Clique no cadeado no canto superior direito, para ter acesso ao gov.br. 
 
 .. image:: ../imagens/Screenshot_5.png
 Clique em entrar com gov.br. 
