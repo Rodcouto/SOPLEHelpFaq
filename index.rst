@@ -35,13 +35,12 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
 .. toctree::
    :maxdepth: 3
-   :caption: AValiação Social 
+   :caption: Avaliação Social 
    
    _perguntasfaq/5.0OqueEAvaliacaoSocial
    _perguntasfaq/5.1DadosCadastrais
    _perguntasfaq/5.2ManifestacaoInteresseAS
    _perguntasfaq/5.3ConsultaManifestacaoInteresseAS
-   _perguntasfaq/5.4ConsultaEventosAS
    
 .. toctree::
    :maxdepth: 3
