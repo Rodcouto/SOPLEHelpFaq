@@ -19,6 +19,7 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/3.4QualCertificadoDigital
    _perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR
    _perguntasfaq/3.6NaoTenhoCertificadoDigital
+   _perguntasfaq/3.7CadastroAvalialcaoSocial
    
 .. toctree::
    :maxdepth: 3
@@ -32,15 +33,19 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/4.6SOPLEComoReabrirManifestacaoDeInteresse
    _perguntasfaq/4.7SOPLEComoCancelarManifestacaoDeInteresse
    _perguntasfaq/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse
+   _perguntasfaq/4.9RegistrarInteresseAvaliacaoSocial
+   _perguntasfaq/4.10NovoVisualizarHistoricoManifestacoesDeInteresse
+   _perguntasfaq/4.11DeclaracaoDeInteresse
 
 .. toctree::
    :maxdepth: 3
    :caption: Avaliação Social 
    
    _perguntasfaq/5.0OqueEAvaliacaoSocial
-   _perguntasfaq/5.1DadosCadastrais
-   _perguntasfaq/5.2ManifestacaoInteresseAS
-   _perguntasfaq/5.3ConsultaManifestacaoInteresseAS
+   _perguntasfaq/3.7CadastroAvalialcaoSocial
+   _perguntasfaq/4.9RegistrarInteresseAvaliacaoSocial
+   _perguntasfaq/4.10NovoVisualizarHistoricoManifestacoesDeInteresse
+   _perguntasfaq/4.11DeclaracaoDeInteresse
    
 .. toctree::
    :maxdepth: 3
