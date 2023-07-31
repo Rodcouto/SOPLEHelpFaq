@@ -37,18 +37,19 @@
 	
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialProtocolo.png
 	
-3.  Protocolo Digital:
+
+3. Obtendo o boleto para a protocolizar a documentação:
+	O boleto de Emolumento que deverá acompanhar o “Requerimento de Lavra Garimpeira - Avaliação Social” é o tipo “2- REQUERIMENTO DE PERMISSÃO DE LAVRA GARIMPEIRA (E MUDANÇA DE REGIME PARA PLG)”, disponível na página da ANM no tópico Assuntos / Acesso aos Sistemas / Emissão de Boletos / Emolumentos, ou diretamente no link: https://sistemas.anm.gov.br/dipar_externo/cobranca/emolumentos.asp  
+		
+	.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialBoelto.png
+
+4.  Protocolo Digital:
 
 	Acesse o Protocolo Digital: https://app.anm.gov.br/SCA/Site/Login.aspx?ReturnUrl=https%3A%2F%2Fapp.anm.gov.br%2Fprotocolo
 
 	.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSocialLoginProtocolo.png
-
-	3.1 - Obtendo o boleto para a protocolizar a documentação:
-		O boleto de Emolumento que deverá acompanhar o “Requerimento de Lavra Garimpeira - Avaliação Social” é o tipo “2- REQUERIMENTO DE PERMISSÃO DE LAVRA GARIMPEIRA (E MUDANÇA DE REGIME PARA PLG)”, disponível na página da ANM no tópico Assuntos > Acesso aos Sistemas > Emissão de Boletos > Emolumentos, ou diretamente no link: https://sistemas.anm.gov.br/dipar_externo/cobranca/emolumentos.asp  
 		
-		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialBoelto.png
-		
-	3.2 - Realizar Protocolo
+	4.1 - Realizar Protocolo
 		
 		.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSociaProtolo.png
 		
@@ -56,16 +57,16 @@
 
 		Obs.: Neste momento existem uma série de validações que são realizadas que podem impedir que faça a realização do Protocolo Digital, para que não tenha problemas é de extrema importância que todos os dados informados no SCM estejam corretos e amparados pelas regras do Edital e normas vigentes.
 
-	3.3 - Preenchimento do Protocolo Digital:
+	4.2 - Preenchimento do Protocolo Digital:
 		Todos os campos destacados com * devem ser adicionado ao registro.
 		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialProtocoloDigital.png
 	
-	3.4 - Após preenchimento do protocolo o sistema apresenta os dados do que será prtocoloado e um Processo é gerado no SCM conluindo o requerimento da área.
+	4.3 - Após preenchimento do protocolo o sistema apresenta os dados do que será prtocoloado e um Processo é gerado no SCM conluindo o requerimento da área.
 		
-		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialTelaFinalizandoProtocolo.png
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialTelaFinalizandoProtocolo1.png
 	
-	3.5 - No SCM o novo processo da área terá o evento 333 - REQ PLG/REQUERIMENTO LAVRA GARIMPEIRA PROTOCOLIZADO
+	4.4 - No SCM o será criado um novo processo para área com o evento 333 - REQ PLG/REQUERIMENTO LAVRA GARIMPEIRA PROTOCOLIZADO e vinculado ao processo original.
 
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialResultadoFinalSCM.png
 
