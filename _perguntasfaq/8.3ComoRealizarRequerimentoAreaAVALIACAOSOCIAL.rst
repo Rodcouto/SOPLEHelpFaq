@@ -1,11 +1,11 @@
-﻿Como realizar o Requerimento de Área da Avaliação Social? 
+﻿Como realizar o Requerimento de Área da AVALIAÇÃO SOCIAL? 
 ====================================================
 
 1. Identificando no SOPLE se estou apto a fazer o requerimento de uma área:
 	Entre no edital onde participol e verifique o a "ATA DE FINALIZAÇÃO DE PROCEDIMENTOS" da avaliação social para identificar as áreas pelas quais tem direito ao requerimento.
 	
 2. AVALIAÇÃO SOCIAL - Requerimento de Lavra Garimpeira   
-	https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
+	Acesso o requerimento de Lavra Garimpeira - Avaliação Social: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
 	
 	Caso deseje navegar pelo sistema, o recurso está em Requerimentos / Complementar / Requerimento de Lavra Garimpeira - Avaliação Social
 		
@@ -13,19 +13,42 @@
 	
 	2.1 - Tela para preenchimento do Requerimento da área:
 	
-	.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialTela.png
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialTela.png
+	
 	
 	2.2 - Preenchimento do formulário para requerimento:
+
 		Ao realizar o preenchimento do Número do Processo, o sistema automaticamente irá resgatar as informações totais do Rumos da área, Títular do processo e Substância cadastrada.
 		Exemplo:
 		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialPreenchidoProcesso.png
-	
+		
 		Após preencha os dados do Representante, Requerente Legal, Responsável Técnico e Tipo de Propriedade do solo.
 
 		Obs.: Caso seja um garimpeiro o total da área não pode ultrapassar o tamanho de 50 Hectares e caso seja uma coperativa não pode ultrapassar o total de 200 Hectares.
-	
+
 	2.3 - Após o preenchimento o sistema apresenta a área solicitada para confirmação:
 	
-	.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialAreaSolicitada.png
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialAreaSolicitada.png
+	
+	2.4 - Ao confirmar o sistema o sistema transita para tela de informando o prozado do DNPM de 30 dias para a protocolização do requerimento.
+
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialGravacao.png
+	
+		Ao gravar o sistema gerá um código de requerimento e um Link para a seguêcia do processo no Protocolo Digital.
+	
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialProtocolo.png
+	
+3.  Protocolo Digital:
+
+	Acesse o Protocolo Digital: https://app.anm.gov.br/SCA/Site/Login.aspx?ReturnUrl=https%3A%2F%2Fapp.anm.gov.br%2Fprotocolo
+
+	1.1 - Realizar Protocolo
+		
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialGravacao.png
+		
+		Com o código gerado no SCM identifique o protoco que sera realizada a solicitação.
+
+		Obs.: Neste momento existem uma série de validações que são realizadas que podem impedir que faça a realização do Protocolo Digital, para que não tenha problemas é de estrama importancia que todos os dados informados no SCM estejam corretos.
+
 	
