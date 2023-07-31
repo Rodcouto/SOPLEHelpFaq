@@ -24,7 +24,8 @@
 		Após preencha os dados do Representante, Requerente Legal, Responsável Técnico e Tipo de Propriedade do solo.
 
 		Obs.: Caso seja um garimpeiro o total da área não pode ultrapassar o tamanho de 50 Hectares e caso seja uma coperativa não pode ultrapassar o total de 200 Hectares.
-
-	2.3 - Após o preenchimento o sistema apresenta a área solicitada para confirmação.
-		
-		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialAreaSolicitada.png
+	
+	2.3 - Após o preenchimento o sistema apresenta a área solicitada para confirmação:
+	
+	.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialAreaSolicitada.png
+	
