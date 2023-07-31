@@ -5,17 +5,20 @@
 	Entre no edital onde participol e verifique o a "ATA DE FINALIZAÇÃO DE PROCEDIMENTOS" da avaliação social para identificar as áreas pelas quais tem direito ao requerimento.
 	
 	1.1 - AVALIAÇÃO SOCIAL - Requerimento de Lavra Garimpeira   
-	    https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
+		https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
 	
 		Caso deseje navegar pelo sistema, o recurso está em Requerimentos / Complementar / Requerimento de Lavra Garimpeira - Avaliação Social
+		
 		.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSocial.png
 	
 2. Tela para preenchimento do Requerimento da área:
+	
 	.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialTela.png
 	
 	2.1 - Preenchimento do formulário para requerimento:
 		Ao realizar o preenchimento do Número do Processo, o sistema automaticamente irá resgatar as informações totais do Rumos da área, Títular do processo e Substância cadastrada.
 		Exemplo:
+		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialPreenchidoProcesso.png
 	
 		Após preencha os dados do Representante, Requerente Legal, Responsável Técnico e Tipo de Propriedade do solo.
@@ -23,4 +26,5 @@
 		Obs.: Caso seja um garimpeiro o total da área não pode ultrapassar o tamanho de 50 Hectares e caso seja uma coperativa não pode ultrapassar o total de 200 Hectares.
 
 	2.2 - Após o preenchimento o sistema apresenta a área solicitada para confirmação.
+		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialAreaSolicitada
