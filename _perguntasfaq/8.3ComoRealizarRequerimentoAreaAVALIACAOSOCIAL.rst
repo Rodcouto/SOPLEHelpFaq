@@ -4,18 +4,18 @@
 1. Identificando no SOPLE se estou apto a fazer o requerimento de uma área:
 	Entre no edital onde participol e verifique o a "ATA DE FINALIZAÇÃO DE PROCEDIMENTOS" da avaliação social para identificar as áreas pelas quais tem direito ao requerimento.
 	
-	1.1 - AVALIAÇÃO SOCIAL - Requerimento de Lavra Garimpeira   
-		https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
+2. AVALIAÇÃO SOCIAL - Requerimento de Lavra Garimpeira   
+	https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
 	
-		Caso deseje navegar pelo sistema, o recurso está em Requerimentos / Complementar / Requerimento de Lavra Garimpeira - Avaliação Social
+	Caso deseje navegar pelo sistema, o recurso está em Requerimentos / Complementar / Requerimento de Lavra Garimpeira - Avaliação Social
 		
-		.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSocial.png
+	.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSocial.png
 	
-2. Tela para preenchimento do Requerimento da área:
+	2.1 - Tela para preenchimento do Requerimento da área:
 	
 	.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialTela.png
 	
-	2.1 - Preenchimento do formulário para requerimento:
+	2.2 - Preenchimento do formulário para requerimento:
 		Ao realizar o preenchimento do Número do Processo, o sistema automaticamente irá resgatar as informações totais do Rumos da área, Títular do processo e Substância cadastrada.
 		Exemplo:
 		
@@ -25,6 +25,6 @@
 
 		Obs.: Caso seja um garimpeiro o total da área não pode ultrapassar o tamanho de 50 Hectares e caso seja uma coperativa não pode ultrapassar o total de 200 Hectares.
 
-	2.2 - Após o preenchimento o sistema apresenta a área solicitada para confirmação.
+	2.3 - Após o preenchimento o sistema apresenta a área solicitada para confirmação.
 		
-		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialAreaSolicitada
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialAreaSolicitada.png
