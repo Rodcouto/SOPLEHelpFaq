@@ -50,7 +50,7 @@
 		
 	3.2 - Realizar Protocolo
 		
-		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialGravacao.png
+		.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSociaProtolo.png
 		
 		Com o código gerado no SCM identifique o protoco que sera realizada a solicitação.
 
