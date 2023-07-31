@@ -5,7 +5,7 @@
 	Entre no edital onde participol e verifique o a "ATA DE FINALIZAÇÃO DE PROCEDIMENTOS" da avaliação social para identificar as áreas pelas quais tem direito ao requerimento.
 	
 2. AVALIAÇÃO SOCIAL - Requerimento de Lavra Garimpeira   
-	Acesso o requerimento de Lavra Garimpeira - Avaliação Social: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
+	Acesso ao requerimento de Lavra Garimpeira - Avaliação Social: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
 	
 	Caso deseje navegar pelo sistema, o recurso está em Requerimentos / Complementar / Requerimento de Lavra Garimpeira - Avaliação Social
 		
@@ -43,7 +43,7 @@
 
 	Acesse o Protocolo Digital: https://app.anm.gov.br/SCA/Site/Login.aspx?ReturnUrl=https%3A%2F%2Fapp.anm.gov.br%2Fprotocolo
 
-	1.1 - Realizar Protocolo
+	3.1 - Realizar Protocolo
 		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialGravacao.png
 		
@@ -51,4 +51,16 @@
 
 		Obs.: Neste momento existem uma série de validações que são realizadas que podem impedir que faça a realização do Protocolo Digital, para que não tenha problemas é de estrama importancia que todos os dados informados no SCM estejam corretos.
 
+	3.2 - Preenchimento do Protocolo Digital:
+		Todos os campos destacados com * devem ser adicionado ao registro.
+		
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialProtocoloDigital.png
 	
+	3.3 - Após preenchimento do protocolo o sistema apresenta os dados do que será prtocoloado e um Processo é gerado no SCM conluindo o requerimento da área.
+		
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialTelaFinalizandoProtocolo.png
+	
+	3.4 - No SCM o novo processo da área terá o evento 333 - REQ PLG/REQUERIMENTO LAVRA GARIMPEIRA PROTOCOLIZADO
+
+		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialResultadoFinalSCM.png
+
