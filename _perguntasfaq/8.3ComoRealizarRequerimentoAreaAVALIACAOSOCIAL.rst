@@ -1,8 +1,8 @@
 ﻿Como realizar o Requerimento de Disponibilidade de Área da OFERTA PÚBLICA e AVALIAÇÃO SOCIAL para Permissão de Lavra Garimpeira (PLG)? 
 ====================================================
 
-1. Identificando no SOPLE se estou apto a fazer o requerimento de uma área:
-	Entre no edital que está participando e verifique o resultado apresentado no “TERMO DE HOMOLOGAÇÃO E ADJUDICAÇÃO” da avaliação social para identificar as áreas pelas quais tem direito ao requerimento. 
+1. Identificando no SOPLE se estou apto a fazer o requerimento de uma área :
+	Entre no edital que está participando e verifique o resultado apresentado no “TERMO DE HOMOLOGAÇÃO E ADJUDICAÇÃO” da oferta pública e avaliação social para identificar as áreas pelas quais tem direito ao requerimento. 
 	
 2. Onde encontrar o respectivo requerimento de disponibilidade de PLG para Oferta Pública e Avaliação Social previsto no Edital? E como preencher? 
 	Acesso ao requerimento de Lavra Garimpeira - Avaliação Social: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
@@ -11,21 +11,22 @@
 		
 	.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSocial.png
 	
-	2.1 - Tela para preenchimento do Requerimento da área:
+
+	2.1 - Tela para preenchimento do Requerimento da área :
 	
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialTela.png
 	
 	
-	2.2 - Preenchimento do formulário para requerimento:
+	2.2 - Preenchimento do formulário para requerimento :
 
 		Os campos “Requerente”, “Responsável Técnico” e “Tipo de Propriedade do solo” são obrigatórios, enquanto o campo “Representante Legal” é opcional seu preenchimento. No campo “Requerente” deve ser informado o CPF ou CNPJ do Participante vencedor da ÁREA por oferta pública ou avaliação social. Em seguida deve realizar o preenchimento do “Número do Processo”, correspondente a ÁREA conquistada, apresentado nos documentos do SOPLE. Após o preenchimento e clique em “Consulta”, o sistema automaticamente irá resgatar as informações originais do processo, tais como as “Substâncias”, as “Coordenadas da Poligonal” e o “Titular do processo”. 
 		Exemplo: 
 		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialPreenchidoProcesso.png
 		
-        * Atenção! Caso a área conquistada seja parcial, o interessado deve promover ajustes no preenchimento do sistema, para que o total requerido tenha o total de hectares da ÁREA conquistada no Edital, sob pena de indeferimento. Além de atenção ao ajuste nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da substância e ao tipo de propriedade do solo, para que corresponda ao seu projeto e aos documentos que serão protocolados em anexo. 
+        Atenção! Caso a área conquistada seja parcial, o interessado deve promover ajustes no preenchimento das coordenadas, para que o total requerido seja igual ao total de hectares da ÁREA conquistada no Edital, sob pena de indeferimento. Além de ajustes nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da substância e ao tipo de propriedade do solo, para que corresponda ao seu projeto e aos documentos que serão protocolados em anexo. 
 
-	2.3 - Após o preenchimento o sistema apresenta a área solicitada para confirmação:
+	2.3 - Após o preenchimento o sistema apresenta a área solicitada para confirmação :
 	
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialAreaSolicitada.png
 	
@@ -38,18 +39,20 @@
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialProtocolo.png
 	
 
-3. Obtendo o boleto para a protocolizar a documentação:
+3. Obtendo o boleto para a protocolizar a documentação :
 	O boleto de Emolumento que deverá acompanhar o “Requerimento de Lavra Garimpeira - Avaliação Social” é o tipo “2- REQUERIMENTO DE PERMISSÃO DE LAVRA GARIMPEIRA (E MUDANÇA DE REGIME PARA PLG)”, disponível na página da ANM no tópico Assuntos / Acesso aos Sistemas / Emissão de Boletos / Emolumentos, ou diretamente no link: https://sistemas.anm.gov.br/dipar_externo/cobranca/emolumentos.asp  
 		
 	.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialBoelto.png
+	
+	Observação: Os valores de emolumentos dos requerimentos são atualizados periodicamente pela ANM em Resolução específica, sendo a tela acima meramente ilustrativa. 
 
-4.  Protocolo Digital:
+4.  Protocolo Digital :
 
 	Acesse o Protocolo Digital: https://app.anm.gov.br/SCA/Site/Login.aspx?ReturnUrl=https%3A%2F%2Fapp.anm.gov.br%2Fprotocolo
 
 	.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSocialLoginProtocolo.png
 		
-	4.1 - Realizar Protocolo
+	4.1 - Realizar Protocolo :
 		
 		.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSociaProtolo.png
 		
@@ -57,16 +60,21 @@
 
 		Obs.: Neste momento existem uma série de validações que são realizadas que podem impedir que faça a realização do Protocolo Digital, para que não tenha problemas é de extrema importância que todos os dados informados no SCM estejam corretos e amparados pelas regras do Edital e normas vigentes.
 
-	4.2 - Preenchimento do Protocolo Digital:
-		Todos os campos destacados com * devem ser adicionado ao registro.
+	4.2 - Preenchimento do Protocolo Digital :
 		
+		Todos os campos destacados com * devem ser adicionados ao registro. 
+
+		Os interessados, Participantes Pessoa Física ou Cooperativas, deve ter atenção especial na anexação de comprovantes das informações declaradas nas manifestações de registro no Sistema SOPLE, sob pena de indeferimento de seu pedido. A documentação anexada é a exigida no Edital, na Portaria de Consolidação Normativa DNPM nº 155/2016, e nas legislações complementares, tais como: Comprovante da data de nascimento, Acordo com o superficiário, Número de Cooperados, Comprovante do RAL, Declaração de não condenação por crimes ambientais, e Registro na Organização das Cooperativas do Brasil (OCB), dentre outros. 
+
+		Os documentos anexados no protocolo devem comprovar os itens pontuados na Avaliação Social pelo interessado, conforme regras do Edital. 
+
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialProtocoloDigital.png
 	
 	4.3 - Após preenchimento do protocolo o sistema apresenta os dados do que será prtocoloado e um Processo é gerado no SCM conluindo o requerimento da área.
 		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialTelaFinalizandoProtocolo1.png
 	
-	4.4 - No SCM o será criado um novo processo para área com o evento 333 - REQ PLG/REQUERIMENTO LAVRA GARIMPEIRA PROTOCOLIZADO e vinculado ao processo original.
+	4.4 - Após confirmar, o sistema cria um Processo no SCM e no Sistema SEI. Com isso o procedimento é concluído com sucesso, sendo criado um novo Processo com o evento 333 - REQ PLG/REQUERIMENTO LAVRA GARIMPEIRA PROTOCOLIZADO, vinculado ao processo original posto em disponibilidade, que será analisado pela equipe de outorga com base nas regras do Edital e demais legislações complementares.
 
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialResultadoFinalSCM.png
 
