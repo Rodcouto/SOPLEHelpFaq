@@ -1,0 +1,24 @@
+﻿Quais documentos são essenciais para anexação junto com o protocolo do Requerimento de Disponibilidade de Área da OFERTA PÚBLICA e AVALIAÇÃO SOCIAL para Permissão de Lavra Garimpeira (PLG)?
+====================================================
+
+1. Os principais documentos a serem apresentados estão classificados em quatro tabelas, de acordo com o vencedor, se pessoa física ou cooperativa, e se a área foi conquista por oferta pública ou avaliação social:
+	
+	Alertamos que esta ajuda tem como objetivo auxiliar os interessados especificamente nas regras do Edital nº 01/2022 e nos regulamentos da Portaria de Consolidação Normativa DNPM nº 155 de 2016 na data de 31/07/2023. Ressalvamos que a legislação infralegal e o Edital podem ser alterados pela ANM, se devidamente justificados e após o devido processo regulatório, cabendo atenção dos interessados para evitar o indeferimento de seu requerimento.
+	
+	Dessa forma, apresentamos a listagem de documentos, de acordo com o tipo de Participante vencedor e modelo de conquista da área:
+
+	A. Pessoa Física – Oferta Pública
+
+		.. image:: ../imagens/8.4PessoaFisicaOfertaPublica.png
+	
+	B. Cooperativa – Oferta Pública
+		
+		.. image:: ../imagens/8.4CoperativaOfertaPublica.png
+
+	C. Pessoa Física – Avaliação Social
+
+		.. image:: ../imagens/8.4PessoaFisicaAvaliacaoSicial.png
+
+	D. Cooperativa – Avaliação Social
+
+		.. image:: ../imagens/8.4CoperativaAvaliacaoSicial.png
