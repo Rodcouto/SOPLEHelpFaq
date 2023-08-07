@@ -27,7 +27,15 @@
 		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialPreenchidoProcesso.png
 		
-        Atenção! Caso a área conquistada seja parcial, o interessado deve promover ajustes no preenchimento das coordenadas, para que o total requerido seja igual ao total de hectares da ÁREA conquistada no Edital, sob pena de indeferimento. Além de ajustes nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da substância e ao tipo de propriedade do solo, para que corresponda ao seu projeto e aos documentos que serão protocolados em anexo. 
+        Atenção ao preenchimento e a forma de requerer a poligonal da área conquistada. A protocolização de requerimentos poderá ser de tamanho (em hectares) igual ou inferior ao tamanho da área conquistada contida no Termo de Homologação e Adjudicação (Documento SEI 8518239 e SOPLE). Destaca-se que a parte da área conquistada não requerida será considerada livre a partir de 31/08/2023, o dia útil subsequente ao prazo final de requerimento. 
+		
+		É facultado ao requerente realizar a protocolização de mais de um requerimento relacionado a área conquistada, sendo que todos os requerimentos deverão ser realizados em nome da Cooperativa Participante vencedora e a soma dos tamanhos (em hectares) dos requerimentos realizados deverá ser, no máximo, igual ao tamanho da área conquistada contida no Termo de Homologação e Adjudicação (Documento SEI 8518239 e SOPLE).
+		
+		Não é admitido mais de um título de permissão de lavra garimpeira para Garimpeiro Participante, Pessoa Física, portanto, a regra de protocolização de mais de um requerimento não é válida nessa situação. Inclusive alertamos sobre a necessidade de desistência de título anterior, caso o Participante Garimpeiro Pessoa Física deseje protocolar requerimento para a área conquistada, conforme item 7.5, 8.4 e 12.1.4 do Edital nº 1/2022 – 6ª Rodada de Disponibilidade de Áreas.
+		
+		Alertamos que as alternativas de protocolização de requerimentos indicados nos parágrafos anteriores, referente as áreas conquistadas na etapa de Avaliação Social, não alteram a obrigatoriedade de comprovação das informações declaradas pelos próprios participantes na respectiva manifestação de interesse, conforme item 9.1.4 do Edital nº 1/2022 – 6ª Rodada de Disponibilidade de Áreas.
+		
+		Além de ajustes nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da substância e ao tipo de propriedade do solo, para que corresponda ao seu projeto e aos documentos que serão protocolados em anexo.
 
 	2.3 - Após o preenchimento o sistema apresenta a área solicitada para confirmação:
 	
