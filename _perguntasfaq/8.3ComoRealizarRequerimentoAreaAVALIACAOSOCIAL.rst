@@ -27,7 +27,7 @@
 		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialPreenchidoProcesso.png
 		
-        Atenção ao preenchimento e a forma de requerer a poligonal da área conquistada. A protocolização de requerimentos poderá ser de tamanho (em hectares) igual ou inferior ao tamanho da área conquistada contida no Termo de Homologação e Adjudicação (Documento SEI 8518239 e SOPLE). Destaca-se que a parte da área conquistada não requerida será considerada livre a partir de 31/08/2023, o dia útil subsequente ao prazo final de requerimento. 
+		Atenção ao preenchimento e a forma de requerer a poligonal da área conquistada. A protocolização de requerimentos poderá ser de tamanho (em hectares) igual ou inferior ao tamanho da área conquistada contida no Termo de Homologação e Adjudicação (Documento SEI 8518239 e SOPLE). Destaca-se que a parte da área conquistada não requerida será considerada livre a partir de 31/08/2023, o dia útil subsequente ao prazo final de requerimento.
 		
 		É facultado ao requerente realizar a protocolização de mais de um requerimento relacionado a área conquistada, sendo que todos os requerimentos deverão ser realizados em nome da Cooperativa Participante vencedora e a soma dos tamanhos (em hectares) dos requerimentos realizados deverá ser, no máximo, igual ao tamanho da área conquistada contida no Termo de Homologação e Adjudicação (Documento SEI 8518239 e SOPLE).
 		
