@@ -39,6 +39,14 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
 .. toctree::
    :maxdepth: 3
+   :caption: Leilão - Proposta Fechada
+
+   _perguntasfaq/7.1EncontrandoOLeilao
+   _perguntasfaq/7.2InscricaoProposta
+   _perguntasfaq/7.3ReabrirProposta
+   
+.. toctree::
+   :maxdepth: 3
    :caption: Avaliação Social 
    
    _perguntasfaq/5.0OqueEAvaliacaoSocial
@@ -46,14 +54,6 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/4.9RegistrarInteresseAvaliacaoSocial
    _perguntasfaq/4.10NovoVisualizarHistoricoManifestacoesDeInteresse
    _perguntasfaq/4.11DeclaracaoDeInteresse
-   
-.. toctree::
-   :maxdepth: 3
-   :caption: Leilão - Proposta Fechada
-
-   _perguntasfaq/7.1EncontrandoOLeilao
-   _perguntasfaq/7.2InscricaoProposta
-   _perguntasfaq/7.3ReabrirProposta
 
 .. toctree::
    :maxdepth: 3

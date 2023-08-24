@@ -1,7 +1,7 @@
 ﻿Segui as orientações, mas ainda não foi possível acessar o SOPLE. Com quem posso falar?
 ====================================================================================================
 
-Se não foi possível acessar o SOPLE da ANM, e as orientações constantes no FAQ, no site e nas apresentações não foram suficientes, registre uma solicitação através de um dos canais de atendimento da ANM descritos no lin:
+Se não foi possível acessar o SOPLE da ANM, e as orientações constantes no FAQ, no site e nas apresentações não foram suficientes, registre uma solicitação através de um dos canais de atendimento da ANM descritos no link:
 
 Canais de Atendimento ANM: 
 https://www.gov.br/anm/pt-br/canais_atendimento 
