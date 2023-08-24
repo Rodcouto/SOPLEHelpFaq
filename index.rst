@@ -49,7 +49,7 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    
    _perguntasfaq/5.0OqueEAvaliacaoSocial
    _perguntasfaq/3.7CadastroAvalialcaoSocial
-   _perguntasfaq/4.9RegistrarInteresseAvaliacaoSocial
+   _perguntasfaq/9.RegistrarInteresseAvaliacaoSocial
    _perguntasfaq/4.10NovoVisualizarHistoricoManifestacoesDeInteresse
    _perguntasfaq/4.11DeclaracaoDeInteresse
 
