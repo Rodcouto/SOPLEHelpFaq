@@ -1,5 +1,9 @@
-﻿Como saber quais áreas estão disponíveis no Edital?
-==================================================
+﻿Perguntas frequêntes sobre o processo de Manifestação de Interesse
+==================================================================
+Nesse tópico estão reunidas as perguntas mais frequentes sobre o processo de Manifestação de Interesse nas áreas do Leilão.
+
+Como saber quais áreas estão disponíveis no Edital?
+###################################################
 Atualmente o sistema permite encotnrar as áreas que estão disponiveis para o edital atráves do caminho Portal Público - Oportunidades / Detalhes / no card de **Planejamento** pelo link **Áreas da Rodada**.
 
 **Portal Público - Informações do Edital**
@@ -11,3 +15,16 @@ A página de Detalhes do Edital de oferta pública exibe informações básicas 
 Além destas informações, são listadas as áreas contidas neste edital.
  
 .. image:: ../imagens/4.2PortalPublicodeAcessandoDetalhesEdital.png
+
+Como ver os Detalhes das Áreas no Portal Público?
+###################################################
+
+Em cada área vinculada ao edital através dos cards, o sistema apresenta um ícone **"(?)"** que é um link para mais detalhes da área.
+
+.. image:: ../imagens/4.2DetalhesDaArea.png
+
+Da mesma forma que a lista de áreas, aqui são exibidas as informações sobre cada área em Oferta Pública como, Número do Processo (NUP) da área no SEI, Número do Processo Minerário, Área da Poligonal, Estado (UF) e Município na qual a área se encontra e o Regime de Disponibilidade. 
+
+Clicando no Número do Processo Minerário o usuário será redirecionado para a página de Consulta do Cadastro Mineiro, na qual poderá informar o número do processo e consultar mais informações sobre o processo minerário relacionado a esta área. 
+
+.. image:: ../imagens/4.2PortalPublicoDetalhesDeAreas.png
