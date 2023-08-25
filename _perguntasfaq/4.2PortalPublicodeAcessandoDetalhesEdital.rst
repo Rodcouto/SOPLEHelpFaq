@@ -1,8 +1,9 @@
 ﻿Como saber quais áreas estão disponíveis no Edital?
 ==================================================
-Atualmente o sistema permite encotnrar as áreas que estão disponiveis para o edital atráves do caminho Portal Públic - Oportunidades / Detalhes / no card de **Planejamento** pelo link do card **Áreas da Rodada**.
+Atualmente o sistema permite encotnrar as áreas que estão disponiveis para o edital atráves do caminho Portal Público - Oportunidades / Detalhes / no card de **Planejamento** pelo link do card **Áreas da Rodada**.
 
 **Portal Público - Informações do Edital**
+
 .. image:: ../imagens/4.2CaminhoAcessoItensEdital.png
 
 
