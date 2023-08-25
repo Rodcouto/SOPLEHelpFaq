@@ -25,6 +25,60 @@ Em cada área vinculada ao edital através dos cards, o sistema apresenta um íc
 
 Da mesma forma que a lista de áreas, aqui são exibidas as informações sobre cada área em Oferta Pública como, Número do Processo (NUP) da área no SEI, Número do Processo Minerário, Área da Poligonal, Estado (UF) e Município na qual a área se encontra e o Regime de Disponibilidade. 
 
-Clicando no Número do Processo Minerário o usuário será redirecionado para a página de Consulta do Cadastro Mineiro, na qual poderá informar o número do processo e consultar mais informações sobre o processo minerário relacionado a esta área. 
-
 .. image:: ../imagens/4.2PortalPublicoDetalhesDeAreas.png
+
+Clicando no Número do Processo Minerário o usuário será redirecionado para a página de Consulta do Cadastro Mineiro, na qual poderá informar o número do processo e consultar mais informações sobre o processo minerário relacionado a esta área.     
+
+Como acessar o Registro de Interesse?
+###################################################
+
+O Registro de Interesse é a fase do edital onde fica disponível para os mineiradores indicarem o interesse nas áreas disponibilidas no edital.
+Existem duas maneiras para o registro de interesse em uma área, sendo pelo Portal Público e pelo Portal do Mineirador.
+
+Portal Público 
+***************
+Em Portal Público - Oportunidades / Detalhes / no card de **Oferta Pública** pelo link **Registrar Interesse**.
+
+.. image:: ../imagens/4.2EditalRegistroInteresse.png
+
+Ao clicar caso não tenha efetuado o login de acesso no sistema, será solicitado ao usuário realizar a autenticação (login) no Sistema SOPLE.
+
+O usuário interessado deve realizar a autenticação no Sistema Escolhendo a opção "ENTRAR COM GOV.BR", conforme imagem abaixo.
+
+.. image:: ../imagens/4.2SOPLEComoRegistrarManifestacaoDeInteresseEmAreas.png
+
+Portal do Mineirador
+********************
+
+- Caso não esteja logado:
+
+Ao entrar no SOPLE e efetrar o login através do ícone de "cadeado" no topo da tela.
+Efetuado o login de acesso no sistema, será solicitado ao usuário realizar a autenticação (login) no Sistema SOPLE.
+
+.. image:: ../imagens/4.2Login.png
+
+- Caso esteja logado:
+
+Clique no nome no topo da tela e em seguida em Portal.
+
+.. image:: ../imagens/4.2AcessoPortalMineirador.png
+
+- Em seguida será redirecionado a tela de **Tarefas** do mineirador, nela caso exista um edital na fase de Registro de interesse, será apresentada a opção **Registro de Interesse** com todos os editais nesta fase.
+
+.. image:: ../imagens/4.2PortalMineiradorTarefasRegistroInteresse.png
+
+Como Registrar Manifestação de Interesse em Áreas?
+###################################################
+
+Nesta página são exibidas as áreas para que o usuário selecione as de seu interesse, conforme imagem a seguir.    
+
+.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas1SelecaoDeareas.png
+
+O usuário deve clicar em "Registrar o Interesse" e o sistema registrará a Manifestação de Interesse para todas as áreas selecionadas. Nessa etapa, não é cobrado nenhuma taxa ou emolumento, mas se houver mais de um interessado na mesma área, essa irá para leilão.
+
+.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas2RegistrarInteresse.png
+
+IMPORTANTE: Após Registrar a Manifestação de Interesse nas áreas o usuário deve clicar em "Finalizar", para Concluir o Registro da Manifestação de Interesse nas áreas Selecionadas. Conforme Imagem abaixo.
+  
+.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas3Finalizar.png
+
