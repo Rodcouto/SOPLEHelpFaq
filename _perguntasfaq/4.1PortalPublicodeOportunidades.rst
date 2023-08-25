@@ -10,19 +10,19 @@ Painel Público de Oportunidades
   Clicando na imagem com um "i" serão exibidas as informações do edital e ao clicar no ícone do "folheto" serão exibidos os documentos do processo.  
   Conforme Imagem a seguir.
   
-.. image:: ../imagens/4.1PortalPublicodeOportunidades1.png
+  .. image:: ../imagens/4.1PortalPublicodeOportunidades1.png
 
   Informações do Edital
-.. image:: ../imagens/4.1InformacoesDoEdital.png
+  .. image:: ../imagens/4.1InformacoesDoEdital.png
 
   1. Detalhes do edital, onde estão as informações relevantes da documentação e em que situação se encontra.
-.. image:: ../imagens/4.1Detalhes.png
+  .. image:: ../imagens/4.1Detalhes.png
 
   2. Botões de ação, que são atalhos para recursos do edital.
-.. image:: ../imagens/4.1Acoes.png
+  .. image:: ../imagens/4.1Acoes.png
 
   3. Fases do edital
-.. image:: ../imagens/4.1Fases.png  
+  .. image:: ../imagens/4.1Fases.png  
 
   Cada fase apresentada tem uma período definido que indica sua vigência e links que são habilitados durante esse período.
 
