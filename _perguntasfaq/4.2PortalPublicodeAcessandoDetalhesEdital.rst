@@ -1,6 +1,6 @@
 ﻿Como saber quais áreas estão disponíveis no Edital?
 ==================================================
-Atualmente o sistema permite encotnrar as áreas que estão disponiveis para o edital atráves do caminho Portal Público - Oportunidades / Detalhes / no card de **Planejamento** pelo link do card **Áreas da Rodada**.
+Atualmente o sistema permite encotnrar as áreas que estão disponiveis para o edital atráves do caminho Portal Público - Oportunidades / Detalhes / no card de **Planejamento** pelo link **Áreas da Rodada**.
 
 **Portal Público - Informações do Edital**
 
@@ -8,7 +8,6 @@ Atualmente o sistema permite encotnrar as áreas que estão disponiveis para o e
 
 
 A página de Detalhes do Edital de oferta pública exibe informações básicas do Edital, como Objeto, a Modalidade, o Número do Processo SEI (NUP) e o Número do Edital. 
-
 Além destas informações, são listadas as áreas contidas neste edital.
  
 .. image:: ../imagens/4.2PortalPublicodeAcessandoDetalhesEdital.png
