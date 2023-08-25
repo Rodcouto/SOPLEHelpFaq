@@ -1,50 +1,56 @@
 Painel Público de Oportunidades
 =============================================
 
-  Acesse o endereço https://sople.anm.gov.br; 
-  
-  A página exibida é o Painel Público de Oportunidades do SOPLE. 
-  Esta página exibe a lista de Editais nos quais existem áreas 
-  em Oferta Pública e/ou em Leilão. 
+Acesse o endereço https://sople.anm.gov.br; 
 
-  Clicando na imagem com um "i" serão exibidas as informações do edital e ao clicar no ícone do "folheto" serão exibidos os documentos do processo.  
-  Conforme Imagem a seguir.
-  
-  .. image:: ../imagens/4.1PortalPublicodeOportunidades1.png
+A página exibida é o Painel Público de Oportunidades do SOPLE. 
+Esta página exibe a lista de Editais nos quais existem áreas 
+em Oferta Pública e/ou em Leilão. 
 
-  Informações do Edital
-  .. image:: ../imagens/4.1InformacoesDoEdital.png
+Clicando na imagem com um "i" serão exibidas as informações do edital e ao clicar no ícone do "folheto" serão exibidos os documentos do processo.  
+Conforme Imagem a seguir.
 
-  1. Detalhes do edital, onde estão as informações relevantes da documentação e em que situação se encontra.
-  .. image:: ../imagens/4.1Detalhes.png
+.. image:: ../imagens/4.1PortalPublicodeOportunidades1.png
 
-  2. Botões de ação, que são atalhos para recursos do edital.
-  .. image:: ../imagens/4.1Acoes.png
+Informações do Edital
+#####################
 
-  3. Fases do edital
-  .. image:: ../imagens/4.1Fases.png  
+.. image:: ../imagens/4.1InformacoesDoEdital.png
 
-  Cada fase apresentada tem uma período definido que indica sua vigência e links que são habilitados durante esse período.
+1. Detalhes do edital, onde estão as informações relevantes da documentação e em que situação se encontra.
 
-  Definição das fases:
+.. image:: ../imagens/4.1Detalhes.png
 
-    - Planejamento
-    Fase em que o edital está sendo elaborado pelos analistas da ANM, onde são validadas as áreas que participaram do leilão.
+2. Botões de ação, que são atalhos para recursos do edital.
 
-    - Oferta Pública
-    Fase em que é disponibilizada a todos as áreas para "Registro de interesse".
+.. image:: ../imagens/4.1Acoes.png
 
-    - Leilão - Proposta Fechada
-    Fase em para disputa entre os interessados pelas áreas que tem mais de um registro de interesse.
+3 . Fases do edital
 
-    - Recursos Administrativos
-    Fase onde serão disponibilizados formulários para solicitações que serão analisadas pela ANM.
+.. image:: ../imagens/4.1Fases.png  
 
-    - Homologação e Adjudicação
-    Fase em que serão validados todos os resultados apurados nas fases do leilão para a validação dos ganhadores e áreas.
+Cada fase apresentada tem uma período definido que indica sua vigência e links que são habilitados durante esse período.
 
-    - Requerimentos
-    Fase em que será disponibilizado o requerimento das áreas conquistadas.
+Definição das fases:
+#####################
 
-    - Sanções
-    Fase em que serão realizada a notificações de infrações e penalidades decorrentes do leilão.
+- Planejamento
+Fase em que o edital está sendo elaborado pelos analistas da ANM, onde são validadas as áreas que participaram do leilão.
+
+- Oferta Pública
+Fase em que é disponibilizada a todos as áreas para "Registro de interesse".
+
+- Leilão - Proposta Fechada
+Fase em para disputa entre os interessados pelas áreas que tem mais de um registro de interesse.
+
+- Recursos Administrativos
+Fase onde serão disponibilizados formulários para solicitações que serão analisadas pela ANM.
+
+- Homologação e Adjudicação
+Fase em que serão validados todos os resultados apurados nas fases do leilão para a validação dos ganhadores e áreas.
+
+- Requerimentos
+Fase em que será disponibilizado o requerimento das áreas conquistadas.
+
+- Sanções
+Fase em que serão realizada a notificações de infrações e penalidades decorrentes do leilão.
