@@ -71,14 +71,15 @@ Como Registrar Manifestação de Interesse em Áreas?
 ###################################################
 
 Nesta página são exibidas as áreas para que o usuário selecione as de seu interesse, conforme imagem a seguir.    
+Obs.: Áreas com o status Removida, Retirada e Suspensa não podem receber interesse.
 
-.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas1SelecaoDeareas.png
+.. image:: ../imagens/4.2SOPLEComoRegistrarManifestacaoDeInteresseEmAreas1SelecaoDeareas.png
 
-O usuário deve clicar em "Registrar o Interesse" e o sistema registrará a Manifestação de Interesse para todas as áreas selecionadas. Nessa etapa, não é cobrado nenhuma taxa ou emolumento, mas se houver mais de um interessado na mesma área, essa irá para leilão.
+Caso o usuário clique no link "Registrar interesse" a área já vai estar vinculada ao interesse faltando somente a finalização, mas caso clique no checkbox do card, o botão "REGISTRAR INTERESSE" será habitado para que confirme a ação.
 
-.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas2RegistrarInteresse.png
+.. image:: ../imagens/4.2SOPLEComoRegistrarManifestacaoDeInteresseEmAreas2RegistrarInteresse.png
 
 IMPORTANTE: Após Registrar a Manifestação de Interesse nas áreas o usuário deve clicar em "Finalizar", para Concluir o Registro da Manifestação de Interesse nas áreas Selecionadas. Conforme Imagem abaixo.
   
-.. image:: ../imagens/4.4SOPLEComoRegistrarManifestacaoDeInteresseEmAreas3Finalizar.png
+.. image:: ../imagens/4.2SOPLEComoRegistrarManifestacaoDeInteresseEmAreas3Finalizar.png
 
