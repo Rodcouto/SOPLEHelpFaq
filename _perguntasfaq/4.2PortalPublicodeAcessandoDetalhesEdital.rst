@@ -120,7 +120,7 @@ O documento será apresentado no seguinte modelo:
 - **Veja que em destaque estão:**
     QR Code
     Empresa e hora de emissão do documento
-    Identificador único do documenti composto de ID + código
+    Identificador único do documento composto de ID + código
 
 2. Para acessar o validador entre no Portal Público e acesse o menu "Autenticar Documento", para acessar está tela e realizar a validação do documento não é necessário estar logado no sistema.
 
@@ -133,3 +133,31 @@ Neste recurso é possível validar o documento fazendo o Upload do mesmo ou info
 Caso o documento seja válido será apresentada uma mensagem como a seguir, que garante a autenticidade do processo.
 
 .. image:: ../imagens/4.2DocumentoValidoFaseRegistroInteresse.png
+
+Como Reabrir Minha Manifestação de Interesse?
+##############################################
+
+A funcionalidade de Reabrir Manifestação de interesse fica disponível após "Finalizar" a Manifestação de Interesse. 
+    
+Esta funcionalidade é utilizada nos casos em que o usuário já "Finalizou" a sua Manifestação de Interesse mas deseja alterá-la:
+
+	1. Para acrescentar novas áreas de Interesse em sua Manifestação; OU
+	
+	2. Cancelar a Manifestação de Interesse já realizada alguma área, dentro do prazo de Manifestação de Interesse. 
+
+Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua Manifestação de Interesse:
+	
+	1. Clique no ícone Superior Esquerdo para abertura do Menu Lateral;
+	
+	2. Selecione a opção "Tarefas";
+	
+	3. Selecione "Registrar Interesse" no menu intermediário; 
+	
+	4. Selecione o Edital.  
+
+.. image:: ../imagens/4.6SOPLEComoReabrirManifestacaoDeInteresse1SelecaoEdital.png
+No caso do usuário já ter finalizado sua Manifestação de Interesse, o botão "Reabrir" estará visível para que ele reabra a sua Manifestação de Interesse, conforme imagem abaixo.
+
+.. image:: ../imagens/4.2ReabrirRegistroInteresse.png
+
+IMPORTANTE: Lembre-se de Finalizar a sua manifestação de Interesse após a Reabertura. Só serão consideradas as Manifestações de Interesse Finalizadas.     
