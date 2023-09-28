@@ -161,3 +161,37 @@ No caso do usuário já ter finalizado sua Manifestação de Interesse, o botão
 .. image:: ../imagens/4.2ReabrirRegistroInteresse.png
 
 IMPORTANTE: Lembre-se de Finalizar a sua manifestação de Interesse após a Reabertura. Só serão consideradas as Manifestações de Interesse Finalizadas.     
+
+Como Cancelar Minhas Manifestação de Interesse?
+=============================================
+
+A funcionalidade "Cancelar" Manifestação de Interesse fica disponível enquanto o usuário não "Finalizar" a Manifestação de Interesse.
+
+Caso o usuário tenha Finalizado a Manifestação de Interesse, faz-se necessário "Reabrir" a Manifestação de Interesse para realizar o cancelamento. 
+    
+O "Cancelar Manifestação de Interesse" em uma área é utilizado no caso do usuário ter Registrado o Interesse em uma área e deseja retirar (cancelar) a Manifestação de Interesse naquela área ou grupo de áreas, dentro do prazo de Manifestação de Interesse da Oferta Pública.
+
+Na tela de Registro de Interesse exitem varias formas de cancelar o interesse, sendo:
+
+- *Reabrindo e aceitando a mensagem para remover interesses das áreas*:
+    Ao clicar em Reabrir o interesse o sistema apresenta a mensagem "Deseja alterar o(s) registro(s) de interesse da(s) Área(s) já selecionadas?", com duas opções, Mater Áreas e Descartar Áreas, ao selecionar descartar, todas as áreas não estarão marcadas para interesse.
+
+.. image:: ../imagens/4.2ReabrirCancelandoRegistroInteresse.png
+
+- *Botão Cancelar Interesse*
+    Ao marchar o caixa ao lado dos botões de controle e clicar em *Cancelar Interesse* o sistema vai cancelar o interesse em todas as áreas que estão selecionadas e com registro de interesse.
+
+.. image:: ../imagens/4.2BotaoCancelarInteressSelecionados.png   
+
+- *Botão cancelar do card da Área*
+    Em cada card em que foi registrado o interesse existe um botão na parte inferior para que seja possível cancelar o interesse dessa área.
+
+.. image:: ../imagens/4.2BotaoCancelarInteresseCard.png
+    
+- *Detelha da Área botão Cancelar Interesse*
+	Ao entrar em detalhe da área é apresentando o botão Cancelar Interesse.
+
+.. image:: ../imagens/4.2BotaoCancelarDetalheDaArea.png
+
+
+*Observação:* Caso não finalize a oferta será considerada inválida, então, atenção ao calendário do edital.
