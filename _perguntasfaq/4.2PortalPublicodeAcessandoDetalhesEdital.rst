@@ -156,6 +156,7 @@ Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua
 	4. Selecione o Edital.  
 
 .. image:: ../imagens/4.6SOPLEComoReabrirManifestacaoDeInteresse1SelecaoEdital.png
+
 No caso do usuário já ter finalizado sua Manifestação de Interesse, o botão "Reabrir" estará visível para que ele reabra a sua Manifestação de Interesse, conforme imagem abaixo.
 
 .. image:: ../imagens/4.2ReabrirRegistroInteresse.png
@@ -163,7 +164,7 @@ No caso do usuário já ter finalizado sua Manifestação de Interesse, o botão
 IMPORTANTE: Lembre-se de Finalizar a sua manifestação de Interesse após a Reabertura. Só serão consideradas as Manifestações de Interesse Finalizadas.     
 
 Como Cancelar Minhas Manifestação de Interesse?
-##############################################
+###############################################
 
 A funcionalidade "Cancelar" Manifestação de Interesse fica disponível enquanto o usuário não "Finalizar" a Manifestação de Interesse.
 
@@ -206,7 +207,7 @@ O usuário autenticado pode visualizar o "Histórico das Manifestações" de Int
 4. Clique no Menu superior da Sala de Comunicação e Selecione a opção "Histórico de Manifestações";
   
 .. image:: ../imagens/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse1.png
+
 A imagem a seguir exibe a funcionalidade "Histórico de Manifestações", a qual exibe todas as ações de Registro e Cancelamento de Manifestações de Interesse realizadas pelo Usuário. 
    
 .. image:: ../imagens/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse2.png
-	

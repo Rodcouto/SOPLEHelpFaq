@@ -1,5 +1,5 @@
 SOPLE - Sistema de Oferta Pública e Leilão de Áreas
-===============
+===================================================
 
 .. toctree::
    :maxdepth: 3
