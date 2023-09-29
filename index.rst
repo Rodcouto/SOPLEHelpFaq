@@ -25,8 +25,6 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
    _perguntasfaq/4.1PortalPublicodeOportunidades
    _perguntasfaq/4.2PortalPublicodeAcessandoDetalhesEdital
-   _perguntasfaq/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse
-   _perguntasfaq/4.9RegistrarInteresseAvaliacaoSocial
    _perguntasfaq/4.10NovoVisualizarHistoricoManifestacoesDeInteresse
    _perguntasfaq/4.11DeclaracaoDeInteresse
 
