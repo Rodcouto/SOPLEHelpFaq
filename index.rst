@@ -8,6 +8,13 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/1.0oQueESOPLE.rst
    _perguntasfaq/1.1QuandoComecaAFuncionar
    _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento
+   
+   
+.. toctree::
+   :maxdepth: 3
+   :caption: Portal Público
+
+   _perguntasfaq/4.1PortalPublicodeOportunidades
 
 .. toctree::
    :maxdepth: 3
@@ -22,8 +29,7 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 .. toctree::
    :maxdepth: 3
    :caption: Manifestação de Interesse em Áreas 
-
-   _perguntasfaq/4.1PortalPublicodeOportunidades
+   
    _perguntasfaq/4.2PortalPublicodeAcessandoDetalhesEdital
 
 .. toctree::
