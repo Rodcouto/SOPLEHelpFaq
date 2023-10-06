@@ -1,4 +1,13 @@
-﻿Perguntas frequêntes sobre o processo de Manifestação de Interesse
+﻿O que é o registro de interesse?
+================================
+O registro de interesse é a forma disponibilizada no SOPLE para que o minerador informe que tem interesse em uma determinada área da Rodada.
+Automaticamente registrando o interesse em uma das áreas e conluindo o processo o minerador estará fazendo parte da Rodada e deve aconpanhar suas fases conforme descrito no edital.
+
+Tela de registro:
+
+.. image:: ../imagens/4.2PortalPublicodeAcessandoDetalhesEdital.png
+	
+Perguntas frequêntes sobre o processo de Manifestação de Interesse
 ==================================================================
 Nesse tópico estão reunidas as perguntas mais frequentes sobre o processo de Manifestação de Interesse nas áreas do Leilão.
 
