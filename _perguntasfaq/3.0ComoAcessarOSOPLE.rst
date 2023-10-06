@@ -1,5 +1,5 @@
 Como acessar o SOPLE?
-==========================
+=====================
 
 Acesse o endereço eletrônico:  https://sople.anm.gov.br
 
@@ -9,13 +9,14 @@ Autenticação no SOPLE pode ser feita clicando no "Cadeado", no canto superior 
 e selecionando a opção "Entrar com GOV.BR", conforme imagens a seguir. 
     
 .. image:: ../imagens/3.0AcessoAoSOPLECadeado.png
+
 Clique no cadeado no canto superior direito. 
 
 .. image:: ../imagens/3.0AcessoAoSOPLEBotaoGOVBR.png
+
 Clique no botão "Entrar com GOV.BR".
 
-
 Quais são os Requisitos Mínimos para acessar o SOPLE? 
-===================================
+=====================================================
 
-    Utilize os navegadores Chrome, Firefox ou Edge em suas versões mais atualizadas;
+Utilize os navegadores Chrome, Firefox ou Edge em suas versões mais atualizadas;

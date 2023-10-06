@@ -3,18 +3,17 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
 .. toctree::
    :maxdepth: 3
-   :caption: Apresentação SOPLE
-   
+   :caption: Apresentação SOPLE   
+
    _perguntasfaq/1.0oQueESOPLE.rst
-   _perguntasfaq/1.1QuandoComecaAFuncionar
-   _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento
-   
-   
+   _perguntasfaq/1.1QuandoComecaAFuncionar.rst
+   _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento.rst
+
 .. toctree::
    :maxdepth: 3
    :caption: Portal Público
 
-   _perguntasfaq/4.1PortalPublicodeOportunidades
+   _perguntasfaq/4.1PortalPublicodeOportunidades.rst
 
 .. toctree::
    :maxdepth: 3
@@ -58,22 +57,10 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/8.2ComoRealizarRequerimentoAreaLEILAO
    _perguntasfaq/8.3ComoRealizarRequerimentoAreaAVALIACAOSOCIAL
    _perguntasfaq/8.4DocumentosEssenciasAVALIACAOSOCIAL
-   
-.. toctree::
-   :maxdepth: 3
-   :caption: Relacionamentos
-
-   _perguntasfaq/5.1PossoAcessarOutraPessoaFísica
-   _perguntasfaq/5.2PossoLimitar
-   _perguntasfaq/5.3SouConsultor-Responsável
-   
-
 
 .. toctree::
    :maxdepth: 3
    :caption: Problemas 
 
-   _perguntasfaq/6.01esquecisenhactdm
    _perguntasfaq/6.07esqueciMinhaSenhaLoginUnico
-   _perguntasfaq/6.14vocenaotemacesso
    _perguntasfaq/6.99comQuemPossoFalar

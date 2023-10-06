@@ -1,5 +1,5 @@
 Painel Público de Oportunidades
-=============================================
+===============================
 
 Acesse o endereço https://sople.anm.gov.br; 
 
@@ -25,7 +25,7 @@ Informações do Edital
 
 .. image:: ../imagens/4.1Acoes.png
 
-3 . Fases do edital
+3. Fases do edital
 
 .. image:: ../imagens/4.1Fases.png  
 
@@ -35,22 +35,29 @@ Definição das fases:
 #####################
 
 - Planejamento
+
 Fase em que o edital está sendo elaborado pelos analistas da ANM, onde são validadas as áreas que participaram do leilão.
 
 - Oferta Pública
+
 Fase em que é disponibilizada a todos as áreas para "Registro de interesse".
 
 - Leilão - Proposta Fechada
+
 Fase em para disputa entre os interessados pelas áreas que tem mais de um registro de interesse.
 
 - Recursos Administrativos
+
 Fase onde serão disponibilizados formulários para solicitações que serão analisadas pela ANM.
 
 - Homologação e Adjudicação
+
 Fase em que serão validados todos os resultados apurados nas fases do leilão para a validação dos ganhadores e áreas.
 
 - Requerimentos
+
 Fase em que será disponibilizado o requerimento das áreas conquistadas.
 
 - Sanções
+
 Fase em que serão realizada a notificações de infrações e penalidades decorrentes do leilão.
