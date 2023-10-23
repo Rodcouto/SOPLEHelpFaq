@@ -6,19 +6,20 @@ Automaticamente registrando o interesse em uma das áreas e conluindo o processo
 Tela de registro:
 
 .. image:: ../imagens/4.2PortalPublicodeAcessandoDetalhesEdital.png
-	
+
 Perguntas frequêntes sobre o processo de Manifestação de Interesse
 ==================================================================
+
 Nesse tópico estão reunidas as perguntas mais frequentes sobre o processo de Manifestação de Interesse nas áreas do Leilão.
 
 Como saber quais áreas estão disponíveis no Edital?
 ###################################################
+
 Atualmente o sistema permite encotnrar as áreas que estão disponiveis para o edital atráves do caminho Portal Público - Oportunidades / Detalhes / no card de **Planejamento** pelo link **Áreas da Rodada**.
 
 **Portal Público - Informações do Edital**
 
 .. image:: ../imagens/4.2CaminhoAcessoItensEdital.png
-
 
 A página de Detalhes do Edital de oferta pública exibe informações básicas do Edital, como Objeto, a Modalidade, o Número do Processo SEI (NUP) e o Número do Edital. 
 Além destas informações, são listadas as áreas contidas neste edital.

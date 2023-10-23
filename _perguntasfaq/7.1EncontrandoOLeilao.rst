@@ -1,5 +1,17 @@
-﻿Como Encontrar o Leilão para Fazer a Proposta (Lance) na área?
-==============================================================
+﻿Leilão - Proposta Fechada
+=========================
+
+Está fase é a sequência do Registro de Interesse, onde as áreas que tiveram mais de um interessado, os interessados dispuraram a área com a melhor oferta em valor.
+
+.. image:: ../imagens/7.1TelaPropostaFechadaLances.png
+
+Perguntas frequentes sobre a fase Leilão - Proposta Fechada
+===========================================================
+
+Nesse tópico estão reunidas as perguntas mais frequentes sobre a fase Leilão - Proposta Fechada.
+
+Como Encontrar o Leilão para Fazer a Proposta (Lance) na área?
+##############################################################
 
 Após autenticar no SOPLE com sua conta do Login Único, escolha o usuário com o qual registrou a Manifestação de Interesse. 
 
@@ -18,5 +30,41 @@ Selecione "Registrar Proposta", item 1 da imagem abaixo, para filtrar os Editais
 Clique no Edital, item 2 da imagem acima, para ir para a Funcionalidade de "Inscrição de Proposta". 
 
 
+Como Registrar a Proposta para uma Área?
+########################################
 
+Na funcionalidade de "Inscrição de Proposta", no campo "Valor da Proposta", informe o valor da Lance a ser considerado para tentar ganhar o direito de requerer a área com prioridade, conforme as regras do Edital.  
+
+.. image:: ../imagens/7.2TelaInscricaoProposta1.png
+
+Ao informar o valor da proposta, observe a situação da área "Não Cotado" (em vermelho) mudará para "Cotado" (em verde). 
+
+.. image:: ../imagens/7.2TelaInscricaoProposta2Cotado.png
+
+Após Clicar em "Finalizar", observe que a situação "Não Concorrendo" (em vermelho) mudará para "Concorrendo" (em verde). 
+
+O usuário será redireciondo para a funcionalidade de "Sala de Comunicação", onde poderá acompanhar a situação da sua proposta após o término do prazo de envio de proposta. 
+
+.. image:: ../imagens/7.2TelaSalaComunicacao3Finalizada.png
+
+IMPORTANTE: O usuário poderá Inscrever proposta apenas nas áreas em que Manifestou interesse na Fase de Oferta Pública do Edital. 
+
+É possível Registrar uma nova Proposta em uma Área?
+###################################################
+
+Sim. Basta acessar novamente a funcionalidade de "Inscrição de Proposta" e informar um novo valor de Proposta (Lance). 
+Lembre-se de "Finalizar" a proposta para garantir que está concorrendo. 
+
+Caso o usuário já tenha "Finalizado" o envio de suas propostas, é possível "Reabrir" para envio de nova propostas, desde que esteja dentro do prazo de recebimento de propostas estipulado no Edital. 
+
+.. image:: ../imagens/7.3ReabrirPropostas1VisualizarProposta.png
+
+Para "Reabrir", selecione "Visualizar Propostas" e depois clicar em "Reabrir".
+A funcionalidade de "Inscrição de Proposta" será habilitada novamente para envio de nova propsota. 
+
+.. image:: ../imagens/7.3ReabrirPropostas2Reabrir.png
+
+IMPORTANTE: 
+1. O usuário poderá Inscrever proposta apenas nas áreas em que Manifestou Interesse durante a Fase de Oferta Pública do Edital. 
+2. Após reabrir as propostas e fazer as alterações, lembre-se de "Finalizar" novamente para que suas propostas estejam concorrendo.
 

@@ -36,8 +36,6 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    :caption: Leilão - Proposta Fechada
 
    _perguntasfaq/7.1EncontrandoOLeilao
-   _perguntasfaq/7.2InscricaoProposta
-   _perguntasfaq/7.3ReabrirProposta
    
 .. toctree::
    :maxdepth: 3

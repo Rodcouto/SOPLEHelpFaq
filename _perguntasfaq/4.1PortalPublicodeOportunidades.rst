@@ -7,8 +7,7 @@ A página exibida é o Painel Público de Oportunidades do SOPLE.
 Esta página exibe a lista de Editais nos quais existem áreas 
 em Oferta Pública e/ou em Leilão. 
 
-Clicando na imagem com um "i" serão exibidas as informações do edital e ao clicar no ícone do "folheto" serão exibidos os documentos do processo.  
-Conforme Imagem a seguir.
+Clicando na imagem com um “i” (Detalhes) serão exibidas as Informações do Edital e ao clicar no ícone do “folheto” (Documentos) serão exibidos os Documentos do Processo. Vejam a Figura a seguir:
 
 .. image:: ../imagens/4.1PortalPublicodeOportunidades1.png
 
@@ -17,47 +16,45 @@ Informações do Edital
 
 .. image:: ../imagens/4.1InformacoesDoEdital.png
 
-1. Detalhes do edital, onde estão as informações relevantes da documentação e em que situação se encontra.
+1. Apresenta-se informações relevantes como a Rodada, o Objeto, a Modalidade, o nº Processo, nº Edital e a Situação.
 
 .. image:: ../imagens/4.1Detalhes.png
 
-2. Botões de ação, que são atalhos para recursos do edital.
+2. Botões de ação: atalhos para recursos do edital.
 
 .. image:: ../imagens/4.1Acoes.png
 
-3. Fases do edital
+3. Fases do edital: as fases indicadas contêm um período definido e links que são habilitados durante este período.
 
 .. image:: ../imagens/4.1Fases.png  
-
-Cada fase apresentada tem uma período definido que indica sua vigência e links que são habilitados durante esse período.
 
 Definição das fases:
 #####################
 
-- Planejamento
+- **Planejamento**
 
-Fase em que o edital está sendo elaborado pelos analistas da ANM, onde são validadas as áreas que participaram do leilão.
+Fase que o edital está sendo elaborado pela ANM e as áreas estão sendo selecionadas a partir de critérios estabelecidos. 
 
-- Oferta Pública
+- **Oferta Pública**
 
-Fase em que é disponibilizada a todos as áreas para "Registro de interesse".
+Fase que os participantes podem “Registrar Interesse” nas áreas disponibilizadas e emitir a Declaração de Manifestação de Interesse. 
 
-- Leilão - Proposta Fechada
+- **Leilão - Proposta Fechada**
 
-Fase em para disputa entre os interessados pelas áreas que tem mais de um registro de interesse.
+Fase que os participantes que manifestaram interesse nas áreas que tiveram mais de um interessado possam “Registrar Proposta” e emitir a Declaração de Proposta. 
 
-- Recursos Administrativos
+- **Recursos Administrativos**
 
-Fase onde serão disponibilizados formulários para solicitações que serão analisadas pela ANM.
+Fase que os participantes podem interpor recursos após os resultados das fases de Oferta Pública e de Leilão ou Avaliação Social. 
 
-- Homologação e Adjudicação
+- **Homologação e Adjudicação**
 
-Fase em que serão validados todos os resultados apurados nas fases do leilão para a validação dos ganhadores e áreas.
+Fase que serão validados e divulgados de maneira oficial o resultado e os vencedores da rodada de disponibilidade de áreas. 
 
-- Requerimentos
+- **Requerimentos**
 
-Fase em que será disponibilizado o requerimento das áreas conquistadas.
+Fase que os participantes que realizaram manifestação de interesse de maneira única na fase de Oferta Pública Prévia e os participantes vencedores da fase de Leilão ou de Avaliação Social podem realizar os seus requerimentos de título minerário. 
 
-- Sanções
+- **Sanções**
 
-Fase em que serão realizada a notificações de infrações e penalidades decorrentes do leilão.
+Fase que serão realizadas as notificações de infrações e penalidades decorrentes do edital de disponibilidade de áreas. 
