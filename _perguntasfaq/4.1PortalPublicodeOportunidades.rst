@@ -3,9 +3,9 @@ Painel Público de Oportunidades
 
 Acesse o endereço https://sople.anm.gov.br; 
 
-A página exibida é o Painel Público de Oportunidades do SOPLE. 
-Esta página exibe a lista de Editais nos quais existem áreas 
-em Oferta Pública e/ou em Leilão. 
+A página exibida é o Painel Público de Oportunidades do SOPLE.
+
+Esta página exibe a lista das Rodadas de Disponibilidade de Áreas por meio de Oferta Pública e Leilão ou Avaliação Socia.
 
 Clicando na imagem com um “i” (Detalhes) serão exibidas as Informações do Edital e ao clicar no ícone do “folheto” (Documentos) serão exibidos os Documentos do Processo. Vejam a Figura a seguir:
 
@@ -28,7 +28,7 @@ Informações do Edital
 
 .. image:: ../imagens/4.1Fases.png  
 
-Definição das fases:
+Definição das Fases:
 #####################
 
 - **Planejamento**

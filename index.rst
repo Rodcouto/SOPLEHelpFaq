@@ -20,10 +20,6 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    :caption: Autenticação e Cadastro
    
    _perguntasfaq/3.0ComoAcessarOSOPLE
-   _perguntasfaq/3.1PrecisoCertificadoDigital
-   _perguntasfaq/3.2AcessoGOVBRObrigatório
-   _perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR
-   _perguntasfaq/3.7CadastroAvalialcaoSocial
    
 .. toctree::
    :maxdepth: 3
