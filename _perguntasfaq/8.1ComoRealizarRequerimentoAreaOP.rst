@@ -2,16 +2,16 @@
 =======================================================
 
 1. Gerar e pagar o emolumento nos prazos definidos em Edital da RODADA:
-	https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp
+    https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp
    
-   	Emolumento n.° 1 para PESQUISA;
+    Emolumento n.° 1 para PESQUISA
 
 2. Gerar Requerimento no Cadastro Mineiro (SCM):
 
-	2.1 OFERTA PÚBLICA - Requerimento de Pesquisa           
+2.1 OFERTA PÚBLICA - Requerimento de Pesquisa
     https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=35
 
-    2.2 OFERTA PÚBLICA - Requerimento de Lavra
+2.2 OFERTA PÚBLICA - Requerimento de Lavra
     https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=39
 
 3. Protocolizar o requerimento no Protocolo Digital da ANM:

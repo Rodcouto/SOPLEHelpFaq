@@ -18,11 +18,13 @@
 		
 
 2.  Gerar e pagar o Boleto de Emolumentos dentro dos  prazos definidos no Edital da sua Rodada:
-	https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp 
+
+https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp
 
 	Emolumento n.° 1 para PESQUISA;
 
-3. Gerar requerimento conforme o caso :
+3. Gerar requerimento conforme o caso:
+
 	3.1 LEILÃO - Requerimento de PESQUISA:
 		https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=36
 
