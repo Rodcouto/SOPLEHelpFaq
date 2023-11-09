@@ -7,12 +7,12 @@
    	Emolumento n.° 1 para PESQUISA;
 
 2. Gerar Requerimento no Cadastro Mineiro (SCM):
-	2.1 OFERTA PÚBLICA - Requerimento de Pesquisa           
-	     https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=35
-	2.2 OFERTA PÚBLICA - Requerimento de Lavra
-	     https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=39
 
-Observação importante: Além dos dados do Requerente, do Responsável técnico e de ajustes nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da(s) substância(s) e ao tipo de propriedade do solo para que cumpra com o que determina o edital e a legislação mineral vigente, sob risco de indeferimento do requerimento.
+	2.1 OFERTA PÚBLICA - Requerimento de Pesquisa           
+    https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=35
+
+    2.2 OFERTA PÚBLICA - Requerimento de Lavra
+    https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=39
 
 3. Protocolizar o requerimento no Protocolo Digital da ANM:
 	3.1 Acessar o Protocolo Digital no Endereço: https://app.anm.gov.br/protocolo; 
@@ -24,7 +24,6 @@ Observação importante: Além dos dados do Requerente, do Responsável técnico
 	3.4 Anexar os documentos complementares e informar os dados do emolumento, não esquecendo de anexar seu comprovante do pagamento;
 
 Observação importante: Além dos dados do Requerente, do Responsável técnico e de ajustes nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da(s) substância(s) e ao tipo de propriedade do solo para que cumpra com o que determina o edital e a legislação mineral vigente, sob risco de indeferimento do requerimento.
-  
 
 
 
