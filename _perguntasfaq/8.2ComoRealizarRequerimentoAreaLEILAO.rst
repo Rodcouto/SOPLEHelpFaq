@@ -29,9 +29,6 @@
 	3.2 LEILÃO - Requerimento de LAVRA
 		https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=40
 
-	3.3 LEILÃO - Requerimento de LAVRA GARIMPEIRA
-		https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=38
-	
 4. Protocolizar o requerimento no Protocolo Digital da ANM:
 	4.1 Acessar o Protocolo Digital da ANM no endereço: https://app.anm.gov.br/protocolo; 
 	
