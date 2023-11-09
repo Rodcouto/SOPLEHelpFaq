@@ -5,9 +5,9 @@
 	Entre no edital que está participando e verifique o resultado apresentado no “TERMO DE HOMOLOGAÇÃO E ADJUDICAÇÃO” da oferta pública e avaliação social para identificar as áreas pelas quais tem direito ao requerimento. 
 	
 2. Onde encontrar o respectivo requerimento de disponibilidade de PLG para Oferta Pública e Avaliação Social previsto no Edital? E como preencher? 
-	Acesso ao requerimento de Lavra Garimpeira - Avaliação Social: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
+	Acesso ao requerimento de Lavra Garimpeira – Oferta Pública / Avaliação Sociall: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
 	
-	Caso deseje navegar pelo sistema, o recurso está em Requerimentos / Complementar / Requerimento de Lavra Garimpeira - Avaliação Social
+	Caso deseje navegar pelo sistema, o recurso está em Requerimentos / Complementar / Requerimento de Lavra Garimpeira - Oferta Pública / Avaliação Social
 		
 	.. image:: ../imagens/8.3SCMPreRequerimentoAvaliacaoSocial.png
 	
@@ -27,7 +27,7 @@
 		
 		.. image:: ../imagens/8.3SCMRequerimentoAvaliacaoSocialPreenchidoProcesso.png
 		
-		Atenção ao preenchimento e a forma de requerer a poligonal da área conquistada. A protocolização de requerimentos poderá ser de tamanho (em hectares) igual ou inferior ao tamanho da área conquistada contida no Termo de Homologação e Adjudicação (Documento SEI 8518239 e SOPLE). Destaca-se que a parte da área conquistada não requerida será considerada livre a partir de 31/08/2023, o dia útil subsequente ao prazo final de requerimento.
+		Atenção ao preenchimento e a forma de requerer a poligonal da área conquistada. A protocolização de requerimentos poderá ser de tamanho (em hectares) igual ou inferior ao tamanho da área conquistada contida no Termo de Homologação e Adjudicação (Documento SEI 8518239 e SOPLE). Destaca-se que a parte da área conquistada não requerida considerando livre a partir do dia útil subsequente ao prazo final de requerimento.
 		
 		É facultado ao requerente realizar a protocolização de mais de um requerimento relacionado a área conquistada, sendo que todos os requerimentos deverão ser realizados em nome da Cooperativa Participante vencedora e a soma dos tamanhos (em hectares) dos requerimentos realizados deverá ser, no máximo, igual ao tamanho da área conquistada contida no Termo de Homologação e Adjudicação (Documento SEI 8518239 e SOPLE).
 		
