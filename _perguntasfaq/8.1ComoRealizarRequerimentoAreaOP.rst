@@ -6,7 +6,7 @@
    
    	Emolumento n.° 1 para PESQUISA;
 
-2. Gerar Pré-Requerimento no Cadastro Mineiro (SCM):   
+2. Gerar Requerimento no Cadastro Mineiro (SCM):
 	2.1 OFERTA PÚBLICA - Requerimento de Pesquisa           
 	     https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=35
 	2.2 OFERTA PÚBLICA - Requerimento de Lavra
