@@ -23,8 +23,10 @@
 	
 	3.4 Anexar os documentos complementares e informar os dados do emolumento, não esquecendo de anexar seu comprovante do pagamento;
 
-Observação importante: Além dos dados do Requerente, do Responsável técnico e de ajustes nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da(s) substância(s) e ao tipo de propriedade do solo para que cumpra com o que determina o edital e a legislação mineral vigente, sob risco de indeferimento do requerimento.
-
+**Observações importantes**
+    - Além dos dados do Requerente, do Responsável técnico e de ajustes nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da(s) substância(s) e ao tipo de propriedade do solo para que cumpra com o que determina o edital e a legislação mineral vigente, sob risco de indeferimento do requerimento.
+    - Ao finalizar a protocolização consulte se o seu processo foi gerado corretamente no SEI! da ANM. Caso apareça o documento intitulado “Erro” ao final do processo, não houve a finalização do requerimento, devendo ser repetidos os passos do item 3, acima.
+    - O Protocolo Digital permitirá protocolizar o requerimento apenas dentro dos prazos definidos no edital da Rodada.
 
 
 

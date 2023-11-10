@@ -40,6 +40,7 @@ https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp
 	
 	4.4 Anexar os documentos complementares e informar, no campo "Informe o número do nosso boleto", os dados do boleto do emolumento do requerimento de autorização de pesquisa, não esquecendo de anexar o comprovante do pagamento, bem como o comprovante de pagamento do lance vencedor.
 
-OBSERVAÇÕES IMPORTANTES: 
+OBSERVAÇÕES IMPORTANTES:
+    - Além dos dados do Requerente, do Responsável técnico e de ajustes nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da(s) substância(s) e ao tipo de propriedade do solo para que cumpra com o que determina o edital e a legislação mineral vigente, sob risco de indeferimento do requerimento.
 	- Ao finalizar a protocolização consulte se o seu processo foi gerado corretamente no SEI! da ANM. Caso apareça o documento intitulado "Erro" ao final do processo, não houve a finalização do requerimento, devendo ser repetidos os passos do item 4, acima.
 	- O Protocolo Digital permitirá protocolizar o requerimento apenas dentro dos prazos definidos no edital da Rodada.
