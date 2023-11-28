@@ -1,49 +1,57 @@
-﻿O que é o registro de interesse?
+﻿O que é o Registro de interesse?
 ================================
-O registro de interesse é a forma disponibilizada no SOPLE para que o minerador informe que tem interesse em uma determinada área da Rodada.
-Automaticamente registrando o interesse em uma das áreas e conluindo o processo o minerador estará fazendo parte da Rodada e deve aconpanhar suas fases conforme descrito no edital.
+O Registro de Interesse é a etapa que ocorre na fase de Oferta Pública, na qual o interessado, via SOPLE, registra/indica em qual(is) área(s) tem interesse.
+Somente depois de FINALIZAR esta etapa que o interessado está participando da concorrência das áreas na rodada de disponibilidade.
 
 Tela de registro:
 
-.. image:: ../imagens/4.2PortalPublicodeAcessandoDetalhesEdital.png
+.. image:: ../imagens/4.2RegistroInteresse.png
 
-Perguntas frequêntes sobre o processo de Manifestação de Interesse
-==================================================================
+O que é Manifestação de Interesse?
+==================================
+A Manifestação de Interesse é o conjunto de Registro de Interesse em área(s) realizado pelo usuário.
+
+As situações da Manifestação de Interesse são:
+- Aberta/Inválida – o interessado não finalizou a manifestação de interesse. Desse modo, não está apto a participar do processo de disponibilidade de áreas.
+- Fechada/Válida – o interessado finalizou a manifestação de interesse. Desse modo, está apto a participar do processo de disponibilidade de áreas.
+
+**IMPORTANTE: PARA O RESULTADO DA OFERTA PÚBLICA, SOMENTE SÃO CONSIDERADAS AS MANIFESTAÇÕES DE INTERESSE COM A SITUAÇÃO/STATUS FECHADA/VÁLIDA!**
+
+Perguntas frequentes sobre a etapa de Registro de Interesse (Manifestação de Interesse)
+=======================================================================================
 
 Nesse tópico estão reunidas as perguntas mais frequentes sobre o processo de Manifestação de Interesse nas áreas do Leilão.
 
-Como saber quais áreas estão disponíveis no Edital?
-###################################################
+Como saber quais são as Áreas da Rodada?
+########################################
 
-Atualmente o sistema permite encotnrar as áreas que estão disponiveis para o edital atráves do caminho Portal Público - Oportunidades / Detalhes / no card de **Planejamento** pelo link **Áreas da Rodada**.
+O sistema permite saber as áreas da rodada a partir do caminho Portal Público – Oportunidades / Detalhes / card Planejamento e link **Áreas da Rodada**.
 
 **Portal Público - Informações do Edital**
 
 .. image:: ../imagens/4.2CaminhoAcessoItensEdital.png
 
-A página de Detalhes do Edital de oferta pública exibe informações básicas do Edital, como Objeto, a Modalidade, o Número do Processo SEI (NUP) e o Número do Edital. 
-Além destas informações, são listadas as áreas contidas neste edital.
+Ao clicar no link Áreas da Rodada, aparecerá Informações do Edital e a relação das áreas, disponibilizadas no referido Edital, através de cards.
  
 .. image:: ../imagens/4.2PortalPublicodeAcessandoDetalhesEdital.png
 
 Como ver os Detalhes das Áreas no Portal Público?
 ###################################################
 
-Em cada área vinculada ao edital através dos cards, o sistema apresenta um ícone **"(?)"** que é um link para mais detalhes da área.
+Em cada card de área relacionada ao Edital, há um ícone **(?)** no qual é um link para mais detalhes da área.
 
 .. image:: ../imagens/4.2DetalhesDaArea.png
 
-Da mesma forma que a lista de áreas, aqui são exibidas as informações sobre cada área em Oferta Pública como, Número do Processo (NUP) da área no SEI, Número do Processo Minerário, Área da Poligonal, Estado (UF) e Município na qual a área se encontra e o Regime de Disponibilidade. 
+Após clicar no ícone **(?)**, são exibidos mais informações como o número da área no edital, o NUP, o nº do processo minerário relacionado a esta área, o tamanho (em hectares) da poligonal, UF, o regime de disponibilidade, entre outras.
 
 .. image:: ../imagens/4.2PortalPublicoDetalhesDeAreas.png
 
 Clicando no Número do Processo Minerário o usuário será redirecionado para a página de Consulta do Cadastro Mineiro, na qual poderá informar o número do processo e consultar mais informações sobre o processo minerário relacionado a esta área.     
 
 Como acessar o Registro de Interesse?
-###################################################
+#####################################
 
-O Registro de Interesse é a fase do edital onde fica disponível para os mineiradores indicarem o interesse nas áreas disponibilidas no edital.
-Existem duas maneiras para o registro de interesse em uma área, sendo pelo Portal Público e pelo Portal do Mineirador.
+Existem duas maneiras de acesso ao Registro de Interesse: pelo Portal Público e pelo Portal do Minerador.
 
 Portal Público 
 ***************
@@ -62,7 +70,7 @@ Portal do Mineirador
 
 - **Caso não esteja logado:**
 
-Ao entrar no SOPLE e efetrar o login através do ícone de "cadeado" no topo da tela.
+Ao entrar no SOPLE e efetuar o login através do ícone de "cadeado" no topo da tela.
 Efetuado o login de acesso no sistema, será solicitado ao usuário realizar a autenticação (login) no Sistema SOPLE.
 
 .. image:: ../imagens/4.2Login.png
@@ -77,25 +85,28 @@ Clique no nome no topo da tela e em seguida em Portal.
 
 .. image:: ../imagens/4.2PortalMineiradorTarefasRegistroInteresse.png
 
-Como Registrar Manifestação de Interesse em Áreas?
-###################################################
+Como Registrar Interesse em Áreas?
+##################################
 
-Nesta página são exibidas as áreas para que o usuário selecione as de seu interesse, conforme imagem a seguir.    
-Obs.: Áreas com o status Removida, Retirada e Suspensa não podem receber interesse.
+Na tela são exibidas as áreas e o usuário pode selecionar/registrar a(s) área(s) de seu interesse conforme a imagem a seguir.
+
+Observação: Áreas com os status de Removida, Retirada e Suspensa não são possíveis de receber interesse.
 
 .. image:: ../imagens/4.2SOPLEComoRegistrarManifestacaoDeInteresseEmAreas1SelecaoDeareas.png
 
-Caso o usuário clique no link "Registrar interesse" a área já vai estar vinculada ao interesse faltando somente a finalização, mas caso clique no checkbox do card, o botão "REGISTRAR INTERESSE" será habitado para que confirme a ação.
+Caso o usuário clique no link “Registrar Interesse”, a área já estará vinculada à manifestação faltando somente clicar em “FINALIZAR” para concluir a manifestação.
+
+Caso o usuário clique no checkbox do card (imagem anterior), o botão “REGISTRAR INTERESSE” (imagem a seguir) será habilitado para que confirme a ação.
 
 .. image:: ../imagens/4.2SOPLEComoRegistrarManifestacaoDeInteresseEmAreas2RegistrarInteresse.png
 
-IMPORTANTE: Após Registrar a Manifestação de Interesse nas áreas o usuário deve clicar em "Finalizar", para Concluir o Registro da Manifestação de Interesse nas áreas Selecionadas. Conforme Imagem abaixo.
+**IMPORTANTE: APÓS REGISTRAR INTERESSE NA(S) ÁREA(S), O USUÁRIO DEVE CLICAR EM “FINALIZAR” PARA CONCLUIR A MANIFESTAÇÃO DE INTERESSE! Vide a imagem a seguir.**
   
 .. image:: ../imagens/4.2SOPLEComoRegistrarManifestacaoDeInteresseEmAreas3Finalizar.png
 
 
 Como consultar Minhas Manifestações de Interesse?
-###################################################
+#################################################
     
 A funcionalidade "Minhas Manifestações" exibe a lista de áreas nas quais o usuário autenticado tem registro de Manifestação de Interesse. 
 	
@@ -103,23 +114,26 @@ Seguindo os passos numerados na imagem abaixo o usuário conseguirá visualizar 
 	
 	1. Clique no ícone Superior Esquerdo para abertura do Menu Lateral;
 	
-	2. Selecione a opção "Processos" e depois "Meus Processos";
+	2. Selecione a opção "Rodadas" e depois "Meus Processos";
 	
 	3. Clique no Edital listado ao lado direito (Item 3 da imagem) para consultar as Manifestações de Interesse realizadas no Edital; 
 		
 .. image:: ../imagens/4.2SOPLEComoConsultarMinhasManifestacoesDeInteresse1ListaEditais.png
 
-Nessa funcionalidade será possível identificar as áreas as quais foi registrado o interesse, o histórico de registros e gerar um documento autenticavel que representa o registro de interesse na área.
+Nessa funcionalidade são possíveis identificar a(s) área(s) que foi(ram) registrado(s) o interesse, a(s) situação(ões) da(s) Manifestação(ões) de Interesse (Fechada/Válida ou Aberta/Inválida), emitir Histórico das Manifestações de Interesse e emitir Declaração da Manifestação de Interesse.
 
 .. image:: ../imagens/4.2SOPLEComoConsultarMinhasManifestacoesDeInteresse2SalaDecomunicacao.png
 
-Como validar meu Registro de Interesse?
-#######################################
+Como validar meu Minha Manifestação de Interesse?
+#################################################
 
-Conformer visto anteriormente, hoje o sistem disponibiliza uma Declaração da Manifestação de Interesse, esse é um arquivo único da manifestação no edital, ou seja, para cada edital ou alteração nos registros de interesse do mesmo edital, 
+Conforme descrito anteriormente, o sistema disponibiliza a Declaração da Manifestação de Interesse.
+
+É um documento único de Manifestação de Interesse no qual para cada edital ou alteração nos registros de interesse o sistema gera um documento correspondente com um código único e um QR Code que identifica a participação do usuário.
+
 o sistema vai gerar um arquivo correspontede com um código único e um QR Code que identifica sua participação.
 
-1. Para conseguir este arquivo deve ser usar o botão "Emitir Declaração da Manifestação de Interesse" que vai emitir um PDF que deve ser quardado como um comprovante de participação.
+1. Para gerar este documento deve clicar em “Emitir Declaração da Manifestação de Interesse” e o usuário pode guardar como um comprovante de participação.
 
 .. image:: ../imagens/4.2EmitirDeclaracaoManifestacaoInteresse.png
 
@@ -128,11 +142,12 @@ O documento será apresentado no seguinte modelo:
 .. image:: ../imagens/4.2DeclaracaoDeRegistroInteressePDF.png
 
 - **Veja que em destaque estão:**
-    QR Code
-    Empresa e hora de emissão do documento
-    Identificador único do documento composto de ID + código
 
-2. Para acessar o validador entre no Portal Público e acesse o menu "Autenticar Documento", para acessar está tela e realizar a validação do documento não é necessário estar logado no sistema.
+QR Code
+Empresa e hora de emissão do documento
+Identificador único do documento composto de ID + código
+
+2. Para acessar o validador, entre no Portal Público e acesse o menu “Autenticar Documento”. Não é necessário estar logado no sistema para acessar esta tela e realizar a validação do documento.
 
 .. image:: ../imagens/4.2AutenticacaoDocumentoPortalPublico.png
 
@@ -151,9 +166,9 @@ A funcionalidade de Reabrir Manifestação de interesse fica disponível após "
     
 Esta funcionalidade é utilizada nos casos em que o usuário já "Finalizou" a sua Manifestação de Interesse mas deseja alterá-la:
 
-	1. Para acrescentar novas áreas de Interesse em sua Manifestação; OU
+	1. Para selecionar/registrar nova(s) área(s) de interesse em sua Manifestação; E/OU
 	
-	2. Cancelar a Manifestação de Interesse já realizada alguma área, dentro do prazo de Manifestação de Interesse. 
+	2. Cancelar/Retirar alguma(s) área(s) da Manifestação de Interesse dentro do prazo da etapa de Registro de Interesse e fase Oferta Pública indicado no edital.
 
 Seguindo os passos numerados na imagem abaixo o usuário conseguirá Reabrir sua Manifestação de Interesse:
 	
@@ -171,7 +186,7 @@ No caso do usuário já ter finalizado sua Manifestação de Interesse, o botão
 
 .. image:: ../imagens/4.2ReabrirRegistroInteresse.png
 
-IMPORTANTE: Lembre-se de Finalizar a sua manifestação de Interesse após a Reabertura. Só serão consideradas as Manifestações de Interesse Finalizadas.     
+**IMPORTANTE: LEMBRE-SE DE “FINALIZAR” A MANIFESTAÇÃO DE INTERESSE APÓS A REABERTURA. SOMENTE SÃO CONSIDERADAS AS MANIFESTAÇÕES DE INTERESSE COM A SITUAÇÃO/STATUS FECHADA/VÁLIDA!**
 
 Como Cancelar Minhas Manifestação de Interesse?
 ###############################################
@@ -180,17 +195,17 @@ A funcionalidade "Cancelar" Manifestação de Interesse fica disponível enquant
 
 Caso o usuário tenha Finalizado a Manifestação de Interesse, faz-se necessário "Reabrir" a Manifestação de Interesse para realizar o cancelamento. 
     
-O "Cancelar Manifestação de Interesse" em uma área é utilizado no caso do usuário ter Registrado o Interesse em uma área e deseja retirar (cancelar) a Manifestação de Interesse naquela área ou grupo de áreas, dentro do prazo de Manifestação de Interesse da Oferta Pública.
+O “Cancelar Manifestação de Interesse” em alguma(s) área(s) é utilizado no caso do usuário ter Registrado o Interesse em alguma(s) área(s) e desejar cancelar/retirar/alterar este Registro de Interesse dentro do prazo da etapa de Registro de Interesse na fase de Oferta Pública.
 
 Na tela de Registro de Interesse exitem varias formas de cancelar o interesse, sendo:
 
 - *Reabrindo e aceitando a mensagem para remover interesses das áreas*:
-    Ao clicar em Reabrir o interesse o sistema apresenta a mensagem "Deseja alterar o(s) registro(s) de interesse da(s) Área(s) já selecionadas?", com duas opções, Mater Áreas e Descartar Áreas, ao selecionar descartar, todas as áreas não estarão marcadas para interesse.
+    Ao clicar em “REABRIR”, o sistema apresenta a mensagem “Deseja alterar o(s) registro(s) de interesse da(s) Área(s) já selecionadas?” e com duas opções: Manter Áreas ou Descartar Áreas. Se o usuário selecionar a opção Descartar Áreas, todas as áreas, antes selecionadas, não estarão mais registradas como interesse.
 
 .. image:: ../imagens/4.2ReabrirCancelandoRegistroInteresse.png
 
 - *Botão Cancelar Interesse*
-    Ao marchar o caixa ao lado dos botões de controle e clicar em *Cancelar Interesse* o sistema vai cancelar o interesse em todas as áreas que estão selecionadas e com registro de interesse.
+    Ao marcar a caixa ao lado dos botões de controle e clicar em **CANCELAR INTERESSE**, o sistema vai cancelar o interesse em todas as áreas que estão selecionadas como registro de interesse.
 
 .. image:: ../imagens/4.2BotaoCancelarInteressSelecionados.png   
 
@@ -199,25 +214,10 @@ Na tela de Registro de Interesse exitem varias formas de cancelar o interesse, s
 
 .. image:: ../imagens/4.2BotaoCancelarInteresseCard.png
     
-- *Detelha da Área botão Cancelar Interesse*
+- *Detalhe da Área botão "CANCELAR INTERESSE"*
 	Ao entrar em detalhe da área é apresentando o botão Cancelar Interesse.
 
 .. image:: ../imagens/4.2BotaoCancelarDetalheDaArea.png
 
-*Observação:* Caso não finalize a oferta será considerada inválida, então, atenção ao calendário do edital.
-
-Como visualizar o Histórico das ações de Manifestação de Interesse?
-###################################################################
-  
-O usuário autenticado pode visualizar o "Histórico das Manifestações" de Interesse realizadas por ele seguindo os passos abaixo: 
-   
-1. Clique no Menu superior esquerdo;
-2. Clique em "Edital" e depois selecione a opção "Consultar"; 
-3. Acesse o Menu do Edital e selecione "Sala de Comunicação"; 
-4. Clique no Menu superior da Sala de Comunicação e Selecione a opção "Histórico de Manifestações";
-  
-.. image:: ../imagens/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse1.png
-
-A imagem a seguir exibe a funcionalidade "Histórico de Manifestações", a qual exibe todas as ações de Registro e Cancelamento de Manifestações de Interesse realizadas pelo Usuário. 
-   
-.. image:: ../imagens/4.8SOPLEVisualizarHistoricoManifestacoesDeInteresse2.png
+**IMPORTANTE: DEVE-SE SEMPRE “FINALIZAR” A MANIFESTAÇÃO DE INTERESSE PARA CONSIDERÁ-LA COMO VÁLIDA!
+A SITUAÇÃO DA MANIFESTAÇÃO DE INTERESSE PODE SER VERIFICADA NA FUNCIONALIDADE “MINHAS MANIFESTAÇÕES” E NA DECLARAÇÃO DE MANIFESTAÇÃO DE INTERESSE.**

@@ -1,7 +1,7 @@
 ﻿Leilão - Proposta Fechada
 =========================
 
-Está fase é a sequência do Registro de Interesse, onde as áreas que tiveram mais de um interessado, os interessados dispuraram a área com a melhor oferta em valor.
+Fase aplicável somente às áreas que são objeto de mais de uma manifestação de interesse na fase de Oferta Pública e de maneira exclusiva aos participantes que manifestaram interesse para esta(s) respectiva(s) área(s) na fase de Oferta Pública. Nesta fase, estes participantes podem “Registrar Proposta” e emitir a Declaração de Proposta.
 
 .. image:: ../imagens/7.1TelaPropostaFechadaLances.png
 
@@ -10,7 +10,7 @@ Perguntas frequentes sobre a fase Leilão - Proposta Fechada
 
 Nesse tópico estão reunidas as perguntas mais frequentes sobre a fase Leilão - Proposta Fechada.
 
-Como Encontrar o Leilão para Fazer a Proposta (Lance) na área?
+Como encontrar o Leilão para fazer a Proposta (Lance) na área?
 ##############################################################
 
 Após autenticar no SOPLE com sua conta do Login Único, escolha o usuário com o qual registrou a Manifestação de Interesse. 
@@ -47,7 +47,7 @@ O usuário será redireciondo para a funcionalidade de "Sala de Comunicação", 
 
 .. image:: ../imagens/7.2TelaSalaComunicacao3Finalizada.png
 
-IMPORTANTE: O usuário poderá Inscrever proposta apenas nas áreas em que Manifestou interesse na Fase de Oferta Pública do Edital. 
+**IMPORTANTE: O USUÁRIO SOMENTE PODE INSCREVER PROPOSTA NA(S) ÁREA(S) EM QUE MANIFESTOU INTERESSE NA FASE DE OFERTA PÚBLICA!**
 
 É possível Registrar uma nova Proposta em uma Área?
 ###################################################
@@ -64,7 +64,56 @@ A funcionalidade de "Inscrição de Proposta" será habilitada novamente para en
 
 .. image:: ../imagens/7.3ReabrirPropostas2Reabrir.png
 
-IMPORTANTE: 
-1. O usuário poderá Inscrever proposta apenas nas áreas em que Manifestou Interesse durante a Fase de Oferta Pública do Edital. 
-2. Após reabrir as propostas e fazer as alterações, lembre-se de "Finalizar" novamente para que suas propostas estejam concorrendo.
+**IMPORTANTE:**
+1. O USUÁRIO SOMENTE PODE INSCREVER PROPOSTA NA(S) ÁREA(S) EM QUE MANIFESTOU INTERESSE NA FASE DE OFERTA PÚBLICA!
 
+2. APÓS REABRIR AS PROPOSTAS E REALIZAR AS ALTERAÇÕES, LEMBRE-SE DE **FINALIZAR** NOVAMENTE PARA QUE AS PROPOSTAS SEJAM VÁLIDAS E CONCORRENDO!
+
+Como consultar Minhas Propostas?
+################################
+Para se consultar as propostas de lances feitos em um edital o usuário deve abrir o edital pelo Portal Público estando devidamente autenticado no SOPLE.
+
+No card **Leilão - Proposta Fechada** clicar no link **Emitir Declaração de Proposta**.
+
+.. image:: ../imagens/7.1LeilaoPropostaFechadaHistorico.png
+
+Ao entrar no recurso clique na opção **Leilão - Proposta Fechada**.
+
+.. image:: ../imagens/7.3propostas.png
+
+Nessa tela estaram as propostas válidas e inválidas.
+
+Como consultar o Histórico de Propostas?
+########################################
+Além de todos os registros de Proposta serem apresentados na tela Minhas Manifestações e Proposta, também é possível criar o arquivo com o histórico de todoas as propostas feitas.
+Conforme a imagem clique no botão "Emitir Histórico de Proposta".
+
+.. image:: ../imagens/7.3propostasBotaoHistorico.png
+
+Nesse momento o sistema vai gerar um arquivo PDF que não tem validade probatória, mas desta todos os valores de lances, áreas e dados do edital da proposta.
+
+.. image:: ../imagens/7.3DocumentoHistorico.png
+
+Como validar Minhas Propostas?
+##############################
+Conforme descrito anteriormente, o sistema disponibiliza a Declaração da Proposta.
+
+É um documento único no qual para cada edital ou alteração nos registros de proposta o sistema gera um documento correspondente com um código único e um QR Code que identifica a participação do usuário.
+
+1 - Para gerar este documento deve clicar em “Emitir Declaração Proposta” e o usuário pode guardar como um comprovante de participação.
+
+.. image:: ../imagens/7.3BotaoDeclaracao.png
+
+O documento será apresentado no seguinte modelo:
+
+.. image:: ../imagens/7.3PDFDeclaracao.png
+
+2 - Para acessar o validador, entre no Portal Público e acesse o menu “Autenticar Documento”. Não é necessário estar logado no sistema para acessar esta tela e realizar a validação do documento.
+
+.. image:: ../imagens/4.2AutenticacaoDocumentoPortalPublico.png
+
+Neste recurso é possível validar o documento fazendo o Upload do mesmo ou informando o código único da Declaração da Proposta.
+
+.. image:: ../imagens/4.2AutenticacaoFormaValidacao.png
+
+Caso o documento seja válido será apresentada uma mensagem informando a validade do documento.

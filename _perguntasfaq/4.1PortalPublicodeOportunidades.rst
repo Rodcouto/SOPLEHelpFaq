@@ -41,7 +41,7 @@ Fase que os participantes podem “Registrar Interesse” nas áreas disponibili
 
 - **Leilão - Proposta Fechada**
 
-Fase que os participantes que manifestaram interesse nas áreas que tiveram mais de um interessado possam “Registrar Proposta” e emitir a Declaração de Proposta. 
+Fase aplicável somente as áreas que são objeto de mais de uma manifestação de interesse na fase de Oferta Pública e de maneira exclusiva aos participantes que manifestaram interesse para esta(s) respectiva(s) área(s) na fase de Oferta Pública. Nesta fase, estes participantes podem “Registrar Proposta” e emitir a Declaração de Proposta.
 
 - **Recursos Administrativos**
 
