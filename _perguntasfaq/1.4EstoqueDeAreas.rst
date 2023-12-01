@@ -24,7 +24,7 @@ Este formulário é destinado ao recebimento de sugestões de áreas, ou process
 
 - Cabe a ANM o selecionamento das áreas nominadas, se aptas a disponibilidade ou não.
 
-.. image:: ../imagens/1.4PesquisarAreas.png
+.. image:: ../imagens/1.4Nominar.png
 
 Estátisticas das Áreas
 ======================
