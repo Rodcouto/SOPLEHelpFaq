@@ -17,8 +17,11 @@ ANM tem interesse em receber dos agentes econômicos a nominação de áreas com
 Este formulário é destinado ao recebimento de sugestões de áreas, ou processos minerários, para serem ofertadas nos próximos Editais de Oferta Pública de Áreas em Disponibilidade.
 
 **OBSERVAÇÕES IMPORTANTES:**
+
 - As nominações aqui propostas, de forma anônima, não garantem que as áreas serão ofertadas, sendo apenas uma sugestão;
+
 - As áreas nominadas deverão estar aptas a serem declaradas em disponibilidade;
+
 - Cabe a ANM o selecionamento das áreas nominadas, se aptas a disponibilidade ou não.
 
 .. image:: ../imagens/1.4PesquisarAreas.png
