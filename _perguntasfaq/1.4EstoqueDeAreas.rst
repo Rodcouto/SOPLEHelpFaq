@@ -1,4 +1,4 @@
-cPesquisar Áreas
+Pesquisar Áreas
 ===============
 Recurso diponibilitado de forma pública para que qualquer possoa possa ver o estoque de áreas e a situação em que a área se encontra.
 
