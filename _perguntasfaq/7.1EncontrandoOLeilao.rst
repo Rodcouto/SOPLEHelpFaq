@@ -120,4 +120,4 @@ Neste recurso é possível validar o documento fazendo o Upload dele ou informan
 
 Caso o documento seja válido será apresentada uma mensagem informando a validade do documento.
 
-.. image:: ../_images/4.2DocumentoValidoFaseRegistroInteresse.png
+.. image:: ../imagens/4.2DocumentoValidoFaseRegistroInteresse.png
