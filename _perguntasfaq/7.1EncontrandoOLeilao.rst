@@ -1,7 +1,8 @@
 ﻿Leilão - Proposta Fechada
 =========================
 
-Fase aplicável somente às áreas que são objeto de mais de uma manifestação de interesse na fase de Oferta Pública e de maneira exclusiva aos participantes que manifestaram interesse para esta(s) respectiva(s) área(s) na fase de Oferta Pública. Nesta fase, estes participantes podem “Registrar Proposta” e emitir a Declaração de Proposta.
+Fase aplicável somente às áreas que são objeto de mais de uma manifestação de interesse na fase de Oferta Pública e de maneira exclusiva aos participantes que manifestaram interesse para esta(s) respectiva(s) área(s) na fase de Oferta Pública.
+Na fase de Leilão, estes participantes podem “Registrar Proposta” e emitir a Declaração de Proposta.
 
 .. image:: ../imagens/7.1TelaPropostaFechadaLances.png
 
@@ -13,54 +14,54 @@ Nesse tópico estão reunidas as perguntas mais frequentes sobre a fase Leilão 
 Como encontrar o Leilão para fazer a Proposta (Lance) na área?
 ##############################################################
 
-Após autenticar no SOPLE com sua conta do Login Único, escolha o usuário com o qual registrou a Manifestação de Interesse. 
+Após autenticar no SOPLE com sua conta do Login Único do GOV.BR, escolher o usuário com o qual foi registrada a Manifestação de Interesse.
 
-Selecione "Tarefas" no menu esquerdo principal, conforme imagem;
+Selecionar "Tarefas" no menu esquerdo principal, conforme imagem;
 
 Na lista de "Tarefas" são exibidos filtros para Editais em função da ação que o usuário deseja fazer em cada Edital;
 
-No lado direito são exibidos os Editais, entre o menu principal e a lista de editais são exibidos os filtros de Editais.
+No lado direito da tela, são exibidos os Editais, entre o menu principal e a lista de editais são exibidos os filtros de Editais.
 
 .. image:: ../imagens/7.1TelaMenuTarefas.png
 
-Selecione "Registrar Proposta", item 1 da imagem abaixo, para filtrar os Editais que se encontram no período de Registro de Proposta. 
+Selecionar "Registrar Proposta", item 1 da imagem abaixo, para filtrar os Editais que se encontram no período de Registro de Proposta.
 
 .. image:: ../imagens/7.1TelaTarefasFiltroRegistroProposta.png
 
-Clique no Edital, item 2 da imagem acima, para ir para a Funcionalidade de "Inscrição de Proposta". 
+Clicar no Edital, item 2 da imagem acima, para ir para a Funcionalidade de "Inscrição de Proposta".
 
 
 Como Registrar a Proposta para uma Área?
 ########################################
 
-Na funcionalidade de "Inscrição de Proposta", no campo "Valor da Proposta", informe o valor da Lance a ser considerado para tentar ganhar o direito de requerer a área com prioridade, conforme as regras do Edital.  
+Na funcionalidade de "Inscrição de Proposta", no campo "Valor da Proposta", informar o valor do Lance a ser considerado para concorrer ao direito de requerer a área com prioridade, conforme as regras do Edital.
 
 .. image:: ../imagens/7.2TelaInscricaoProposta1.png
 
-Ao informar o valor da proposta, observe a situação da área "Não Cotado" (em vermelho) mudará para "Cotado" (em verde). 
+Ao informar o valor da proposta, observar a situação da área "Não Cotado" (em vermelho) mudará para "Cotado" (em verde).
 
 .. image:: ../imagens/7.2TelaInscricaoProposta2Cotado.png
 
 Após Clicar em "Finalizar", observe que a situação "Não Concorrendo" (em vermelho) mudará para "Concorrendo" (em verde). 
 
-O usuário será redireciondo para a funcionalidade de "Sala de Comunicação", onde poderá acompanhar a situação da sua proposta após o término do prazo de envio de proposta. 
+O usuário será redirecionado para a funcionalidade de "Sala de Comunicação", onde poderá acompanhar a situação da sua proposta após o término do prazo de envio de proposta.
 
 .. image:: ../imagens/7.2TelaSalaComunicacao3Finalizada.png
 
 **IMPORTANTE: O USUÁRIO SOMENTE PODE INSCREVER PROPOSTA NA(S) ÁREA(S) EM QUE MANIFESTOU INTERESSE NA FASE DE OFERTA PÚBLICA!**
 
-É possível Registrar uma nova Proposta em uma Área?
+É possível registrar uma nova Proposta em uma Área?
 ###################################################
 
-Sim. Basta acessar novamente a funcionalidade de "Inscrição de Proposta" e informar um novo valor de Proposta (Lance). 
-Lembre-se de "Finalizar" a proposta para garantir que está concorrendo. 
+Sim, basta acessar novamente a funcionalidade de "Inscrição de Proposta" e informar um novo valor de Proposta (Lance).
+Lembrar de "Finalizar" a proposta para garantir que estará concorrendo.
 
 Caso o usuário já tenha "Finalizado" o envio de suas propostas, é possível "Reabrir" para envio de nova propostas, desde que esteja dentro do prazo de recebimento de propostas estipulado no Edital. 
 
 .. image:: ../imagens/7.3ReabrirPropostas1VisualizarProposta.png
 
-Para "Reabrir", selecione "Visualizar Propostas" e depois clicar em "Reabrir".
-A funcionalidade de "Inscrição de Proposta" será habilitada novamente para envio de nova propsota. 
+Para "Reabrir", selecionar "Visualizar Propostas" e depois clicar em "Reabrir".
+A funcionalidade de "Inscrição de Proposta" será habilitada novamente para envio de nova proposta.
 
 .. image:: ../imagens/7.3ReabrirPropostas2Reabrir.png
 
@@ -71,26 +72,27 @@ A funcionalidade de "Inscrição de Proposta" será habilitada novamente para en
 
 Como consultar Minhas Propostas?
 ################################
-Para se consultar as propostas de lances feitos em um edital o usuário deve abrir o edital pelo Portal Público estando devidamente autenticado no SOPLE.
+Para consultar as propostas de lances feitos em um edital o usuário deve abrir o edital pelo Portal Público estando devidamente autenticado no SOPLE.
 
 No card **Leilão - Proposta Fechada** clicar no link **Emitir Declaração de Proposta**.
 
 .. image:: ../imagens/7.1LeilaoPropostaFechadaHistorico.png
 
-Ao entrar no recurso clique na opção **Leilão - Proposta Fechada**.
+Ao entrar no recurso clicar na opção **Leilão - Proposta Fechada**.
 
 .. image:: ../imagens/7.3propostas.png
 
-Nessa tela estaram as propostas válidas e inválidas.
+Nessa tela estarão as propostas válidas e inválidas.
 
 Como consultar o Histórico de Propostas?
 ########################################
-Além de todos os registros de Proposta serem apresentados na tela Minhas Manifestações e Proposta, também é possível criar o arquivo com o histórico de todoas as propostas feitas.
-Conforme a imagem clique no botão "Emitir Histórico de Proposta".
+Além de da tela “Minhas Manifestações e Propostas” apresentar todos os registros de Proposta serem apresentados na tela Minhas Manifestações e Proposta,
+também é possível criar o arquivo com o histórico de todoastodas as propostas feitas. Conforme a imagem abaixo, clique clicar no botão “Emitir Histórico de Proposta”
 
 .. image:: ../imagens/7.3propostasBotaoHistorico.png
 
-Nesse momento o sistema vai gerar um arquivo PDF que não tem validade probatória, mas desta todos os valores de lances, áreas e dados do edital da proposta.
+Nesse momento, o sistema vai gerará um arquivo PDF (que não tem validade probatória,) mas destaque apresenta todos os valores de lances,
+áreas e dados do edital da(s) proposta(s), incluindo seus status (Fechada/Válida e Aberta/Inválida).
 
 .. image:: ../imagens/7.3DocumentoHistorico.png
 
@@ -108,12 +110,14 @@ O documento será apresentado no seguinte modelo:
 
 .. image:: ../imagens/7.3PDFDeclaracao.png
 
-2 - Para acessar o validador, entre no Portal Público e acesse o menu “Autenticar Documento”. Não é necessário estar logado no sistema para acessar esta tela e realizar a validação do documento.
+2 - Para acessar o autenticador, entrar no Portal Público e clicar o menu “Autenticar Documento”. Não é necessário estar logado no sistema para acessar esta tela e realizar a validação do documento.
 
 .. image:: ../imagens/4.2AutenticacaoDocumentoPortalPublico.png
 
-Neste recurso é possível validar o documento fazendo o Upload do mesmo ou informando o código único da Declaração da Proposta.
+Neste recurso é possível validar o documento fazendo o Upload dele ou informando o código único da Declaração da Proposta.
 
 .. image:: ../imagens/4.2AutenticacaoFormaValidacao.png
 
 Caso o documento seja válido será apresentada uma mensagem informando a validade do documento.
+
+.. image:: ../_images/4.2DocumentoValidoFaseRegistroInteresse.png

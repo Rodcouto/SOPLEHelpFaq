@@ -12,7 +12,7 @@ Na Funcionalidade de Registro de Interesse, busque pelas áreas de seu interesse
 
 .. image:: ../imagens/4.9RegistrarInteresseAvaliacaoSocial2.jpg
 
-Informe os dados da Manifestação de intersse que serão utilizados para avaliação social, tamanho da área da posse Propriedade ou acordo com o superficiário e caso seja o ganhador da área informe se pretende realizar o requerimento total, ou parcial, caso parcial, informe o tamanho da área que será requerida. Conforme imagem a seguir.  
+Informe os dados da Manifestação de Interesse que serão utilizados para avaliação social, tamanho da área da posse Propriedade ou acordo com o superficiário e caso seja o ganhador da área informe se pretende realizar o requerimento total, ou parcial, caso parcial, informe o tamanho da área que será requerida. Conforme imagem a seguir.
 
 .. image:: ../imagens/4.9RegistrarInteresseAvaliacaoSocial3.jpg
 

@@ -1,12 +1,12 @@
 ﻿Como realizar o Requerimento de Disponibilidade de Área da OFERTA PÚBLICA e AVALIAÇÃO SOCIAL para Permissão de Lavra Garimpeira (PLG)? 
 ======================================================================================================================================
 
-1. Identificando no SOPLE se estou apto a fazer o requerimento de uma área :
+1. Identificando no SOPLE se estou apto a fazer o requerimento de uma área:
 	Entre no edital que está participando e verifique o resultado apresentado no “TERMO DE HOMOLOGAÇÃO E ADJUDICAÇÃO” da oferta pública e avaliação social para identificar as áreas pelas quais tem direito ao requerimento. 
 	
 2. Onde encontrar o respectivo requerimento de disponibilidade de PLG para Oferta Pública e Avaliação Social previsto no Edital? E como preencher? 
 
-Acesso ao requerimento de Lavra Garimpeira – Oferta Pública / Avaliação Sociall: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
+Acesso ao requerimento de Lavra Garimpeira – Oferta Pública / Avaliação Social: https://sistemas.anm.gov.br/SCM/Extra/site/requerimento/preencherRequerimento.aspx?codigoTipoRequerimento=37
 	
 	Caso deseje navegar pelo sistema, o recurso está em Requerimentos / Complementar / Requerimento de Lavra Garimpeira - Oferta Pública / Avaliação Social
 		

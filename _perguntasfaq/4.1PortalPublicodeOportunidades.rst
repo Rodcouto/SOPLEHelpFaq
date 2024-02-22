@@ -5,7 +5,7 @@ Acesse o endereço https://sople.anm.gov.br;
 
 A página exibida é o Painel Público de Oportunidades do SOPLE.
 
-Esta página exibe a lista das Rodadas de Disponibilidade de Áreas por meio de Oferta Pública e Leilão ou Avaliação Socia.
+Esta página exibe a lista das Rodadas de Disponibilidade de Áreas por meio de Oferta Pública e Leilão Eletrônico - Proposta Fechada ou Avaliação Social.
 
 Clicando na imagem com um “i” (Detalhes) serão exibidas as Informações do Edital e ao clicar no ícone do “folheto” (Documentos) serão exibidos os Documentos do Processo. Vejam a Figura a seguir:
 
@@ -41,7 +41,7 @@ Fase que os participantes podem “Registrar Interesse” nas áreas disponibili
 
 - **Leilão - Proposta Fechada**
 
-Fase aplicável somente as áreas que são objeto de mais de uma manifestação de interesse na fase de Oferta Pública e de maneira exclusiva aos participantes que manifestaram interesse para esta(s) respectiva(s) área(s) na fase de Oferta Pública. Nesta fase, estes participantes podem “Registrar Proposta” e emitir a Declaração de Proposta.
+Fase aplicável somente ás áreas que são objeto de mais de uma manifestação de interesse na fase de Oferta Pública e de maneira exclusiva aos participantes que manifestaram interesse para esta(s) respectiva(s) área(s) na fase de Oferta Pública. Nesta fase, estes participantes podem “Registrar Proposta” e emitir a Declaração de Proposta.
 
 - **Recursos Administrativos**
 
@@ -53,7 +53,7 @@ Fase que serão validados e divulgados de maneira oficial o resultado e os vence
 
 - **Requerimentos**
 
-Fase que os participantes que realizaram manifestação de interesse de maneira única na fase de Oferta Pública Prévia e os participantes vencedores da fase de Leilão ou de Avaliação Social podem realizar os seus requerimentos de título minerário. 
+Fase que os participantes que foram os únicos que realizaram manifestação de interesse na área de maneira única , na fase de Oferta Pública Prévia , bem como e os participantes vencedores da fase de Leilão ou de Avaliação Social podem realizar os seus requerimentos de título minerário.
 
 - **Sanções**
 

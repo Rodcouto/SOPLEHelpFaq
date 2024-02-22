@@ -1,7 +1,18 @@
 O que é o SOPLE?
-=========================================================================
+================
 
-O SOPLE é o sistema eletrônico oficial da ANM para os procedimentos de Oferta Pública e Leilão de áreas em Disponibilidade, criado para atender a Resolução Nº 24, de 3 de fevereiro de 2020. 
+O SOPLE é o sistema eletrônico oficial da ANM para os procedimentos de Oferta Pública e Leilão de áreas em disponibilidade, criado para atender a Resolução Nº 24, de 3 de fevereiro de 2020.
 
 SOPLE - Sistema de Oferta Pública e Leilão de Áreas em Disponibilidade.
 
+Quando começa a funcionar o Sistema de Oferta Pública e Leilão de áreas?
+========================================================================
+
+O Sistema  de Oferta Pública e Leilão irá começar a funcionar a partir da publicação do Edital no Diário Oficial da União.
+
+Quais os dias e horários de funcionamento do SOPLE?
+===================================================
+
+Todos os dias, 24h por dia. O SOPLE funcionará sempre de acordo com o fuso horário de Brasília/DF.
+
+Serão aceitas manifestações de interesse em áreas e participação em leilões nos períodos e datas definidos nos Editais.

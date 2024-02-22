@@ -1,7 +1,7 @@
 ﻿Como realizar o Requerimento de Área da OFERTA PÚBLICA? 
 =======================================================
 
-1. Gerar e pagar o emolumento nos prazos definidos em Edital da RODADA:
+1. Gerar o boleto e pagar o emolumento nos prazos definidos em Edital da RODADA:
     https://sistemas.dnpm.gov.br/dipar_externo/cobranca/emolumentos.asp
    
     Emolumento n.° 1 para PESQUISA
@@ -21,18 +21,10 @@
 	
 	3.3 Informar o Código do requerimento - Deve ser o mesmo informado no requerimento do passo 2;
 	
-	3.4 Anexar os documentos complementares e informar os dados do emolumento, não esquecendo de anexar seu comprovante do pagamento;
+	3.4 Anexar os documentos complementares e informar os dados do emolumento, não esquecendo de anexar o comprovante do pagamento;
 
 **Observações importantes:**
 
 - Além dos dados do Requerente, do Responsável técnico e de ajustes nas coordenadas de latitude e longitude no memorial descritivo da poligonal, o interessado deve ter atenção especial ao preenchimento da(s) substância(s) e ao tipo de propriedade do solo para que cumpra com o que determina o edital e a legislação mineral vigente, sob risco de indeferimento do requerimento.
-- Ao finalizar a protocolização consulte se o seu processo foi gerado corretamente no **SEI** da ANM. Caso apareça o documento intitulado “Erro” ao final do processo, não houve a finalização do requerimento, devendo ser repetidos os passos do item 3, acima.
+- Ao finalizar a protocolização consultar se o seu processo foi gerado corretamente no **SEI** da ANM. Caso apareça o documento intitulado “Erro” ao final do processo, não houve a finalização do requerimento, devendo ser repetidos os passos do item 3, acima.
 - O Protocolo Digital permitirá protocolizar o requerimento apenas dentro dos prazos definidos no edital da Rodada.
-
-
-
-
-
-
-
-
