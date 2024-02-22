@@ -1,6 +1,7 @@
 Informações gerais dos Processos
 ================================
 Nesta seção são apresentadas informações gerais sobre os Processos (e suas respectivas áreas) presentes na base de dados do SOPLE.
+
     1) Por rotina automatizada de pesquisa, que busca, a partir das informações e eventos dispostos no Sistema de Cadastro Mineiro (SCM), Processos que se enquadrem em situação (cenário) onde é prevista a inserção da área em Edital de Disponibilidade.
     2) Via nominação de área (maiores informações na seção “Nominar Áreas” abaixo).
 
@@ -62,6 +63,7 @@ Para nominar um Processo basta inserir seu número em formato reduzido (XXX.XXX/
 **Link para acesso:** `Nominar Áreas <https://sople.anm.gov.br/portalpublico/areas-nominadas/nova>`_
 
 **OBSERVAÇÕES IMPORTANTES:**
+
     • As nominações de áreas ocorrem sempre de forma anônima (não é solicitado/registrado o interessado pela indicação).
     • Considera-se, para todos os efeitos, que as nominações de Processos são somente sugestões – ou seja, não é garantia que suas respectivas áreas serão ofertadas.
     • Os Processos nominados serão objeto de depuração para verificação da real aptidão à oferta de suas áreas em Rodadas de Disponibilidade.
