@@ -55,6 +55,12 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
 .. toctree::
    :maxdepth: 3
+   :caption: Solicitar Reanálise de Áreas
+
+   _perguntasfaq/12.SolicitarRetiradaAreas.rst
+
+.. toctree::
+   :maxdepth: 3
    :caption: Requerimentos
 
    _perguntasfaq/8.RequerimentoLeilaoPropostaFechada.rst
