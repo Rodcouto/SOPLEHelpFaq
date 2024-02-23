@@ -85,6 +85,22 @@ Clicar no nome no topo da tela e em seguida em Portal.
 
 .. image:: ../imagens/4.2PortalMineiradorTarefasRegistroInteresse.png
 
+
+Notificação Pessoal - Termo de Adesão
+#####################################
+
+Para iniciar o Registro de Interesse é necessário aceitar os termos de adesão, onde o usuário informa a ANM como será notificado durante toda a fase do Leilão, nele são dispostas as oções por endereço físico e
+eletrônica por e-mail.
+
+Caso não exista na base de dados os dados de endereço ou o cadastro do participante ainda não tenha sido feito no SCD só será possível selecionar a opção para envio emetrônico.
+
+.. image:: ../imagens/4.2NotificacaoPessoalTermoDeAdesaao.png
+
+A opção selecionada podera ser altarada a qualquer momento, atraves da opção Rodadas/Notificações, selecionado o edital e altarando a opção através da mesma tela.
+
+.. image:: ../imagens/4.2NotificacaoPessoalTermoDeAdesaaoAlterar.png
+
+
 Como Registrar Interesse em Áreas?
 ##################################
 
