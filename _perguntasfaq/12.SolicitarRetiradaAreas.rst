@@ -3,29 +3,29 @@ Solicitar Retirada de Áreas
 Recurso criado para que os interessados em áreas que estão incluidas em uma rodada, possam fazer a solicitação da retirada de uma ou mais áreas, passando o motivo para o mesmo.
 
 Datalhes do procecsso
-**********************
+#####################
  - O Interessado deve estar logado no SOPLE para ter acesso a realizar a solicitação de retirada;
  - A Solicitação pode ser feita em qualquer fase do edital;
  - Todas as solcitações são avalidas pela CED (Comissão do Edital de Disponibilidade);
 
 Rotas de Acesso a Solcitação
-############################
+**********************
 
 Portal Público
-***************
+##############
 Através do detalhes do edital, onde foi adicionado o botão "Solicitar Retirada de Áreas".
 
 .. image:: ../imagens/12.PortalPublicoSolicitarRetiradaAreas.png
 
 Portal do Minerador
-*******************
+###################
 Acessado através do menu Rodadas, Retirada de Áreas, onde será póssivel selecionar o edital a qual deseja pedir a retirada da área.
 
 .. image:: ../imagens/12.PortalRetiradaAreas.png
 
 
 Filtros e Ações para Solicitar Retirada de Áreas
-################################################
+************************************************
 
 Para a identificação das áreas os sistema disponibiliza os campos de pesquisa:
 
@@ -41,7 +41,7 @@ Para a identificação das áreas os sistema disponibiliza os campos de pesquisa
 
 
 Solicitar Retirada de Área
-##########################
+**************************
 
 Ao clicar em Solicitar Retirada de Área, o usuário é redirecionado para tela Solicitação de Retirada de Área, onde são apresentados os dados:
     - **Rodada:** campo que corresponde ao número da rodada do edital em que está sendo feita a solicitação.
@@ -66,7 +66,7 @@ Na tabela seguinde é apresentado os campos:
 
 
 Botão + Solicitar Retirada da Área
-**********************************
+##################################
 Caso o botão esteja habiltiado, ao clicar o sistema apresetna uma janela onde o minerador pode informar em 1000 caracteres o seu motivo pela retirada da Área.
 
 .. image:: ../imagens/12.SolicitaRetirada.png
@@ -76,13 +76,13 @@ Ao terminar o preenchimento e clicar em Enviar, o sistema apresenta uma mensagem
 .. image:: ../imagens/12.MensagemAtencao.png
 
 Excluir Solcitação de Retirada de Área
-**************************************
+######################################
 Caso o usuário tenha identificado que existe a necessidade de excluir o requerimento que fez, é possivel remover essa solicitação caso ainda não tenha transitado 
 
 .. image:: ../imagens/12.ExcluirRetirada.png
 
 Resultado da Solcitação de Retirada
-***********************************
+###################################
 
 As situações da solcitação podem ser:
 
