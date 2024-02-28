@@ -9,7 +9,7 @@ Datalhes do procecsso
  - Todas as solcitações são avalidas pela CED (Comissão do Edital de Disponibilidade);
 
 Rotas de Acesso a Solcitação
-**********************
+****************************
 
 Portal Público
 ##############
@@ -34,6 +34,7 @@ Para a identificação das áreas os sistema disponibiliza os campos de pesquisa
     - **Estado:** possibilita a busca de Processos a partir da Unidade da Federação nos quais estes foram gerados.
     - **Situação da Área:** permite a busca de Processos a partir de sua situação de aptidão do SOPLE (para maiores detalhes, ver seção “Informações gerais dos Processos”).
     - **Ação:**
+
         1) Detalhes: contém ícone que permite a expansão de card com maiores detalhes sobre um Processo específico. Ao acessar esta opção, é exibido um card (ver exemplo abaixo) específico sobre o Processo, que contempla, além das informações já detalhadas anteriormente, diversas informações extraídas do histórico do Processo no Sistema de Cadastro Mineiro (SCM) e algumas outras. Ressaltamos as seguintes:
         2) Solicitar Retirada: que inicia o processo de retirada da área em questão.
 
