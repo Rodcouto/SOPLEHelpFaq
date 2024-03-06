@@ -67,7 +67,7 @@ Na tabela seguinte é apresentado os campos:
 
 
 Botão + Solicitar Reanálise de Áreas
-************************************
+####################################
 
 Caso o botão esteja habilitado, ao clicar o sistema apresenta uma janela no qual o minerador pode informar em, no máximo, 1000 caracteres o motivo da reanálise de aptidão da área.
 
@@ -78,13 +78,13 @@ Ao terminar o preenchimento e clicar em Enviar, o sistema apresenta uma mensagem
 .. image:: ../imagens/12.MensagemAtencao.png
 
 Excluir Solicitação de Reanálise de Áreas
-*****************************************
+#########################################
 Caso o usuário tenha identificado que exista a necessidade de excluir a solicitação realizada, é possível remover essa solicitação caso ainda não tenha resposta da CED.
 
 .. image:: ../imagens/12.ExcluirRetirada.png
 
 Resultado da Solicitação de Reanálise de Áreas
-**********************************************
+##############################################
 
 A situação da solicitação pode ser:
 
