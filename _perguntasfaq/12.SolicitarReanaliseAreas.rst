@@ -4,9 +4,9 @@ Os usuários podem solicitar reanálises de aptidão de áreas selecionadas para
 
 Importante
 ##########
- - O Interessado deve estar logado no SOPLE para ter acesso a realizar a solicitação de retirada;
- - A Solicitação pode ser feita em qualquer fase do edital;
- - Todas as solcitações são análisadas pela CED (Comissão do Edital de Disponibilidade);
+ - O Interessado deve estar logado no SOPLE para ter acesso a realizar a solicitação de reanálise de áreas;
+ - A Solicitação pode ser feita até o prazo definido em edital;
+ - Todas as solcitações serão analisadas pela CED (Comissão do Edital de Disponibilidade);
 
 Rotas de Acesso a Solicitação
 =============================
@@ -27,7 +27,7 @@ Acessado através do menu Rodadas, Solicitação de Reanálise de Áreas, no qua
 Filtros e Ações para Solicitar Reanálise de Áreas
 #################################################
 
-Para a identificação das áreas os sistema disponibiliza os campos de pesquisa:
+Para a identificação das áreas os sistema disponibiliza os seguintes campos de pesquisa:
 
     - **Número da Área:** campo que corresponde o número da área dentro do edital.
     - **Número do Processo:** campo utilizado para pesquisa de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA) no Estoque de Áreas do SOPLE.
@@ -42,14 +42,14 @@ Para a identificação das áreas os sistema disponibiliza os campos de pesquisa
 .. image:: ../imagens/12.SolicitarReanaliseArea.png
 
 Solicitar Reanálise de Áreas
-############################
+============================
 
-Ao clicar e, o usuário é redirecionado para tela Solicitação de Retirada de Área, onde são apresentados os dados:
+Ao clicar no item (:fa:`fa-solid fa-commenting-o`), o usuário é redirecionado para tela Solicitação de Reanalise de Área, onde são apresentados os dados:
     - **Rodada:** campo que corresponde ao número da rodada do edital em que está sendo feita a solicitação.
     - **Objeto:** campo que corresponde ao objetivo a ser atingido com o edital.
     - **Modalidade:** campo que corresponde a modalidade do edital.
-    - **Nº do Processo:** campo que corresponde ao número que foi definido par aidentificação do edital.
-    - **Nº da Área:** campo que corresponde a área do edital correspondente a solcitação de retirada.
+    - **Nº do Processo:** campo que corresponde ao número do processo SEI correspondente a rodada.
+    - **Nº da Área:** campo que corresponde a área do edital correspondente solicitação de reanálise de aptidão.
 
 Na tabela seguinte é apresentado os campos:
     - **Número da área:** campo que corresponde o número da área dentro do edital.
@@ -86,7 +86,7 @@ Caso o usuário tenha identificado que exista a necessidade de excluir a solicit
 Resultado da Solicitação de Reanálise de Áreas
 **********************************************
 
-As situações da solcitação podem ser:
+A situação da solicitação pode ser:
 
     - **Enviada:** indica o envio da solicitação, mas ainda sem a análise da CED.
     - **Excluída:** indica que foi removida pelo solicitante.
