@@ -1,3 +1,6 @@
 _build/
 doc/
+doc/html
 _static/
+imagens/Downloads
+.idea/

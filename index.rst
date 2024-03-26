@@ -48,7 +48,13 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    :caption: Leilão - Proposta Fechada
 
    _perguntasfaq/7.1EncontrandoOLeilao
-   
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Recursos Administrativos
+
+   _perguntasfaq/11.0RecursosAdministrativos
+
 .. toctree::
    :maxdepth: 3
    :caption: Avaliação Social 
