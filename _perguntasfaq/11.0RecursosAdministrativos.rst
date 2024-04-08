@@ -110,8 +110,6 @@ Ao finalizar o período de Interpor Recurso, a CED realizará a análise de cada
  - **Acatado Parcialmente**
  - **Não Acatado**
 
-Não Acatado
-
 Após o período de análise dos recursos administrativos pela CED, é divulgado, conforme determinado no edital, o documento contendo as decisões e apresentado em detalhes dos recursos as Notas Técnicas elaboradas pela CED.
 
 **Recurso acatado pela CED:**
