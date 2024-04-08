@@ -13,6 +13,7 @@ Portal Público
 ##############
 A partir dos detalhes do edital, no card Recursos Administrativos, no link Interpor Recursos Administrativos.
 Lembrando que somente é possível fazer este procedimento durante o período de Interpor Recursos.
+Ressalta-se que as datas início e fim do card referem respectivamente ao período de interposição de recursos e a análise final pela Diretoria Colegiada.
 
 .. image:: ../imagens/11.AcessoPortalRecursoAdministrativo.png
 
@@ -30,7 +31,7 @@ Para a identificação das áreas os sistema disponibiliza os seguintes campos d
     - **Número da Área:** campo que corresponde o número da área dentro do edital.
     - **Número do Processo:** campo utilizado para pesquisa de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA) relacionado ao edital.
     - **Estado:** possibilita a busca de Processos a partir da Unidade da Federação nos quais estes foram gerados.
-    - **Situação da Área:** permite a busca de Processos a partir de sua situação de aptidão do SOPLE (para maiores detalhes, ver seção “Informações gerais dos Processos”).
+    - **Situação da Área:** permite a busca de Processos a partir de sua situação no edital.
     - **Município:** possibilita a busca de Processos a partir do município no qual a área está localizada.
     - **Ação:**
 
@@ -109,6 +110,10 @@ Ao finalizar o período de Interpor Recurso, a CED realizará a análise de cada
  - **Acatado Parcialmente**
  - **Não Acatado**
 
+Não Acatado
+
+Após o período de análise dos recursos administrativos pela CED, é divulgado, conforme determinado no edital, o documento contendo as decisões e apresentado em detalhes dos recursos as Notas Técnicas elaboradas pela CED.
+
 **Recurso acatado pela CED:**
 
 A CED reconsidera a decisão das fases anteriores com a realização de ajustes necessários antes da fase de homologação e adjudicação e o recurso não será submetido apreciação da Superintendência de Ordenamento Mineral e Disponibilidade de Áreas (SOD). Na ‘Lista de Interposições de Recursos Administrativos’ a situação modifica para Acatado.
@@ -131,8 +136,6 @@ Em detalhes do recurso é apresentado a Nota Técnica elaborada pela CED.
 .. image:: ../imagens/11.DetalhesParcialmenteAcatadoCED.png
 .. image:: ../imagens/11.DetalheNaoAcatadoCED.png
 
-Após o período de análise dos recursos administrativos pela CED é divulgado o documento contendo as decisões conforme determinado no edital.
-
 Análise da SOD (Superintendência de Ordenamento Mineral e Disponibilidade de Áreas)
 ###################################################################################
 
@@ -141,6 +144,8 @@ A SOD realizará a análise de cada um dos Recursos interpostos, com as seguinte
  - **Acatado**
  - **Acatado Parcialmente**
  - **Não Acatado**
+
+Após o período de análise dos recursos administrativos pela SOD, é divulgado, conforme determinado no edital, o documento contendo as decisões e apresentado em detalhes dos recursos as Notas Técnicas elaboradas pela SOD.
 
 **Recurso acatado pela SOD:**
 A SOD reconsidera a decisão das fases anteriores com a realização de ajustes necessários antes da fase de homologação e adjudicação e o recurso não será submetido ao julgamento, em última instância, da Diretoria Colegiada da ANM. Na ‘Lista de Interposições de Recursos Administrativos’ a situação modifica para Acatado.
@@ -163,7 +168,6 @@ Em detalhes do recurso é apresentado a Nota Técnica elaborada pela SOD.
 .. image:: ../imagens/11.NapAcatadoDetalheSOD.png
 .. image:: ../imagens/11.ParcialDetalhesSOD.png
 
-Após o período de análise dos recursos administrativos pela SOD é divulgado o documento contendo as decisões conforme determinado no edital.
 
 Análise da DIRC (Diretoria Colegiada da ANM)
 ############################################
@@ -173,6 +177,8 @@ A DIRC realizará a análise de cada um dos Recursos interpostos, com as seguint
  - **Acatado**
  - **Acatado Parcialmente**
  - **Não Acatado**
+
+Após o período de análise dos recursos administrativos pela DIRC é apresentado em detalhes dos recursos as decisões da DIRC.
 
 **Recurso acatado pela DIRC:**
 As decisões das fases anteriores são reconsideradas com a realização de ajustes necessários antes da fase de homologação e adjudicação. Na ‘Lista de Interposições de Recursos Administrativos’ a situação modifica para Acatado.
@@ -191,4 +197,8 @@ A DIRC mantem a decisão da SOD, havendo possíveis ajustes, quando parcialmente
 
 .. image:: ../imagens/11.NaoAcatadoDirc.png
 
+Em detalhes do recurso é apresentado a Nota Técnica elaborada pela DIRC.
 
+.. image:: ../imagens/11.ParcialmenteAcatadoDetalheDirc.png
+
+.. image:: ../imagens/11.NaoAcatadoDetalheDirc.png
