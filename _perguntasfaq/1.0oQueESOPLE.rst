@@ -22,9 +22,4 @@ Quando começa a 8.a Rodada de Disponibilidade?
 
  O planejamento da 8.a Rodada se iniciou em Novembro de 2023. O Edital encontra-se publicado e a Oferta Pública, terá início em 21 de maio de 2024.  
 
-.. raw:: html
 
-    <video width="600" controls>
-      <source src="../videos/Apresentação SOPLE.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
