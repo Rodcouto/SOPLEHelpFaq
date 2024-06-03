@@ -21,8 +21,3 @@ Quando começa a 8.a Rodada de Disponibilidade?
 ===================================================
 
  O planejamento da 8.a Rodada se iniciou em Novembro de 2023. O Edital encontra-se publicado e a Oferta Pública, terá início em 21 de maio de 2024.  
-
-
-.. raw:: html
-
-<iframe src="https://anmbr-my.sharepoint.com/personal/diego_vieira_anm_gov_br/_layouts/15/embed.aspx?UniqueId=38c0279e-c27d-4c26-a1dc-b1bdb9b7d97f&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Apresentação SOPLE .mp4"></iframe>
