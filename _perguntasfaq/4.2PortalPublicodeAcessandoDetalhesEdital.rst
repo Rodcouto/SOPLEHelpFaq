@@ -89,14 +89,18 @@ Clicar no nome no topo da tela e em seguida em Portal.
 Notificação Pessoal - Termo de Adesão
 #####################################
 
-Para iniciar o Registro de Interesse é necessário aceitar os termos de adesão, onde o usuário informa a ANM como será notificado durante toda a fase do Leilão, nele são dispostas as oções por endereço físico e
-eletrônica por e-mail.
+Para iniciar o Registro de Interesse é necessário aceitar os termos de adesão.
 
-Caso não exista na base de dados os dados de endereço ou o cadastro do participante ainda não tenha sido feito no SCD só será possível selecionar a opção para envio emetrônico.
+Informe sua preferência de comunicação com a ANM durante as fases da Rodada, escolhendo entre as opções de endereço físico (Notificação Pessoal por Endereço Físico - Correio/AR) ou e-mail (Notificação Pessoal Eletrônica - E-mail).
+
+Caso não exista endereço físico cadastrado no sistema do SCD, somente será possível escolher a opção de e-mail.
+
+O endereço de e-mail utilizado será aquele cadastrado no Portal GOV.BR.
 
 .. image:: ../imagens/4.2NotificacaoPessoalTermoDeAdesaao.png
 
 A opção selecionada podera ser altarada a qualquer momento, atraves da opção Rodadas/Notificações, selecionado o edital e altarando a opção através da mesma tela.
+**Observação:** Essa alteração somente pode ser feita até o fim da etapa de Leilão - Proposta Fechada.
 
 .. image:: ../imagens/4.2NotificacaoPessoalTermoDeAdesaaoAlterar.png
 
