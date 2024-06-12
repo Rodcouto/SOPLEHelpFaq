@@ -13,11 +13,11 @@ O pagamento fica junto ao Requerimento de áreas tendo seu acesso através:
 
 **Painel do Minerador:**
 
-    Acessado em Protal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
+    Acessando em Protal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
 
     .. image:: ../imagens/10.TelaRequerimentoPainel.png
 
-**Observação:** Em abas as opções a possíbilidade de fazer o pagamento de Lance e Emolumentos fica atrelada a fase do edital, que deve estar na situação **"Em Registro de Requerimentos"**.
+**Observação:** Em ambas as opções a possibilidade de fazer o pagamento de Lance e Emolumentos fica atrelada a fase do edital, que deve estar na situação **"Em Registro de Requerimentos"**.
 
 Página de Requerimentos:
 
@@ -25,7 +25,7 @@ Página de Requerimentos:
 
 Filtros
 
-    - **Número da Área:** campo utilziando para pesquisa de uma área pelo seu identificador no edita.
+    - **Número da Área:** campo utilizado para pesquisa de uma área pelo seu identificador no edital.
     - **Número do Processo:** campo utilizado para pesquisa de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA) no Estoque de Áreas do SOPLE.
     - **Estado:** possibilita a busca de Processos a partir da Unidade da Federação nos quais estes foram gerados.
     - **Município:** possibilita a busca de Processos a partir dos municípios da Unidade da Federação selecionada anteriormente.
@@ -33,7 +33,7 @@ Filtros
 Pagamento de Lance
 ##################
 
-Em cada área que está na situação "Arrematada", é habilitado o ícode (:fa:`fa-solid fa-credit-card`) "Gerar Boleto Lance", que abre uma tela com o boleto para impressão.
+Para cada área que se encontra na situação "Arrematada", é habilitado o ícone (:fa:`fa-solid fa-credit-card`) "Gerar Boleto Lance", que abre uma tela com o boleto para impressão.
 
 .. image:: ../imagens/10.RequerimentoBotaoBoleto.png
 
