@@ -24,6 +24,7 @@ Página de Requerimentos:
 .. image:: ../imagens/10.TelaRequerimentoUsario.png
 
 Filtros
+
     - **Número da Área:** campo utilziando para pesquisa de uma área pelo seu identificador no edita.
     - **Número do Processo:** campo utilizado para pesquisa de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA) no Estoque de Áreas do SOPLE.
     - **Estado:** possibilita a busca de Processos a partir da Unidade da Federação nos quais estes foram gerados.
