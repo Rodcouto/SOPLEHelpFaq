@@ -1,2 +1,61 @@
 Como realizar o pagamento dos Lances e Emolumentos?
 ===================================================
+
+Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologação e Adjudicação, onde o ficará habilitado o para a geração conforme a situação da área.
+
+O pagamento fica junto ao Requerimento de áreas tendo seu acesso através:
+
+- Portal Público:
+    Acessando os Detalhes do Edital, card de Requerimento em Listar áreas Conquistadas e/ou Arrematadas.
+
+    .. image:: ../imagens/10.RequerimentoPortalPublico.png
+
+- Painel do Minerador:
+    Acessado em Rodadas, Requerimentos, Selecionando o edital em Requerimento.
+
+    .. image:: ../imagens/10.TelaRequerimentoPainel.png
+
+**Observação:** Em abas as opções a possíbilidade de fazer o pagamento de Lance e Emolumentos fica atrelada a fase do edital, que deve estar na situação **"Em Registro de Requerimentos"**.
+
+Tela de Requerimentos:
+
+.. image:: ../imagens/10.TelaRequerimentoUsario.png
+
+Pagamento de Lance
+##################
+
+Em cada área que está na situação "Arrematada", é habilitado o ícode (:fa:`fa-solid fa-credit-card`) "Gerar Boleto Lance", que abre uma tela com o boleto para impressão.
+
+.. image:: ../imagens/10.RequerimentoBotaoBoleto.png
+
+O sistema vai abrir uma tela para impressão do boleto, através do botão "Gerar".
+
+.. image:: ../imagens/10.GerarBoleto.png
+
+Caso precise baixar novamente o boleto, ao acessar o botão (:fa:`fa-solid fa-credit-card`) "Gerar Boleto Lance", será possível imprimir uma segunda via.
+
+.. image:: ../imagens/10.SegundaViaBoleto.png
+
+Ao realizar o pagamento o sistema pode levar até 3 dias úteis para a compensação do mesmo, assim que for compensado o valor a situação do Boleto passa para **Pago**.
+
+.. image:: ../imagens/10.BoletoPago.png
+
+
+Pagamento de Emolumento
+#######################
+
+Modelo de pagamento para áreas que são do **Regime de Pesquisa**, é habilitado o ícone "Gerar Emolumentos".
+
+.. image:: ../imagens/10.GerarEmolumento.png
+
+O sistema abrirá uma tela com o botão + Gerar Boleto de Emolumento e a lista de emolumentos já criados. Ao clicar em Gerar Boleto de Emolumento, um novo boleto é criado, lembrando que para requerer a área em partes é necessário pagar um emolumento por parte.
+
+.. image:: ../imagens/10.GerarNovoEmoluamento.png
+
+Caso precise baixar novamente o emolumento gerado em "Gerar Emolumentos", será possível imprimir uma segunda via.
+
+.. image:: ../imagens/10.SegundaViaEmolumento.png 
+
+Ao realizar o pagamento o sistema pode levar até 3 dias úteis para a compensação do mesmo, assim que for compensado o valor a situação do Emolumento passa para **Pago**.
+
+.. image:: ../imagens/10.EmolumentoPago.png
