@@ -5,21 +5,29 @@ Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologa�
 
 O pagamento fica junto ao Requerimento de áreas tendo seu acesso através:
 
-- Portal Público:
+Portal Público:
+
     Acessando os Detalhes do Edital, card de Requerimento em Listar áreas Conquistadas e/ou Arrematadas.
 
     .. image:: ../imagens/10.RequerimentoPortalPublico.png
 
-- Painel do Minerador:
-    Acessado em Rodadas, Requerimentos, Selecionando o edital em Requerimento.
+Painel do Minerador:
+
+    Acessado em Protal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
 
     .. image:: ../imagens/10.TelaRequerimentoPainel.png
 
 **Observação:** Em abas as opções a possíbilidade de fazer o pagamento de Lance e Emolumentos fica atrelada a fase do edital, que deve estar na situação **"Em Registro de Requerimentos"**.
 
-Tela de Requerimentos:
+Página de Requerimentos:
 
 .. image:: ../imagens/10.TelaRequerimentoUsario.png
+
+Filtros
+    - **Número da Área:** campo utilziando para pesquisa de uma área pelo seu identificador no edita.
+    - **Número do Processo:** campo utilizado para pesquisa de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA) no Estoque de Áreas do SOPLE.
+    - **Estado:** possibilita a busca de Processos a partir da Unidade da Federação nos quais estes foram gerados.
+    - **Município:** possibilita a busca de Processos a partir dos municípios da Unidade da Federação selecionada anteriormente.
 
 Pagamento de Lance
 ##################
