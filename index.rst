@@ -65,6 +65,11 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/4.10NovoVisualizarHistoricoManifestacoesDeInteresse
    _perguntasfaq/4.11DeclaracaoDeInteresse
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Pagamentos
+
+   _perguntasfaq/10.0Pagamentos.rst
 
 .. toctree::
    :maxdepth: 3
@@ -75,12 +80,6 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    _perguntasfaq/8.2ComoRealizarRequerimentoAreaLEILAO
    _perguntasfaq/8.3ComoRealizarRequerimentoAreaAVALIACAOSOCIAL
    _perguntasfaq/8.4DocumentosEssenciasAVALIACAOSOCIAL
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Pagamentos
-
-   _perguntasfaq/10.0Pagamentos.rst
 
 .. toctree::
    :maxdepth: 3
