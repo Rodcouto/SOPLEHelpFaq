@@ -5,13 +5,13 @@ Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologa�
 
 O pagamento fica junto ao Requerimento de áreas tendo seu acesso através:
 
-Portal Público:
+**Portal Público:**
 
     Acessando os Detalhes do Edital, card de Requerimento em Listar áreas Conquistadas e/ou Arrematadas.
 
     .. image:: ../imagens/10.RequerimentoPortalPublico.png
 
-Painel do Minerador:
+**Painel do Minerador:**
 
     Acessado em Protal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
 
