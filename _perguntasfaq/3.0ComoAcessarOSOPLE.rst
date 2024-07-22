@@ -73,3 +73,11 @@ Clique no cadeado no canto superior direito.
 .. image:: ../imagens/3.0AcessoAoSOPLEBotaoGOVBR.png
 
 Clique no botão "Entrar com GOV.BR".
+
+Uma única vez ao logar no sistema, somente para usuários CNPJ’s, deve selecionar o tipo de empresa que está acessando ao sistema com as respetivas opções: Matriz e Filial (Seleção única).
+
+Após a confirmação, o usuário deve atentar pelo aviso que não será mais permitido a alteração do tipo de empresa selecionado. Do exposto, o sistema exibe a mensagem: ‘’Após a conclusão da ação, não será mais permitido a alteração do tipo de empresa. Deseja continuar? SIM/NÃO.’’
+
+**ATENÇÃO:** O sistema permite a manifestação de interesse somente do usuário (empresa) do tipo **Matriz**. É vedado o cadastramento e a participação de filiais de sociedades empresarias neste procedimento de disponibilidade, sob pena de sanções, conforme disposto no Edital.
+
+.. image:: ../imagens/3.0TipoDaEmpresa.png
