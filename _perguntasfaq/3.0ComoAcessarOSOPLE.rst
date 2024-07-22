@@ -80,4 +80,4 @@ Após a confirmação, o usuário deve atentar pelo aviso que não será mais pe
 
 **ATENÇÃO:** O sistema permite a manifestação de interesse somente do usuário (empresa) do tipo **Matriz**. É vedado o cadastramento e a participação de filiais de sociedades empresarias neste procedimento de disponibilidade, sob pena de sanções, conforme disposto no Edital.
 
-.. image:: ../imagens/3.0 TipoDaEmpresa.png
+
