@@ -1,7 +1,7 @@
 Monitoramento de Áreas
 ======================
 
-A solução da ANM para o acompanhamento de áreas de forma específica de áreas de interesse para cada minerador, onde são facilitados o uso dos recursos de histórico, detalhes da área e principais dados do estoque do SOPLE.
+A Solução da ANM para o acompanhamento de áreas do Estoque de Disponibilidade, de forma específica para cada minerador, facilitando o uso dos recursos de histórico, detalhes da área e demais dados do SOPLE. 
 
 .. image:: ../imagens/2.0TelaPrincipal.png
 
@@ -9,20 +9,20 @@ Dados e Ações da Interface
 ##########################
 
 Na tabela seguinte é apresentado os campos:
-    - **Última Atualização:** campo referente a última vez que houve atualização do processo.
-    - **Processo:** campo que corresponde ao número do processo minerário relacionado a área do edital.
-    - **Estado:** campo referente ao Estado em que se encontra a área.
-    - **Município:** campo referente município que se encontra a área.
-    - **Área Pol:** campo referente ao tamanho da poligonal da área em hectares.
-    - **Tipo de Uso:** campo referente aos tipos de uso atribuídos a área.
-    - **Substância(s):** campo referente a(s) substância(s) relacionada(s) a área no edital vinculada ao cadastro mineiro.
-    - **Regime:** campo referente ao tipo de regime de disponibilidade no qual a área foi disponibilizada no edital.
-    - **Situação no Estoque:** campo referente a situação da área no Estoque do SOPLE.
+    - **Última Atualização:** campo referente à data que ocorreu a última atualização de um ou mais dados da área monitorada.
+    - **Processo:** campo que corresponde ao número do processo minerário relacionado à área monitorada.
+    - **Estado:** campo referente ao Estado em que se encontra a área monitorada.
+    - **Município:** campo referente ao município que se encontra a área monitorada.
+    - **Área Pol:** campo referente ao tamanho da poligonal da área monitorada em hectares.
+    - **Tipo de Uso:** campo referente à aplicação da(s) substância(s) relacionada(s) à área monitorada, conforme Cadastro Mineiro.
+    - **Substância(s):** campo referente  à(s) substância(s) vinculada(s) à área monitorada, conforme Cadastro Mineiro.
+    - **Regime:** campo referente ao tipo de regime de disponibilidade vinculado à área monitorada.
+    - **Situação no Estoque:** campo referente à situação da área monitorada, conforme Estoque de Áreas do SOPLE.
 
 Ações:
     - **Excluir Monitoramento:** remove o monitoramento da área especifica.
     - **Visualizar Histórico:** abre uma modal contendo o histórico de ações da área.
-    - **Detalhes da Área:** abre uma nova página contendo todos os detalhes da áreas encontrados na base de SOPLE.
+    - **Detalhes da Área:** abre uma nova página contendo todos os detalhes da área na base do SOPLE.
 
 
 Como encontrar o recurso
@@ -32,16 +32,16 @@ Ao logar no sistema, e ser redirecionando para o Painel do minerador, em Estoque
 
 .. image:: ../imagens/2.0LinkMonitorarAreas.png
 
-Acessando o recurso  é apresentada a tela com dois campos um para inclusão, pesquisa das áreas incluídas e uma mensagem de que não foi encontrada nenhuma área. 
+Acessando o recurso, é apresentada a tela com dois campos: um para inclusão de novas áreas e outro para pesquisa das áreas incluídas.
 
 .. image:: ../imagens/2.0TelaPrimeiroAcesso.png
 
-**OBS.:** Cada monitoramento é individual, sendo assim, não é divulgado ou mesmo apresentando a outros usuários quem está monitorando qual área.
+**OBS.:** A ferramenta de Monitorar Áreas é individual e de uso privado, ou seja, a ANM não divulgará a outros usuários, ou ao público, dados e/ou informações sobre as áreas monitoradas, como número de usuários monitorando uma área determinada e/ou suas identidades.
 
 Adicionar Áreas para monitoramento
 ##################################
 
-No campo **Digite o Nùmero do Processo** o minerador informa um número válido de processe minerário e clica em **+ Adicionar Área** que faz com que essa área passe a ser acompanhada.
+No campo **Digite o Número do Processo** o minerador informa um número válido de processe minerário e clica em **+ Adicionar Área** que faz com que a área do processo passe a ser monitorada.
 
 .. image:: ../imagens/2.0DigiteNumeroArea.png
 
@@ -63,7 +63,7 @@ ou seja, não é possível ordenar mais de uma coluna.
 Visualizar Histórico
 ####################
 
-Para facilitar a leitura das mudanças que estão acontendo na área monitorada, foi criado uma opção direta ao **Histórico de Ações** para facilitar monitoramento das ações realizadas pela equipe da ANM.
+Para facilitar o acompanhamento da área monitorada, foi criado um acesso direto ao **Histórico de Ações**, com a lista de todas as ações relativas à Disponibilidade de Áreas.
 
 .. image:: ../imagens/2.0HistoricoDeAcoes.png
 

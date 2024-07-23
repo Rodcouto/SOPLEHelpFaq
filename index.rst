@@ -9,6 +9,12 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
 .. toctree::
    :maxdepth: 3
+   :caption: Monitorar Áreas   
+
+   _perguntasfaq/2.0MonitorarAreas.rst
+
+.. toctree::
+   :maxdepth: 3
    :caption: Portal Público
 
    _perguntasfaq/4.1PortalPublicodeOportunidades.rst
