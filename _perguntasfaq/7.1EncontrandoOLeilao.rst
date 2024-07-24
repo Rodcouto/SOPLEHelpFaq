@@ -35,40 +35,33 @@ Como Registrar a Proposta para uma Área?
 ########################################
 
 Na funcionalidade de "Inscrição de Proposta", no campo "Valor da Proposta", informar o valor do Lance a ser considerado para concorrer ao direito de requerer a área com prioridade, conforme as regras do Edital.
+Para que o Lance seja considerado Válido o mesmo tem que ter o valor superior ao **Valor mínimo** e estar marcado como **Cotado (em verde)**, caso ao sair do campo **Valor do Campo** e o Marcardor não for alterado para Cotado deve ser presseionado o **Registrar proposta do item** que fica ao lado do campo.
 
-.. image:: ../imagens/7.2TelaInscricaoProposta1.png
+.. image:: ../imagens/7.2TelaInscricaoPropostaValida.png
 
-Ao informar o valor da proposta, observar a situação da área "Não Cotado" (em vermelho) mudará para "Cotado" (em verde).
+Para não concorrer a uma área em que o lance foi feito e ficou como Cotato, é necessário clicar no botão **Alterar lote para não cotato**, o sistema vai manter o valor informado, mas vai lançar o status como **Não Cotato (Em vermelho)**.
 
-.. image:: ../imagens/7.2TelaInscricaoProposta2Cotado.png
+.. image:: ../imagens/7.2TelaInscricaoPropostaNaoCotada.png
 
-Após Clicar em "Finalizar", observe que a situação "Não Concorrendo" (em vermelho) mudará para "Concorrendo" (em verde). 
-
-O usuário será redirecionado para a funcionalidade de "Sala de Comunicação", onde poderá acompanhar a situação da sua proposta após o término do prazo de envio de proposta.
-
-.. image:: ../imagens/7.2TelaSalaComunicacao3Finalizada.png
+Ao clicar em **Finalizar** usuário será redirecionado para a funcionalidade de "Sala de Comunicação", onde poderá acompanhar a situação da sua proposta após o término do prazo de envio de proposta.
 
 **IMPORTANTE: O USUÁRIO SOMENTE PODE INSCREVER PROPOSTA NA(S) ÁREA(S) EM QUE MANIFESTOU INTERESSE NA FASE DE OFERTA PÚBLICA!**
 
 É possível registrar uma nova Proposta em uma Área?
 ###################################################
 
-Sim, basta acessar novamente a funcionalidade de "Inscrição de Proposta" e informar um novo valor de Proposta (Lance).
+Sim, basta retorar ao recurso de **Registrar Proposta** nos detalhes do Leilão ou pela tela de Tarefas no Portal.
 Lembrar de "Finalizar" a proposta para garantir que estará concorrendo.
 
-Caso o usuário já tenha "Finalizado" o envio de suas propostas, é possível "Reabrir" para envio de nova propostas, desde que esteja dentro do prazo de recebimento de propostas estipulado no Edital. 
+Para reabrir a proposta clique no botão **Reabrir**. Nesse momento os lances já registrados se manteram podendo ser descartdos ou novos lances podem ser feitos.
 
-.. image:: ../imagens/7.3ReabrirPropostas1VisualizarProposta.png
-
-Para "Reabrir", selecionar "Visualizar Propostas" e depois clicar em "Reabrir".
-A funcionalidade de "Inscrição de Proposta" será habilitada novamente para envio de nova proposta.
-
-.. image:: ../imagens/7.3ReabrirPropostas2Reabrir.png
+.. image:: ../imagens/7.2.ReabrirProposta.png
 
 **IMPORTANTE:**
+
 1. O USUÁRIO SOMENTE PODE INSCREVER PROPOSTA NA(S) ÁREA(S) EM QUE MANIFESTOU INTERESSE NA FASE DE OFERTA PÚBLICA!
 
-2. APÓS REABRIR AS PROPOSTAS E REALIZAR AS ALTERAÇÕES, LEMBRE-SE DE **FINALIZAR** NOVAMENTE PARA QUE AS PROPOSTAS SEJAM VÁLIDAS E CONCORRENDO!
+2. APÓS REABRIR AS PROPOSTAS E REALIZAR AS ALTERAÇÕES, LEMBRE-SE DE **FINALIZAR** NOVAMENTE PARA QUE AS PROPOSTAS SEJAM VÁLIDAS E ESTEJA CONCORRENDO!
 
 Como consultar Minhas Propostas?
 ################################
