@@ -35,11 +35,11 @@ Como Registrar a Proposta para uma Área?
 ########################################
 
 Na funcionalidade de "Inscrição de Proposta", no campo "Valor da Proposta", informar o valor do Lance a ser considerado para concorrer ao direito de requerer a área com prioridade, conforme as regras do Edital.
-Para que o Lance seja considerado Válido o mesmo tem que ter o valor superior ao **Valor mínimo** e estar marcado como **Cotado (em verde)**, caso ao sair do campo **Valor do Campo** e o Marcardor não for alterado para Cotado deve ser presseionado o **Registrar proposta do item** que fica ao lado do campo.
+Para que o Lance seja considerado Válido o mesmo tem que ter o valor superior igual ou superior ao **Valor mínimo** e estar marcado como **Cotado (em verde)**. Caso ao sair do campo **Valor do Lance** e o marcardor não for alterado para Cotado deve ser pressionado o botão **Registrar proposta do item** que fica ao lado do campo.
 
 .. image:: ../imagens/7.2TelaInscricaoPropostaValida.png
 
-Para não concorrer a uma área em que o lance foi feito e ficou como Cotato, é necessário clicar no botão **Alterar lote para não cotato**, o sistema vai manter o valor informado, mas vai lançar o status como **Não Cotato (Em vermelho)**.
+Para não concorrer a uma área em que o lance foi feito e ficou como Cotado, é necessário clicar no botão **Alterar lote para não cotato**, o sistema vai manter o valor informado, mas vai lançar o status como **Não Cotado (Em vermelho)**.
 
 .. image:: ../imagens/7.2TelaInscricaoPropostaNaoCotada.png
 
