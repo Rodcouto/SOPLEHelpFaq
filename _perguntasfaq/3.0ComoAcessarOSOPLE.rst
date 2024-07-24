@@ -74,6 +74,22 @@ Clique no cadeado no canto superior direito.
 
 Clique no botão "Entrar com GOV.BR".
 
+Acesso como Pessoa Física
+*************************
+
+Ao realizar a auteticação no GOV.BR o usuário será redirecioando para o SOPLE na tela de Portal em Tarefas.
+
+.. image:: ../imagens/3.0LoginPessoaFisica.png
+
+Acesso como Pessoa Física sendo um Representante
+************************************************
+
+Ao realizar o login pelo no GOV.BR o usuário será redireicionado a tela do SOPLE e vai escolher a qual representação fará as consultas e registros de leilão.
+
+.. image:: ../imagens/3.0LoginPessoaFisicaRepresentante.png
+
+Tipo de representação  - Matriz ou Filial
+*****************************************
 Uma única vez ao logar no sistema, somente para usuários CNPJ’s, deve selecionar o tipo de empresa que está acessando ao sistema com as respetivas opções: Matriz e Filial (Seleção única).
 
 Após a confirmação, o usuário deve atentar pelo aviso que não será mais permitido a alteração do tipo de empresa selecionado. Do exposto, o sistema exibe a mensagem: ‘’Após a conclusão da ação, não será mais permitido a alteração do tipo de empresa. Deseja continuar? SIM/NÃO.’’
