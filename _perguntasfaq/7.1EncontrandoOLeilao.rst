@@ -39,14 +39,14 @@ Para que o Lance seja considerado Válido o mesmo tem que ter o valor superior i
 
 .. image:: ../imagens/7.2TelaInscricaoPropostaValida.png
 
-Para não concorrer a uma área em que o lance foi feito e ficou como Cotado, é necessário clicar no botão **Alterar lote para não cotato**, o sistema vai manter o valor informado, mas vai lançar o status como **Não Cotado (Em vermelho)**.
+Para não concorrer a uma área em que o lance foi feito e ficou como Cotado, é necessário clicar no botão **Alterar lote para não cotado**, o sistema vai manter o valor informado, mas vai lançar o status como **Não Cotado (Em vermelho)**.
 
 .. image:: ../imagens/7.2TelaInscricaoPropostaNaoCotada.png
 
 Ao clicar em **Finalizar** usuário será redirecionado para a funcionalidade de "Sala de Comunicação", onde poderá acompanhar a situação da sua proposta após o término do prazo de envio de proposta.
 
 **IMPORTANTE: O USUÁRIO SOMENTE PODE INSCREVER PROPOSTA NA(S) ÁREA(S) EM QUE MANIFESTOU INTERESSE NA FASE DE OFERTA PÚBLICA!**
-
+**ATENÇÃO: APÓS REGISTRAR PROPOSTA(S) NA(S) ÁREA(S), O USUÁRIO DEVE CLICAR EM “FINALIZAR” PARA TORNAR FECHADA/VÁLIDA!**
 É possível registrar uma nova Proposta em uma Área?
 ###################################################
 
