@@ -47,6 +47,7 @@ Ao clicar em **Finalizar** usuário será redirecionado para a funcionalidade de
 
 **IMPORTANTE: O USUÁRIO SOMENTE PODE INSCREVER PROPOSTA NA(S) ÁREA(S) EM QUE MANIFESTOU INTERESSE NA FASE DE OFERTA PÚBLICA!**
 **ATENÇÃO: APÓS REGISTRAR PROPOSTA(S) NA(S) ÁREA(S), O USUÁRIO DEVE CLICAR EM “FINALIZAR” PARA TORNAR FECHADA/VÁLIDA!**
+
 É possível registrar uma nova Proposta em uma Área?
 ###################################################
 
