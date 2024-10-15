@@ -1,6 +1,6 @@
 Requerimento de áreas do Leilão Proposta Fechada
 ================================================
-Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologação e Adjudicação, .
+Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologação e Adjudicação, onde o SOPLE ao receber a confirmação do pagamento permite o ínicio do processo.
 
 O pagamento fica junto ao Requerimento de áreas tendo seu acesso através:
 
