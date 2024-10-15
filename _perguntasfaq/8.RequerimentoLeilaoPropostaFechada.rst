@@ -60,7 +60,8 @@ Para uma área que foi **Arrematada** o retorno do sistema de pagamento deve ter
 Nesta etapa sendo **Arrematado** ou **Conquistado** tem uma sequência de finalização semelhante.
 O procecsso de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o maior número de passos no caso de uma área **Arremada**.
 
-1 - São apresentados os dados como:
+**1 - São apresentados os dados como:**
+
     - **Rodada:** campo que corresponde ao número da rodada do edital em que está sendo feita a solicitação.
     - **Objeto:** campo que corresponde ao objetivo a ser atingido com o edital.
     - **Modalidade:** campo que corresponde a modalidade do edital.
@@ -77,30 +78,34 @@ O procecsso de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo 
     .. image:: ../imagens/8.LavraConcecaoAlertaSDC.png
     
 
-2 - Dados do Requerente:
+**2 - Dados do Requerente:**
 
     Apresenta todos os dados que serão utilizandos para o requerimento referente ao requerente. 
     Esses dados podem ser alterados via atulização no SDC(Sistema de Dados Cadastrais), lembrando que a atulização dessas informações podem levar até 24 horas para serem efetivadas.
            
     .. image:: ../imagens/8.DadosRequerenteLavraConcessao.png
     
-3 - Dados de pagamento:
+
+**3 - Dados de pagamento:**
 
     Caso a área tenha sido **Arrematada** o valor do pagamento do lance será apresentando para conferência.
 
     .. image:: ../imagens/8.DadosPagamentoRequerimento.png
 
-4 - Dados da Área:
+
+**4 - Dados da Área:**
 
     No caso dos requerimentos de **Lavra-Concessão** todas as rotas são carregadas e não é possível alterar área, tamanho e substâncias.
 
     .. image:: ../imagens/8.DadosDaAreaPart1.png
 
+
     .. image:: ../imagens/8.DadosDaAreaPart2.png
+
 
     O **Superficiário** é uma informação que deve ser preenchida, sendo no mínimo um superficiário para o cadastro.
 
-5 - Conclusão:
+**5 - Conclusão:**
 
     Nesta tela é realizada a apresentação de todos os dados do requerimento, para que seja enviado para a protocolização.
 
@@ -110,18 +115,24 @@ O procecsso de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo 
     
     .. image:: ../imagens/8.ConclusaoLavraPart3.png
 
+    
     Após validar os dados é necessário confirmar a declaração **Declaro, que as informações prestadas neste documento são verdadeiras, assumindo a inteira responsabilidade pelas mesmas e que estou ciente das penalidades no art. 299 do Decreto nº 2.848, de 07 de Dezembro de 1940 - Código Penal.**.
     Ao marcar o botão **Enviar para Protocolização**, o sistema vai apresentar a mensagem de confirmação do envio.
 
+    
     .. image:: ../imagens/8.ConclusaoLavraMensagem.png
+    
     
     Confirmando a o envio, o sistema vai iniciar o processo de protocolização, esse processo pode levar até 5 minutos e necessário que seja concluido.
 
+    
     .. image:: ../imagens/8.ConclusaoLavraEnvio.png
+    
     
     Ao concluir essa etapa o sistema habilita a ultima fase do processo.
 
-6 - Resultado:
+
+**6 - Resultado:**
    
     Ao finalizar a protocolização e avançar, o sistema vai apresentar o link para o SEI com todos os dados da consolidação do Requerimento.
 
