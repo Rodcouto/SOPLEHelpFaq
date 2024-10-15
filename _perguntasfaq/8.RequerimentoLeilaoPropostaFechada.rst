@@ -6,7 +6,7 @@ Assim como o Pagamento, o acesso ao  **Requerimento** será:
 
 **Portal Público:**
 
-    Acessando os Detalhes do Edital, card de Requerimento em Listar áreas Conquistadas e/ou Arrematadas.
+    Acessando os Detalhes do Edital, card de Requerimento, em **Listar áreas Conquistadas e/ou Arrematadas**.
 
     .. image:: ../imagens/10.RequerimentoPortalPublico.png
 
