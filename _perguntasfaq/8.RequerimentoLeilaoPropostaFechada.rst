@@ -1,8 +1,8 @@
 Requerimento de áreas do Leilão Proposta Fechada
 ================================================
-Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologação e Adjudicação, onde o SOPLE ao receber a confirmação do pagamento permite o ínicio do processo.
+Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologação e Adjudicação, onde o SOPLE ao receber a confirmação do pagamento permite o início do processo.
 
-Assim como o Pagamento o acesso ao  **Requerimento** será:
+Assim como o Pagamento, o acesso ao  **Requerimento** será:
 
 **Portal Público:**
 
@@ -12,7 +12,7 @@ Assim como o Pagamento o acesso ao  **Requerimento** será:
 
 **Painel do Minerador:**
 
-    Acessando em Protal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
+    Acessando em Portal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
 
     .. image:: ../imagens/10.TelaRequerimentoPainel.png
 
@@ -45,20 +45,20 @@ A concessão de lavra é um título mineral que permite o uso e a lavra de bens 
 
 **- Áreas Conquistadas e Arrematadas no Edital:**
 
-Conforme o andamento do edital, áreas que foram conquistadas na fase de Oferta Pública serão disponibilizadas sem a necessidade de pagamento.
-Ao entrar na tela de requerimento dentro da fase, o botão **Requerimentos** vai estar habilitado permitindo iniciar o requerimento.
+Conforme o andamento do edital, áreas conquistadas na fase de Oferta Pública serão disponibilizadas sem a necessidade de pagamento.
+Ao entrar na tela de requerimento na fase, o botão **Requerimentos** estará habilitado permitindo iniciar o requerimento.
 
 .. image:: ../imagens/8.AreaConquistadaLavraConcecao.png
 
 
-Para uma área que foi **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** vai estar com o status **Pago** e o botão **Requerimentos** vai estar habilitado.
+Para uma área que foi  **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos** estará habilitado.
 
 .. image:: ../imagens/8.AreaArrematadaLavraConcecao.png
 
 **- Requerimento da área**
 
 Nesta etapa sendo **Arrematado** ou **Conquistado** tem uma sequência de finalização semelhante.
-O procecsso de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o maior número de passos no caso de uma área **Arremada**.
+O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o maior número de passos no caso de uma área **Arrematada**.
 
 **1 - São apresentados os dados como:**
 
@@ -73,22 +73,22 @@ O procecsso de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo 
 
     .. image:: ../imagens/8.LavraConcecaoInicio.png
     
-    Ao clicar o sistema vai reforçar a necessidade de ter o cadastro atualizado no SDC(Sistema de Dados Cadastrais), para o requerimento da área.
+    Ao clicar o sistema reforçará a necessidade de ter o cadastro atualizado no SDC(Sistema de Dados Cadastrais), para o requerimento da área.
 
     .. image:: ../imagens/8.LavraConcecaoAlertaSDC.png
     
 
 **2 - Dados do Requerente:**
 
-    Apresenta todos os dados que serão utilizandos para o requerimento referente ao requerente. 
-    Esses dados podem ser alterados via atulização no SDC(Sistema de Dados Cadastrais), lembrando que a atulização dessas informações podem levar até 24 horas para serem efetivadas.
+    Apresenta todos os dados que serão utilizados para o requerimento referente ao requerente. 
+    Esses dados podem ser alterados via atualização no SDC(Sistema de Dados Cadastrais), lembrando que a atualização dessas informações podem levar até 24 horas para serem efetivadas.
            
     .. image:: ../imagens/8.DadosRequerenteLavraConcessao.png
     
 
 **3 - Dados de pagamento:**
 
-    Caso a área tenha sido **Arrematada** o valor do pagamento do lance será apresentando para conferência.
+    Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentando para conferência.
 
     .. image:: ../imagens/8.DadosPagamentoRequerimento.png
 
@@ -107,7 +107,7 @@ O procecsso de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo 
 
 **5 - Conclusão:**
 
-    Nesta tela é realizada a apresentação de todos os dados do requerimento, para que seja enviado para a protocolização.
+    Nesta tela é realizada a apresentação de todos os dados do requerimento, para ser enviado para a protocolização.
 
     .. image:: ../imagens/8.ConclusaoLavraPart1.png
     
@@ -123,7 +123,7 @@ O procecsso de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo 
     .. image:: ../imagens/8.ConclusaoLavraMensagem.png
     
     
-    Confirmando a o envio, o sistema vai iniciar o processo de protocolização, esse processo pode levar até 5 minutos e necessário que seja concluido.
+    Confirmando a o envio, o sistema vai iniciar o processo de protocolização, esse processo pode levar até 5 minutos e necessário que seja concluído.
 
     
     .. image:: ../imagens/8.ConclusaoLavraEnvio.png
@@ -134,7 +134,7 @@ O procecsso de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo 
 
 **6 - Resultado:**
    
-    Ao finalizar a protocolização e avançar, o sistema vai apresentar o link para o SEI com todos os dados da consolidação do Requerimento.
+    Ao finalizar a protocolização e avançar, o sistema apresentará o link para o SEI com todos os dados da consolidação do Requerimento.
 
     .. image:: ../imagens/8.ConclusaoLavra.png
 
