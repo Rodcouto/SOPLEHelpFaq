@@ -57,16 +57,15 @@ Para uma área que foi  **Arrematada** o retorno do sistema de pagamento deve te
 
 **- Requerimento da área**
 
-Nesta etapa sendo **Arrematado** ou **Conquistado** tem uma sequência de finalização semelhante.
 O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o maior número de passos no caso de uma área **Arrematada**.
 
-**1 - São apresentados os dados como:**
+**Lista de requerimentos:**
 
     - **Rodada:** campo que corresponde ao número da rodada do edital em que está sendo feita a solicitação.
     - **Objeto:** campo que corresponde ao objetivo a ser atingido com o edital.
     - **Modalidade:** campo que corresponde a modalidade do edital.
     - **Nº do Processo:** campo que corresponde ao número do processo SEI correspondente a rodada.
-    - **Nº da Área:** campo que corresponde a área do edital no qual pretende interpor recurso.
+    - **Nº da Área:** campo que corresponde a área do edital no qual pretende requerer.
     - **Período de Requerimento:** campo que corresponde ao período em que o usuário/participante pode criar um requerimento para a área.
 
     Nesse momento fica habilitado o botão **+ Solicitar Requerimento**
@@ -78,7 +77,7 @@ O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o
     .. image:: ../imagens/8.LavraConcecaoAlertaSDC.png
     
 
-**2 - Dados do Requerente:**
+**1 - Dados do Requerente:**
 
     Apresenta todos os dados que serão utilizados para o requerimento referente ao requerente. 
     Esses dados podem ser alterados via atualização no SDC(Sistema de Dados Cadastrais), lembrando que a atualização dessas informações podem levar até 24 horas para serem efetivadas.
@@ -86,14 +85,14 @@ O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o
     .. image:: ../imagens/8.DadosRequerenteLavraConcessao.png
     
 
-**3 - Dados de pagamento:**
+**2 - Dados de pagamento:**
 
     Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentando para conferência.
 
     .. image:: ../imagens/8.DadosPagamentoRequerimento.png
 
 
-**4 - Dados da Área:**
+**3 - Dados da Área:**
 
     No caso dos requerimentos de **Lavra-Concessão** todas as rotas são carregadas e não é possível alterar área, tamanho e substâncias.
 
@@ -103,20 +102,27 @@ O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o
     .. image:: ../imagens/8.DadosDaAreaPart2.png
 
 
+
+
     O **Superficiário** é uma informação que deve ser preenchida, sendo no mínimo um superficiário para o cadastro.
 
-**5 - Conclusão:**
+**4 - Conclusão:**
 
     Nesta tela é realizada a apresentação de todos os dados do requerimento, para ser enviado para a protocolização.
 
     .. image:: ../imagens/8.ConclusaoLavraPart1.png
     
+
     .. image:: ../imagens/8.ConclusaoLavraPart2.png
     
+
     .. image:: ../imagens/8.ConclusaoLavraPart3.png
+    
 
     
-    Após validar os dados é necessário confirmar a declaração **Declaro, que as informações prestadas neste documento são verdadeiras, assumindo a inteira responsabilidade pelas mesmas e que estou ciente das penalidades no art. 299 do Decreto nº 2.848, de 07 de Dezembro de 1940 - Código Penal.**.
+    Após validar os dados é necessário confirmar a declaração.
+    "**Declaro, que as informações prestadas neste documento são verdadeiras, assumindo a inteira responsabilidade pelas mesmas e que estou ciente das penalidades no art. 299 do Decreto nº 2.848, de 07 de Dezembro de 1940 - Código Penal.**"
+    
     Ao marcar o botão **Enviar para Protocolização**, o sistema vai apresentar a mensagem de confirmação do envio.
 
     
@@ -132,7 +138,7 @@ O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o
     Ao concluir essa etapa o sistema habilita a ultima fase do processo.
 
 
-**6 - Resultado:**
+**5 - Resultado:**
    
     Ao finalizar a protocolização e avançar, o sistema apresentará o link para o SEI com todos os dados da consolidação do Requerimento.
 
@@ -141,4 +147,5 @@ O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o
     Na página do **SEI** fica disponível os documentos do requerimento para download.
 
     .. image:: ../imagens/8.SeiLavra.png
+
 
