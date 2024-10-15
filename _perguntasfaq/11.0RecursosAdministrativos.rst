@@ -13,7 +13,7 @@ Portal Público
 ##############
 A partir dos detalhes do edital, no card Recursos Administrativos, no link Interpor Recursos Administrativos.
 Lembrando que somente é possível fazer este procedimento durante o período de Interpor Recursos.
-Ressalta-se que as datas início e fim do card referem respectivamente ao período de interposição de recursos e a análise final pela Diretoria Colegiada.
+Ressalta-se que as datas início e fim do card referem respectivamente ao período de interposição de recursos e a análise final pela CED.
 
 .. image:: ../imagens/11.AcessoPortalRecursoAdministrativo.png
 
