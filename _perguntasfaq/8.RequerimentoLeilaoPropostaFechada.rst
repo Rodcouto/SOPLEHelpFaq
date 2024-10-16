@@ -398,6 +398,7 @@ Pesquisa
             
 
     **Excluindo um Responsável Técnico**
+    
         Para excluir um responsável técnico, basta clicar no botão **Excluir responsável técnico** (:fa:`fa-solid fa-trash`).
 
             .. image:: ../imagens/8.ExluirResponsavelRequerimentoPesqusia.png
