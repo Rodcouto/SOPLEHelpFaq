@@ -8,19 +8,19 @@ Assim como o Pagamento, o acesso ao  **Requerimento** será:
 
     Acessando os Detalhes do Edital, card de Requerimento, em **Listar áreas Conquistadas e/ou Arrematadas**.
 
-    .. image:: ../imagens/10.RequerimentoPortalPublico.png
+        .. image:: ../imagens/10.RequerimentoPortalPublico.png
 
 **Painel do Minerador:**
 
     Acessando em Portal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
 
-    .. image:: ../imagens/10.TelaRequerimentoPainel.png
+        .. image:: ../imagens/10.TelaRequerimentoPainel.png
 
-**Observação:** Em ambas as opções a possibilidade de fazer o pagamento de Lance e Emolumentos fica atrelada a fase do edital, que deve estar na situação **"Em Registro de Requerimentos"**.
+    **Observação:** Em ambas as opções a possibilidade de fazer o pagamento de Lance e Emolumentos fica atrelada a fase do edital, que deve estar na situação **"Em Registro de Requerimentos"**.
 
 Página de Requerimentos:
 
-.. image:: ../imagens/10.TelaRequerimentoUsario.png
+    .. image:: ../imagens/10.TelaRequerimentoUsario.png
 
 Filtros
 
@@ -48,18 +48,19 @@ A concessão de lavra é um título mineral que permite o uso e a lavra de bens 
 Conforme o andamento do edital, áreas conquistadas na fase de Oferta Pública serão disponibilizadas sem a necessidade de pagamento.
 Ao entrar na tela de requerimento na fase, o botão **Requerimentos** estará habilitado permitindo iniciar o requerimento.
 
-.. image:: ../imagens/8.AreaConquistadaLavraConcecao.png
+    .. image:: ../imagens/8.AreaConquistadaLavraConcecao.png
 
 
 Para uma área que foi  **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos** estará habilitado.
 
-.. image:: ../imagens/8.AreaArrematadaLavraConcecao.png
+    .. image:: ../imagens/8.AreaArrematadaLavraConcecao.png
 
 **- Requerimento da área**
 
 O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o maior número de passos no caso de uma área **Arrematada**.
 
 **Lista de requerimentos:**
+***************************
 
     - **Rodada:** campo que corresponde ao número da rodada do edital em que está sendo feita a solicitação.
     - **Objeto:** campo que corresponde ao objetivo a ser atingido com o edital.
@@ -70,83 +71,244 @@ O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o
 
     Nesse momento fica habilitado o botão **+ Solicitar Requerimento**
 
-    .. image:: ../imagens/8.LavraConcecaoInicio.png
-    
+        .. image:: ../imagens/8.LavraConcecaoInicio.png
+        
+
     Ao clicar o sistema reforçará a necessidade de ter o cadastro atualizado no SDC(Sistema de Dados Cadastrais), para o requerimento da área.
 
-    .. image:: ../imagens/8.LavraConcecaoAlertaSDC.png
+        .. image:: ../imagens/8.LavraConcecaoAlertaSDC.png
+        
     
 
 **1 - Dados do Requerente:**
+****************************
 
     Apresenta todos os dados que serão utilizados para o requerimento referente ao requerente. 
     Esses dados podem ser alterados via atualização no SDC(Sistema de Dados Cadastrais), lembrando que a atualização dessas informações podem levar até 24 horas para serem efetivadas.
            
-    .. image:: ../imagens/8.DadosRequerenteLavraConcessao.png
+        .. image:: ../imagens/8.DadosRequerenteLavraConcessao.png
     
 
 **2 - Dados de pagamento:**
-
+***************************
     Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentando para conferência.
 
-    .. image:: ../imagens/8.DadosPagamentoRequerimento.png
+        .. image:: ../imagens/8.DadosPagamentoRequerimento.png
 
 
 **3 - Dados da Área:**
+**********************
 
     No caso dos requerimentos de **Lavra-Concessão** todas as rotas são carregadas e não é possível alterar área, tamanho e substâncias.
 
-    .. image:: ../imagens/8.DadosDaAreaPart1.png
+        .. image:: ../imagens/8.DadosDaAreaPart1.png
 
-
-    .. image:: ../imagens/8.DadosDaAreaPart2.png
-
-
-
-
+        .. image:: ../imagens/8.DadosDaAreaPart2.png
+        
     O **Superficiário** é uma informação que deve ser preenchida, sendo no mínimo um superficiário para o cadastro.
 
 **4 - Conclusão:**
+******************
 
     Nesta tela é realizada a apresentação de todos os dados do requerimento, para ser enviado para a protocolização.
 
-    .. image:: ../imagens/8.ConclusaoLavraPart1.png
-    
+        .. image:: ../imagens/8.ConclusaoLavraPart1.png
+        
 
-    .. image:: ../imagens/8.ConclusaoLavraPart2.png
-    
+        .. image:: ../imagens/8.ConclusaoLavraPart2.png
+        
 
-    .. image:: ../imagens/8.ConclusaoLavraPart3.png
+        .. image:: ../imagens/8.ConclusaoLavraPart3.png
     
 
     
     Após validar os dados é necessário confirmar a declaração.
-    "**Declaro, que as informações prestadas neste documento são verdadeiras, assumindo a inteira responsabilidade pelas mesmas e que estou ciente das penalidades no art. 299 do Decreto nº 2.848, de 07 de Dezembro de 1940 - Código Penal.**"
+
+        "**Declaro, que as informações prestadas neste documento são verdadeiras, assumindo a inteira responsabilidade pelas mesmas e que estou ciente das penalidades no art. 299 do Decreto nº 2.848, de 07 de Dezembro de 1940 - Código Penal.**"
     
-    Ao marcar a opção, o botão **Enviar para Protocolização** ficará habilitado permitindo que o envio seja feito. 
+    Ao marcar a opção, o botão **Enviar para Protocolização** ficará habilitado permitindo que o envio seja feito.
+    
     O sistema vai apresentar a mensagem de confirmação do envio.
 
     
-    .. image:: ../imagens/8.ConclusaoLavraMensagem.png
+        .. image:: ../imagens/8.ConclusaoLavraMensagem.png
     
     
     Confirmando o envio, o processo de protocolização vai iniciar e uma menagem informando que a rotina pode levar até 5 minutos para ser concluida será apresentada, neste pornto se faz necessário aguardar todo o processo.
 
     
-    .. image:: ../imagens/8.ConclusaoLavraEnvio.png
+        .. image:: ../imagens/8.ConclusaoLavraEnvio.png
     
     
     Ao concluir essa etapa o sistema habilita a ultima fase do processo.
 
 
 **5 - Resultado:**
-   
+******************
+    
     Ao finalizar a protocolização e avançar, o sistema apresentará o link para o SEI com todos os dados da consolidação do Requerimento.
 
-    .. image:: ../imagens/8.ConclusaoLavra.png
+        .. image:: ../imagens/8.ConclusaoLavra.png
 
     Na página do **SEI** fica disponível os documentos do requerimento para download.
 
-    .. image:: ../imagens/8.SeiLavra.png
+        .. image:: ../imagens/8.SeiLavra.png
+    
+    
+Pesquisa
+########
+
+**- Áreas Conquistadas e Arrematadas no Edital:**
+
+    Conforme o andamento do edital, áreas conquistadas na fase de Oferta Pública serão disponibilizadas sem pagamento de lance, mas através do pagamento do Emolumento referente a fração desejada da área.
+    Ao entrar na tela de requerimento na fase, o botão **Requerimentos** estará habilitado permitindo iniciar o requerimento.
+
+        .. image:: ../imagens/8.AreaConquistadaPesquisa.png
+        
+        
+    Para uma área que foi  **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos**, além de no mínimo um emolumento.
+
+        .. image:: ../imagens/8.AreaArrematadaPesquisa.png
 
 
+**- Requerimento da área**
+
+    O processo de requerimento de Pesquisa tem 7 passos a partir da geração do processo de Requerimento.
+
+**Lista de requerimentos:**
+***************************
+
+    - **Rodada:** campo que corresponde ao número da rodada do edital em que está sendo feita a solicitação.
+    - **Objeto:** campo que corresponde ao objetivo a ser atingido com o edital.
+    - **Modalidade:** campo que corresponde a modalidade do edital.
+    - **Nº do Processo:** campo que corresponde ao número do processo SEI correspondente a rodada.
+    - **Nº da Área:** campo que corresponde a área do edital no qual pretende requerer.
+    - **Período de Requerimento:** campo que corresponde ao período em que o usuário/participante pode criar um requerimento para a área.
+
+    Nesse momento fica habilitado o botão **+ Solicitar Requerimento**, neste regime será possível gerar um requerimento para cada emolumento pago.
+
+        .. image:: ../imagens/8.SolicitarRequerimentoPesquisa.png
+    
+    Ao clicar o sistema reforçará a necessidade de ter o cadastro atualizado no SDC(Sistema de Dados Cadastrais), para o requerimento da área.
+
+        .. image:: ../imagens/8.NotificacaoSDCPesquisa.png
+    
+
+**1 - Dados do Requerente:**
+****************************
+    Apresenta todos os dados que serão utilizados para o requerimento referente ao requerente. 
+    Esses dados podem ser alterados via atualização no SDC(Sistema de Dados Cadastrais), lembrando que a atualização dessas informações podem levar até 24 horas para serem efetivadas.
+
+        .. image:: ../imagens/8.DadosRequerenteLavraConcessao.png
+    
+        
+**2 - Dados de pagamento:**
+***************************
+    Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentando junto ao pagamento do emolumento referênte ao requerimento que está sendo realizado.
+
+        .. image:: ../imagens/8.PagamentosArrematadosPesquisa.png
+
+    Caso a área tenha sido **Conquistada**, a informação apresentada será referente ao emolumento pago que está sendo usado no requerimento.
+
+        .. image:: ../imagens/8.PagamentoConquistadoPesquisa.png
+    
+    
+**3 - Dados da Área:**
+**********************
+
+    No caso dos requerimentos de **Pesquisa** o sistema pode trazer a área completa com as coordenadas no requerimento ou não carregar nenhuma informação da área.
+
+    **Área com as coordenadas da área carregada**
+
+        .. image:: ../imagens/8.DadosDaAreaCoordenadasCarregadas.png
+    
+    
+    **Área sem coordenadas**
+
+        .. image:: ../imagens/8.DadosDaAreaCoordenadasNaoCarregadas.png
+    
+    
+    **Como adicionar uma coordenhada manualmente**
+    
+
+        Em **Latitudes e Longitudes (Rumos Verdadeiros)** o usuário deve preencher os campos:
+            - Oriêntação Latitude
+            - Latitude
+            - Orientação Logintude - campo preenchido automaticamente
+            - Logintude
+        
+        Após o preenchimento deve clicar no botão **+ Adicionar**, assim será incluida na tabela a coordenada.
+
+
+            .. image:: ../imagens/8.AdicionarCoordenadasRequerimentoPesquisa.png
+    
+    
+    **Como editar uma coordenhada**
+
+        Para editar uma coordenada o usuário deve clicar no botão **Editar coordenada** (:fa:`fa-solid fa-pencil`).
+
+        Ao clicar o sistema vai preenchera parte de coordenada com o registro para edição, permitindo a alteração, a inclusão da atualização será feita através do botão **+ Adicionar**.
+
+            .. image:: ../imagens/8.EditarCoordenadaRequerimentoPesquisa.png
+    
+
+    **Como excluir uma coordenhada**
+        
+        Para excluir uma corrdenada o usuário deve clicar no botão **Excluir Coordenada** (:fa:`fa-solid fa-trash`).
+
+        **Observação:** O botão só fica habilitado no ultimo registro lançado.
+
+            .. image:: ../imagens/8.ExcluirCoordenadaRequerimentoPesquisa.png
+    
+    
+    **Como importar coordenadas via CSV ou GPX**
+        
+        O sistema dispobiliza o recurso para adicionar coordenadas através de importação de arquivos, sendo da extensão .csv e .gpx.
+        
+        Para realizar o processo, o usuário deve clicar no botão em **+ Extensões permitidas .csv, .gpx**, ele vai apresentar a seleção de arquivos do seu sistema operacional para que seja incluido.
+        
+            .. image:: ../imagens/8.AlertaInclusaoArquivoRequerimentoPesquisa.png
+        
+        **Observação:** Ao lando do titulo **Latitudes e Longitudes (Rumos Verdadeiros)** existe um botão de Alerta (:fa:`fa-solid fa-exclamation-triangle`), clicando nele o sistema apresenta informações sobre o padrão do preenchimeto e dos arquivos utilizado.
+
+
+    **Validandar/Visualizar Mapa**
+        
+        Ao finalizar o lançamento das coordenadas, caso esteja tudo lançado corretamete, ao clicar no botão **Validandar/Visualizar Mapa** será carregado o mapa com a área demarcada.
+        
+        Existe no carregamento validações, neste momento então será apresentando um load.
+        
+            .. image:: ../imagens/8.LoadCarregamentoAreaPesquisa.png
+        
+        Após o processamento o mapa será carregado.
+
+            .. image:: ../imagens/8.MapaCoordenadaPesquisa.png
+        
+    **Incluindo a(s) Substância(s) e Tipo(s) de Uso**
+
+        A inclusão dessa etapa se basea em selecionar uma **Substância**, um **Tipo de uso** e clicar em **+ Adicionar**.
+        
+            .. image:: ../imagens/8.AdicionarSubstanciaRequerimentoPesquisa.png
+        
+        **Observações:** 
+            - Não é permitido lançar a mesma substãncia com o mesmo tipo de uso.
+            - A área requerida tem que até o máximo informado na substância.
+        
+    **Excluindo a(s) Substância(s) e Tipo(s) de Uso**
+
+        Para excluir a substância lançada basta clicar no botão **Excluir substãncia** (:fa:`fa-solid fa-trash`).
+
+            .. image:: ../imagens/8.ExcluirSubstanciaRequerimentoPesquisa.png
+        
+
+    **Incluindo Superficiário(s)**
+        A inclusão dessa etapa se basea em selecionar **Superficiário** e clicar em **+ Adicionar**
+
+            .. image:: ../imagens/8.IncluirSuperficiarioRequerimentoPesquisa.png
+
+    **Excluindo Superficiário(s)**
+        Para excluir o superficiário lançado basta clicar no botão **Excluir substãncia** (:fa:`fa-solid fa-trash`).
+
+            .. image:: ../imagens/8.ExcluirSuperficiarioRequerimentoPesquisa.png
+
+    

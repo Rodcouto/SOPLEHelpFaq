@@ -82,10 +82,7 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    :caption: Requerimentos
 
    _perguntasfaq/8.RequerimentoLeilaoPropostaFechada.rst
-   _perguntasfaq/8.1ComoRealizarRequerimentoAreaOP
-   _perguntasfaq/8.2ComoRealizarRequerimentoAreaLEILAO
-   _perguntasfaq/8.3ComoRealizarRequerimentoAreaAVALIACAOSOCIAL
-   _perguntasfaq/8.4DocumentosEssenciasAVALIACAOSOCIAL
+   
 
 .. toctree::
    :maxdepth: 3
