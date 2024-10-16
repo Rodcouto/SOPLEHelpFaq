@@ -123,13 +123,14 @@ O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o
     Após validar os dados é necessário confirmar a declaração.
     "**Declaro, que as informações prestadas neste documento são verdadeiras, assumindo a inteira responsabilidade pelas mesmas e que estou ciente das penalidades no art. 299 do Decreto nº 2.848, de 07 de Dezembro de 1940 - Código Penal.**"
     
-    Ao marcar o botão **Enviar para Protocolização**, o sistema vai apresentar a mensagem de confirmação do envio.
+    Ao marcar a opção, o botão **Enviar para Protocolização** ficará habilitado permitindo que o envio seja feito. 
+    O sistema vai apresentar a mensagem de confirmação do envio.
 
     
     .. image:: ../imagens/8.ConclusaoLavraMensagem.png
     
     
-    Confirmando a o envio, o sistema vai iniciar o processo de protocolização, esse processo pode levar até 5 minutos e necessário que seja concluído.
+    Confirmando o envio, o processo de protocolização vai iniciar e uma menagem informando que a rotina pode levar até 5 minutos para ser concluida será apresentada, neste pornto se faz necessário aguardar todo o processo.
 
     
     .. image:: ../imagens/8.ConclusaoLavraEnvio.png
