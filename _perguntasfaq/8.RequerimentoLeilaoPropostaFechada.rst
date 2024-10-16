@@ -2,7 +2,7 @@ Requerimento de áreas do Leilão Proposta Fechada
 ================================================
 Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologação e Adjudicação, onde o SOPLE ao receber a confirmação do pagamento permite o início do processo.
 
-Assim como o Pagamento, o acesso ao  **Requerimento** será:
+Assim como o Pagamento, o acesso ao **Requerimento** será:
 
 **Portal Público:**
 
@@ -41,23 +41,24 @@ Lavra-Concessão
 
 **- O que é?**
 
-A concessão de lavra é um título mineral que permite o uso e a lavra de bens públicos, permitindo a apropriação dos recursos minerais após a extração.
+    A concessão de lavra é um título mineral que permite o uso e a lavra de bens públicos, permitindo a apropriação dos recursos minerais após a extração.
 
 **- Áreas Conquistadas e Arrematadas no Edital:**
 
-Conforme o andamento do edital, áreas conquistadas na fase de Oferta Pública serão disponibilizadas sem a necessidade de pagamento.
-Ao entrar na tela de requerimento na fase, o botão **Requerimentos** estará habilitado permitindo iniciar o requerimento.
+    Conforme o andamento do edital, áreas conquistadas na fase de Oferta Pública serão disponibilizadas sem a necessidade de pagamento.
 
-    .. image:: ../imagens/8.AreaConquistadaLavraConcecao.png
+    Ao entrar na tela de requerimento na fase, o botão **Requerimentos** estará habilitado permitindo iniciar o requerimento.
+
+        .. image:: ../imagens/8.AreaConquistadaLavraConcecao.png
 
 
-Para uma área que foi  **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos** estará habilitado.
+    Para uma área que foi  **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos** estará habilitado.
 
-    .. image:: ../imagens/8.AreaArrematadaLavraConcecao.png
+        .. image:: ../imagens/8.AreaArrematadaLavraConcecao.png
 
 **- Requerimento da área**
 
-O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o maior número de passos no caso de uma área **Arrematada**.
+    O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o maior número de passos no caso de uma área **Arrematada**.
 
 **Lista de requerimentos:**
 ***************************
@@ -134,13 +135,13 @@ O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o
         .. image:: ../imagens/8.ConclusaoLavraMensagem.png
     
     
-    Confirmando o envio, o processo de protocolização vai iniciar e uma menagem informando que a rotina pode levar até 5 minutos para ser concluida será apresentada, neste pornto se faz necessário aguardar todo o processo.
+    Confirmando o envio, o processo de protocolização vai iniciar e uma menagem informando que a rotina pode levar até 5 minutos para ser concluída será apresentada, neste ponto se faz necessário aguardar todo o processo.
 
     
         .. image:: ../imagens/8.ConclusaoLavraEnvio.png
     
     
-    Ao concluir essa etapa o sistema habilita a ultima fase do processo.
+    Ao concluir essa etapa o sistema habilita a última fase do processo.
 
 
 **5 - Resultado:**
@@ -158,7 +159,7 @@ O processo de requerimento de Lavra-concessão pode ter de 4 a 5 passos, sendo o
 Pesquisa
 ########
 
-**- Áreas Conquistadas e Arrematadas no Edital:**
+**Áreas Conquistadas e Arrematadas no Edital:**
 
     Conforme o andamento do edital, áreas conquistadas na fase de Oferta Pública serão disponibilizadas sem pagamento de lance, mas através do pagamento do Emolumento referente a fração desejada da área.
     Ao entrar na tela de requerimento na fase, o botão **Requerimentos** estará habilitado permitindo iniciar o requerimento.
@@ -166,12 +167,12 @@ Pesquisa
         .. image:: ../imagens/8.AreaConquistadaPesquisa.png
         
         
-    Para uma área que foi  **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos**, além de no mínimo um emolumento.
+    Para uma área **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos**, além de no mínimo um emolumento.
 
         .. image:: ../imagens/8.AreaArrematadaPesquisa.png
 
 
-**- Requerimento da área**
+**Requerimento da área**
 
     O processo de requerimento de Pesquisa tem 7 passos a partir da geração do processo de Requerimento.
 
@@ -182,7 +183,7 @@ Pesquisa
     - **Objeto:** campo que corresponde ao objetivo a ser atingido com o edital.
     - **Modalidade:** campo que corresponde a modalidade do edital.
     - **Nº do Processo:** campo que corresponde ao número do processo SEI correspondente a rodada.
-    - **Nº da Área:** campo que corresponde a área do edital no qual pretende requerer.
+    - **Nº da Área:** campo que corresponde a área do edital no qual requer.
     - **Período de Requerimento:** campo que corresponde ao período em que o usuário/participante pode criar um requerimento para a área.
 
     Nesse momento fica habilitado o botão **+ Solicitar Requerimento**, neste regime será possível gerar um requerimento para cada emolumento pago.
@@ -196,6 +197,7 @@ Pesquisa
 
 **1 - Dados do Requerente:**
 ****************************
+
     Apresenta todos os dados que serão utilizados para o requerimento referente ao requerente. 
     Esses dados podem ser alterados via atualização no SDC(Sistema de Dados Cadastrais), lembrando que a atualização dessas informações podem levar até 24 horas para serem efetivadas.
 
@@ -204,7 +206,8 @@ Pesquisa
         
 **2 - Dados de pagamento:**
 ***************************
-    Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentando junto ao pagamento do emolumento referênte ao requerimento que está sendo realizado.
+
+    Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentando junto ao pagamento do emolumento referente ao requerimento que está sendo realizado.
 
         .. image:: ../imagens/8.PagamentosArrematadosPesquisa.png
 
@@ -228,22 +231,23 @@ Pesquisa
         .. image:: ../imagens/8.DadosDaAreaCoordenadasNaoCarregadas.png
     
     
-    **Como adicionar uma coordenhada manualmente**
+    **Como adicionar uma coordenada manualmente**
     
 
         Em **Latitudes e Longitudes (Rumos Verdadeiros)** o usuário deve preencher os campos:
+
             - Oriêntação Latitude
             - Latitude
-            - Orientação Logintude - campo preenchido automaticamente
-            - Logintude
+            - Orientação Longitude - campo preenchido automaticamente
+            - Longitude
         
-        Após o preenchimento deve clicar no botão **+ Adicionar**, assim será incluida na tabela a coordenada.
+        Após o preenchimento deve clicar no botão **+ Adicionar**, assim será incluída na tabela a coordenada.
 
 
             .. image:: ../imagens/8.AdicionarCoordenadasRequerimentoPesquisa.png
     
     
-    **Como editar uma coordenhada**
+    **Como editar uma coordenada**
 
         Para editar uma coordenada o usuário deve clicar no botão **Editar coordenada** (:fa:`fa-solid fa-pencil`).
 
@@ -252,11 +256,11 @@ Pesquisa
             .. image:: ../imagens/8.EditarCoordenadaRequerimentoPesquisa.png
     
 
-    **Como excluir uma coordenhada**
+    **Como excluir uma coordenada**
         
-        Para excluir uma corrdenada o usuário deve clicar no botão **Excluir Coordenada** (:fa:`fa-solid fa-trash`).
+        Para excluir uma coordenada o usuário deve clicar no botão **Excluir Coordenada** (:fa:`fa-solid fa-trash`).
 
-        **Observação:** O botão só fica habilitado no ultimo registro lançado.
+        **Observação:** O botão só fica habilitado no último registro lançado.
 
             .. image:: ../imagens/8.ExcluirCoordenadaRequerimentoPesquisa.png
     
@@ -269,12 +273,12 @@ Pesquisa
         
             .. image:: ../imagens/8.AlertaInclusaoArquivoRequerimentoPesquisa.png
         
-        **Observação:** Ao lando do titulo **Latitudes e Longitudes (Rumos Verdadeiros)** existe um botão de Alerta (:fa:`fa-solid fa-exclamation-triangle`), clicando nele o sistema apresenta informações sobre o padrão do preenchimeto e dos arquivos utilizado.
+        **Observação:** Ao lando do titulo **Latitudes e Longitudes (Rumos Verdadeiros)** existe um botão de Alerta (:fa:`fa-solid fa-exclamation-triangle`), clicando nele o sistema apresenta informações sobre o padrão do preenchimento e dos arquivos utilizado.
 
 
-    **Validandar/Visualizar Mapa**
+    **Validar/Visualizar Mapa**
         
-        Ao finalizar o lançamento das coordenadas, caso esteja tudo lançado corretamete, ao clicar no botão **Validandar/Visualizar Mapa** será carregado o mapa com a área demarcada.
+        Ao finalizar o lançamento das coordenadas, caso esteja tudo lançado corretamente, ao clicar no botão **Validar/Visualizar Mapa** será carregado o mapa com a área demarcada.
         
         Existe no carregamento validações, neste momento então será apresentando um load.
         
@@ -286,29 +290,163 @@ Pesquisa
         
     **Incluindo a(s) Substância(s) e Tipo(s) de Uso**
 
-        A inclusão dessa etapa se basea em selecionar uma **Substância**, um **Tipo de uso** e clicar em **+ Adicionar**.
+        A inclusão dessa etapa se baseia em selecionar uma **Substância**, um **Tipo de uso** e clicar em **+ Adicionar**.
         
             .. image:: ../imagens/8.AdicionarSubstanciaRequerimentoPesquisa.png
         
-        **Observações:** 
-            - Não é permitido lançar a mesma substãncia com o mesmo tipo de uso.
+        **Observações:**
+
+            - Não é permitido lançar a mesma substância com o mesmo tipo de uso.
             - A área requerida tem que até o máximo informado na substância.
         
     **Excluindo a(s) Substância(s) e Tipo(s) de Uso**
 
-        Para excluir a substância lançada basta clicar no botão **Excluir substãncia** (:fa:`fa-solid fa-trash`).
+        Para excluir a substância lançada basta clicar no botão **Excluir substância** (:fa:`fa-solid fa-trash`).
 
             .. image:: ../imagens/8.ExcluirSubstanciaRequerimentoPesquisa.png
         
 
     **Incluindo Superficiário(s)**
-        A inclusão dessa etapa se basea em selecionar **Superficiário** e clicar em **+ Adicionar**
+
+        A inclusão dessa etapa se baseia em selecionar **Superficiário** e clicar em **+ Adicionar**
 
             .. image:: ../imagens/8.IncluirSuperficiarioRequerimentoPesquisa.png
 
     **Excluindo Superficiário(s)**
-        Para excluir o superficiário lançado basta clicar no botão **Excluir substãncia** (:fa:`fa-solid fa-trash`).
+
+        Para excluir o superficiário lançado basta clicar no botão **Excluir substância** (:fa:`fa-solid fa-trash`).
 
             .. image:: ../imagens/8.ExcluirSuperficiarioRequerimentoPesquisa.png
 
+    
+**4 - Planos de Pesquisa:**
+***************************
+    Nesta etapa é montado o plano de pesquisa e suas atividades que são obrigaórios para o requerimento, esses dados serão avaliados nas etapasque seguem o processo de requerimento.
+
+    Composto dos campo:
+
+        - Prazo do Alvará de Pesquisa (em anos)
+        - Atividade
+        - Subatividade
+        - Escala
+        - Unidade
+        - Outros
+        - Cronograma
+        - Prazo
+        - Orçamento
+
+            .. image:: ../imagens/8.PlanosDePesquisaRequerimento.png
+    
+    **Incluindo uma Atividade no Plano de Pesquisa**
+
+        Após a definição do Prazo do Alvará, será possível inserir vários registros de **Atividade**, onde a depender do tipo de atividade selecionada serão habilitados e/ou desabilitados conforme a necessidade.
+        
+        Ao concluir o preenchimento, o usuário de clicar no botão **+ Adicionar**, nessemomento os campos serão validados e havendo inconsistências o usuário será alertado, caso não, a atividade será incluída.
+
+            .. image:: ../imagens/8.PlanoDePesquisaAdicionardoRequerimentoPesquisa.png
+
+    **Editar uma Atividade no Plano de Pesquisa**
+
+        Para editar uma Atividade, o usuário deve clicar no botão **Editar atividade** (:fa:`fa-solid fa-pencil`).
+
+        Ao clicar o sistema vai preenchera parte de lançamento de atividades com o registro para edição, permitindo a alteração, a inclusão da atualização será feita através do botão (**+ Adicionar**).
+
+            .. image:: ../imagens/8.EditarAtividadePlanoRequerimentoPesquisa.png
+
+    **Excluindo uma Atividade no Plano de Pesquisa**
+
+        Para excluir a atividade lançada, basta clicar no botão **Excluir atividade** (:fa:`fa-solid fa-trash`).
+
+            .. image:: ../imagens/8.ExcluirAtividadePlanoRequeimentoPesquisa.png
+
+    **Execução paralela da atividade no Plano de Pesquisa**
+
+        Após adicionar uma Atividade, existe o seletor **Atividade Paralela**, que identifica que o tempo da atividade marcada sera simultâneo a o de/oustras atividades marcadas.
+        
+            .. image:: ../imagens/8.AtividadeParalelaRequerimentoPesquisa.png
+
+**5 - Responsáveis Técnicos:**
+******************************
+
+    Nesta etapa são preenchidos os dados dos reponsáveis técnicos pelo requerimento.
+
+    Campos a serem preenchidos:
+        - Nome
+        - CPF
+        - Profissão
+        - CREA
+        - ART
+        - UF de registro do ART
+        - Chave de validação
+
+            .. image:: ../imagens/8.ReposaveisTecnicosRequerimentoPesquisa.png
+
+    **Incluindo um Responsável Técnico**
+
+        Para a inclusão de um responsável técnico é necessário que todos os campos referentes estejam preenchidos, atentando para que o CPF, CREA e ART devem ser únicos.
+        Após o preenchimento dos dados deve ser anexado o ART em formato PDF através do botão **+ Extensões permitida .pdf**, com tudo pronto o usuário deve clicar em **+ Adicionar**.
+            
+            .. image:: ../imagens/8.IncluirResponsavelRequerimentoPesquisa.png
+
+    **Editar um Responsável Técnico**
+
+        Para editar uma Atividade, o usuário deve clicar no botão **Editar atividade** (:fa:`fa-solid fa-pencil`).
+
+        Ao clicar o sistema vai preenchera parte de lançamento de atividades com o registro para edição, permitindo a alteração, neste momento é possível remover e anexar novos documento, a inclusão da atualização será feita através do botão (**+ Adicionar**).
+
+            .. image:: ../imagens/8.EditarResponsavelRequerimentoPesquisa.png
+            
+
+    **Excluindo um Responsável Técnico**
+        Para excluir um responsável técnico, basta clicar no botão **Excluir responsável técnico** (:fa:`fa-solid fa-trash`).
+
+            .. image:: ../imagens/8.ExluirResponsavelRequerimentoPesqusia.png
+
+**6 - Conclusão:**
+******************
+
+    Nesta tela é realizada a apresentação de todos os dados do requerimento, para ser enviado para a protocolização.
+
+        .. image:: ../imagens/8.ResultadoRequerimentoPesquisaPart1.png
+        
+
+        .. image:: ../imagens/8.ResultadoRequerimentoPesquisaPart2.png
+        
+
+        .. image:: ../imagens/8.ResultadoRequerimentoPesquisaPart3.png
+    
+
+    
+    Após validar os dados é necessário confirmar a declaração.
+
+        "**Declaro, que as informações prestadas neste documento são verdadeiras, assumindo a inteira responsabilidade pelas mesmas e que estou ciente das penalidades no art. 299 do Decreto nº 2.848, de 07 de Dezembro de 1940 - Código Penal.**"
+    
+    Ao marcar a opção, o botão **Enviar para Protocolização** ficará habilitado permitindo que o envio seja feito.
+    
+    O sistema vai apresentar a mensagem de confirmação do envio.
+
+    
+        .. image:: ../imagens/8.MensagemConclusaoRequerimentoPesquisa.png
+    
+    
+    Confirmando o envio, o processo de protocolização vai iniciar e uma menagem informando que a rotina pode levar até 5 minutos para ser concluída será apresentada, neste ponto se faz necessário aguardar todo o processo.
+
+    
+        .. image:: ../imagens/8.ConclusaoPesquisaEnvio.png
+    
+    
+    Ao concluir essa etapa o sistema habilita a última fase do processo.
+
+
+**7 - Resultado:**
+******************
+
+    Ao finalizar a protocolização e avançar, o sistema apresentará o link para o SEI com todos os dados da consolidação do Requerimento.
+
+        .. image:: ../imagens/8.SEIRequerimentoPesquisa.png
+
+    Na página do **SEI** fica disponível os documentos do requerimento para download.
+
+        .. image:: ../imagens/8.SeiLavra.png
+    
     
