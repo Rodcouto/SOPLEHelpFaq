@@ -1,6 +1,6 @@
 Requerimento de áreas do Leilão Proposta Fechada
 ================================================
-Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologação e Adjudicação, onde o SOPLE ao receber a confirmação do pagamento permite o início do processo.
+Fase de pagamento é realizada pelos usuários após o fim da fase de Homologação e Adjudicação, onde o SOPLE ao receber a confirmação do pagamento permite o início do processo.
 
 Assim como o Pagamento, o acesso ao **Requerimento** será:
 
@@ -236,7 +236,7 @@ Pesquisa
 
         Em **Latitudes e Longitudes (Rumos Verdadeiros)** o usuário deve preencher os campos:
 
-            - Oriêntação Latitude
+            - Orientação Latitude
             - Latitude
             - Orientação Longitude - campo preenchido automaticamente
             - Longitude
@@ -267,13 +267,13 @@ Pesquisa
     
     **Como importar coordenadas via CSV ou GPX**
         
-        O sistema dispobiliza o recurso para adicionar coordenadas através de importação de arquivos, sendo da extensão .csv e .gpx.
+        O sistema disponibiliza o recurso para adicionar coordenadas através de importação de arquivos, sendo da extensão .csv e .gpx.
         
-        Para realizar o processo, o usuário deve clicar no botão em **+ Extensões permitidas .csv, .gpx**, ele vai apresentar a seleção de arquivos do seu sistema operacional para que seja incluido.
+        Para realizar o processo, o usuário deve clicar no botão em **+ Extensões permitidas .csv, .gpx**, ele vai apresentar a seleção de arquivos do seu sistema operacional para que seja incluído.
         
             .. image:: ../imagens/8.AlertaInclusaoArquivoRequerimentoPesquisa.png
         
-        **Observação:** Ao lando do titulo **Latitudes e Longitudes (Rumos Verdadeiros)** existe um botão de Alerta (:fa:`fa-solid fa-exclamation-triangle`), clicando nele o sistema apresenta informações sobre o padrão do preenchimento e dos arquivos utilizado.
+        **Observação:** Ao lado do título **Latitudes e Longitudes (Rumos Verdadeiros)** existe um botão de Alerta (:fa:`fa-solid fa-exclamation-triangle`), clicando nele o sistema apresenta informações sobre o padrão do preenchimento e dos arquivos utilizado.
 
 
     **Validar/Visualizar Mapa**
@@ -321,7 +321,7 @@ Pesquisa
     
 **4 - Planos de Pesquisa:**
 ***************************
-    Nesta etapa é montado o plano de pesquisa e suas atividades que são obrigaórios para o requerimento, esses dados serão avaliados nas etapasque seguem o processo de requerimento.
+    Nesta etapa é montado o plano de pesquisa e suas atividades que são obrigatórios para o requerimento, esses dados serão avaliados nas etapas que seguem o processo de requerimento.
 
     Composto dos campo:
 
@@ -341,7 +341,7 @@ Pesquisa
 
         Após a definição do Prazo do Alvará, será possível inserir vários registros de **Atividade**, onde a depender do tipo de atividade selecionada serão habilitados e/ou desabilitados conforme a necessidade.
         
-        Ao concluir o preenchimento, o usuário de clicar no botão **+ Adicionar**, nessemomento os campos serão validados e havendo inconsistências o usuário será alertado, caso não, a atividade será incluída.
+        Ao concluir o preenchimento, o usuário de clicar no botão **+ Adicionar**, nesse momento os campos serão validados e havendo inconsistências o usuário será alertado, caso não, a atividade será incluída.
 
             .. image:: ../imagens/8.PlanoDePesquisaAdicionardoRequerimentoPesquisa.png
 
@@ -361,14 +361,14 @@ Pesquisa
 
     **Execução paralela da atividade no Plano de Pesquisa**
 
-        Após adicionar uma Atividade, existe o seletor **Atividade Paralela**, que identifica que o tempo da atividade marcada sera simultâneo a o de/oustras atividades marcadas.
+        Após adicionar uma Atividade, existe o seletor **Atividade Paralela**, que identifica que o tempo da atividade marcada será simultâneo a o de/outras atividades marcadas.
         
             .. image:: ../imagens/8.AtividadeParalelaRequerimentoPesquisa.png
 
 **5 - Responsáveis Técnicos:**
 ******************************
 
-    Nesta etapa são preenchidos os dados dos reponsáveis técnicos pelo requerimento.
+    Nesta etapa são preenchidos os dados dos responsáveis técnicos pelo requerimento.
 
     Campos a serem preenchidos:
         - Nome
