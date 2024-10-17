@@ -68,3 +68,15 @@ Caso precise baixar novamente o emolumento gerado em "Gerar Emolumentos", será 
 Ao realizar o pagamento o sistema pode levar até 3 dias úteis para a compensação do mesmo, assim que for compensado o valor a situação do Emolumento passa para **Pago**.
 
 .. image:: ../imagens/10.EmolumentoPago.png
+
+
+Perguntas Frequêntes
+####################
+
+1 - Fui gerar meu boleto de lance e uma tela para preencher o endereço apareceu, o que fazer?
+*********************************************************************************************
+    Para alguns usuário que não tem todos os dados cadastrais no sistema de Arrecadação, será apresentanda a tela:
+
+        .. image:: ../imagens/10.TelaEnderecoImpressaoBoleto.png
+    
+    Caso seja apresentada preencha corretamente os dados de endereço e clique em **Enviar** e o boleto será gerado.
