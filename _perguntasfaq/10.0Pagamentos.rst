@@ -79,4 +79,4 @@ Perguntas Frequêntes
 
         .. image:: ../imagens/10.TelaEnderecoImpressaoBoleto.png
     
-    Caso seja apresentada preencha corretamente os dados de endereço e clique em **Enviar** e o boleto será gerado.
+    Caso seja apresentada, preencha corretamente os dados de endereço e clique em **Enviar** e o boleto será gerado.
