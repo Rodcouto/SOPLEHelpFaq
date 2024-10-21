@@ -1,22 +1,22 @@
 Requerimento de áreas do Leilão Proposta Fechada
 ================================================
-Fase de pagamento é realizada pelos usuários após o fim da fase de Homologação e Adjudicação, onde o SOPLE ao receber a confirmação do pagamento permite o início do processo.
+O processo de Requerimento do SOPLE pode ser acessado pelos usuários após o fim da fase de Homologação e Adjudicação. O sistema SOPLE libera ao usuário a possibilidade de realizar Requerimentos de Pesquisa e/ou  Lavra após a confirmação dos devidos pagamentos de emolumentos e/ou lances.
 
-Assim como o Pagamento, o acesso ao **Requerimento** será:
+Para acessar as funções de Pagamento e Requerimento, o usuário deverá seguir o procedimento abaixo:
 
 **Portal Público:**
 
-    Acessando os Detalhes do Edital, card de Requerimento, em **Listar áreas Conquistadas e/ou Arrematadas**.
+    Acessando os Detalhes do Edital, localizar o card de Requerimento e clicar em **Listar áreas Conquistadas e/ou Arrematadas**. 
 
         .. image:: ../imagens/10.RequerimentoPortalPublico.png
 
 **Painel do Minerador:**
 
-    Acessando em Portal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
+    Acessando o Portal do Minerador, clicar em “Rodadas” no menu à esquerda, clicar em “Requerimentos” e selecionar o Edital desejado.
 
         .. image:: ../imagens/10.TelaRequerimentoPainel.png
 
-    **Observação:** Em ambas as opções a possibilidade de fazer o pagamento de Lance e Emolumentos fica atrelada a fase do edital, que deve estar na situação **"Em Registro de Requerimentos"**.
+    **Observação:** Em ambas as opções a possibilidade de fazer o pagamento de Lance e Emolumentos fica atrelada à fase do edital, que deve estar na situação **“Em Registro de Requerimentos”**. 
 
 Página de Requerimentos:
 
@@ -39,20 +39,17 @@ Tipos de Áreas e processos de requerimento?
 Lavra-Concessão
 ###############
 
-**- O que é?**
-
-    A concessão de lavra é um título mineral que permite o uso e a lavra de bens públicos, permitindo a apropriação dos recursos minerais após a extração.
-
 **- Áreas Conquistadas e Arrematadas no Edital:**
 
-    Conforme o andamento do edital, áreas conquistadas na fase de Oferta Pública serão disponibilizadas sem a necessidade de pagamento.
+    Conforme disposto em edital, áreas para Concessão de Lavra conquistadas na fase de Oferta Pública terão suas funções de Requerimento disponibilizadas sem a necessidade de pagamento de emolumentos ou lances. 
 
-    Ao entrar na tela de requerimento na fase, o botão **Requerimentos** estará habilitado permitindo iniciar o requerimento.
+    Ao entrar na tela de requerimento, o botão **Requerimentos** estará habilitado permitindo iniciar o procedimento. 
 
         .. image:: ../imagens/8.AreaConquistadaLavraConcecao.png
 
 
-    Para uma área que foi  **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos** estará habilitado.
+    Para áreas de Concessão de Lavra arrematadas em leilão, o usuário deverá primeiramente realizar o pagamento do lance e aguardar a confirmação pelo sistema de conciliação da rede bancária. 
+    Após confirmação, a coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos** estará habilitado. 
 
         .. image:: ../imagens/8.AreaArrematadaLavraConcecao.png
 
@@ -161,13 +158,14 @@ Pesquisa
 
 **Áreas Conquistadas e Arrematadas no Edital:**
 
-    Conforme o andamento do edital, áreas conquistadas na fase de Oferta Pública serão disponibilizadas sem pagamento de lance, mas através do pagamento do Emolumento referente a fração desejada da área.
-    Ao entrar na tela de requerimento na fase, o botão **Requerimentos** estará habilitado permitindo iniciar o requerimento.
+    Conforme disposto em edital, as áreas de pesquisa conquistadas na fase de Oferta Pública terão suas funções de Requerimento disponibilizadas após o pagamento dos devidos Emolumentos. 
+    Uma vez confirmados os pagamentos, ao entrar na tela de requerimento, o botão **Requerimentos** estará habilitado permitindo iniciar o procedimento. 
 
         .. image:: ../imagens/8.AreaConquistadaPesquisa.png
         
         
-    Para uma área **Arrematada** o retorno do sistema de pagamento deve ter ocorrido, com isso na coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos**, além de no mínimo um emolumento.
+    Para áreas de Pesquisa arrematadas em leilão, o usuário deverá primeiramente realizar o pagamento do lance e de, no mínimo, um emolumento e aguardar a confirmação pelo sistema de conciliação da rede bancária. 
+    Após confirmação, a coluna **Situação do Lance** estará com a situação **Pago** e o botão **Requerimentos** estará habilitado. 
 
         .. image:: ../imagens/8.AreaArrematadaPesquisa.png
 
@@ -251,7 +249,7 @@ Pesquisa
 
         Para editar uma coordenada o usuário deve clicar no botão **Editar coordenada** (:fa:`fa-solid fa-pencil`).
 
-        Ao clicar o sistema vai preenchera parte de coordenada com o registro para edição, permitindo a alteração, a inclusão da atualização será feita através do botão **+ Adicionar**.
+        AAo clicar, o sistema  permitirá a alteração. A inclusão da atualização será feita através do botão **+ Adicionar**.
 
             .. image:: ../imagens/8.EditarCoordenadaRequerimentoPesquisa.png
     
@@ -269,7 +267,7 @@ Pesquisa
         
         O sistema disponibiliza o recurso para adicionar coordenadas através de importação de arquivos, sendo da extensão .csv e .gpx.
         
-        Para realizar o processo, o usuário deve clicar no botão em **+ Extensões permitidas .csv, .gpx**, ele vai apresentar a seleção de arquivos do seu sistema operacional para que seja incluído.
+        Para realizar o processo, o usuário deve clicar no botão em **+ Extensões permitidas .csv, .gpx**, será apresentada a seleção de arquivos do seu sistema operacional para que seja incluído. 
         
             .. image:: ../imagens/8.AlertaInclusaoArquivoRequerimentoPesquisa.png
         
@@ -280,7 +278,7 @@ Pesquisa
         
         Ao finalizar o lançamento das coordenadas, caso esteja tudo lançado corretamente, ao clicar no botão **Validar/Visualizar Mapa** será carregado o mapa com a área demarcada.
         
-        Existe no carregamento validações, neste momento então será apresentando um load.
+        Uma vez que são realizadas diversas validações no carregamento da poligonal, o usuário deverá aguardar pela finalização do procedimento.
         
             .. image:: ../imagens/8.LoadCarregamentoAreaPesquisa.png
         
@@ -296,8 +294,8 @@ Pesquisa
         
         **Observações:**
 
-            - Não é permitido lançar a mesma substância com o mesmo tipo de uso.
-            - A área requerida tem que até o máximo informado na substância.
+            - Não é permitido lançar a mesma substância com o mesmo tipo de uso mais de uma única vez.
+            - O tamanho da área requerida deverá respeitar o limite máximo  definido pela legislação mineral vigentec.
         
     **Excluindo a(s) Substância(s) e Tipo(s) de Uso**
 
@@ -321,9 +319,9 @@ Pesquisa
     
 **4 - Planos de Pesquisa:**
 ***************************
-    Nesta etapa é montado o plano de pesquisa e suas atividades que são obrigatórios para o requerimento, esses dados serão avaliados nas etapas que seguem o processo de requerimento.
+    O tamanho da área requerida deverá respeitar o limite máximo  definido pela legislação mineral vigente
 
-    Composto dos campo:
+    Campos a serem preenchidos:
 
         - Prazo do Alvará de Pesquisa (em anos)
         - Atividade
@@ -341,7 +339,7 @@ Pesquisa
 
         Após a definição do Prazo do Alvará, será possível inserir vários registros de **Atividade**, onde a depender do tipo de atividade selecionada serão habilitados e/ou desabilitados conforme a necessidade.
         
-        Ao concluir o preenchimento, o usuário de clicar no botão **+ Adicionar**, nesse momento os campos serão validados e havendo inconsistências o usuário será alertado, caso não, a atividade será incluída.
+        Ao concluir o preenchimento, o usuário de clicar no botão **+ Adicionar**, nesse momento os campos serão validados e havendo inconsistências o usuário será alertado para realizar as devidas correções. 
 
             .. image:: ../imagens/8.PlanoDePesquisaAdicionardoRequerimentoPesquisa.png
 
@@ -349,7 +347,7 @@ Pesquisa
 
         Para editar uma Atividade, o usuário deve clicar no botão **Editar atividade** (:fa:`fa-solid fa-pencil`).
 
-        Ao clicar o sistema vai preenchera parte de lançamento de atividades com o registro para edição, permitindo a alteração, a inclusão da atualização será feita através do botão (**+ Adicionar**).
+        Ao clicar o sistema preencherá parte do lançamento de atividades com o registro para edição, permitindo a alteração, a inclusão da atualização será feita através do botão (**+ Adicionar**).
 
             .. image:: ../imagens/8.EditarAtividadePlanoRequerimentoPesquisa.png
 
@@ -361,7 +359,7 @@ Pesquisa
 
     **Execução paralela da atividade no Plano de Pesquisa**
 
-        Após adicionar uma Atividade, existe o seletor **Atividade Paralela**, que identifica que o tempo da atividade marcada será simultâneo a o de/outras atividades marcadas.
+        Após adicionar uma Atividade, o usuário poderá utilizar o seletor **Atividade Paralela**, para identificar se a atividade  selecionada será executada de forma simultânea a outras atividades 
         
             .. image:: ../imagens/8.AtividadeParalelaRequerimentoPesquisa.png
 
