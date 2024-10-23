@@ -40,8 +40,7 @@ release = u'1.0.0'
 # ones.
 extensions = [
     "sphinx_new_tab_link",
-    "sphinx_fontawesome",
-    "sphinxcontrib.email"
+    "sphinx_fontawesome"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
