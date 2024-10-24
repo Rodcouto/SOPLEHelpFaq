@@ -80,3 +80,8 @@ Perguntas Frequêntes
         .. image:: ../imagens/10.TelaEnderecoImpressaoBoleto.png
     
     Caso seja apresentada, preencha corretamente os dados de endereço e clique em **Enviar** e o boleto será gerado.
+
+
+2 - Realizei o(s) pagamento(s) integral(is) do(s) valor(es) da proposta financeira vencedora e/ou do emolumento mas não habilitou o requerimento. O que fazer?
+**************************************************************************************************************************************************************
+O participante deverá encaminhar para o e-mail **sople@anm.gov.br** um print demonstrando o fato acompanhado das informações de login utilizadas como nome do Usuário no SOPLE e CPF/CNPJ da pessoa/empresa sendo representadas.
