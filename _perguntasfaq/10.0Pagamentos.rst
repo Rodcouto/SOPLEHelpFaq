@@ -84,4 +84,10 @@ Perguntas Frequêntes
 
 2 - Realizei o(s) pagamento(s) integral(is) do(s) valor(es) da proposta financeira vencedora e/ou do emolumento mas não habilitou o requerimento. O que fazer?
 **************************************************************************************************************************************************************
-O participante deverá encaminhar para o e-mail **sople@anm.gov.br** um print demonstrando o fato acompanhado das informações de login utilizadas como nome do Usuário no SOPLE e CPF/CNPJ da pessoa/empresa sendo representadas.
+    O participante deverá encaminhar para o e-mail **sople@anm.gov.br** um print demonstrando o fato acompanhado das informações de login utilizadas como nome do Usuário no SOPLE e CPF/CNPJ da pessoa/empresa sendo representadas.
+
+3 - Não tenho o cadastro no Sistema de Dados Cadastrais - SDC para gerar o boleto de Emolumento, o que fazer?
+*************************************************************************************************************
+    Existe no site na ANM um passo a passo do cadastro no **Sistema de Dados Cadastrais - SDC**, siga as orientações e após o caedastro faça um novo acesso ao SOPLE.
+
+    **Como Realizar o Cadastro** no link: https://www.gov.br/anm/pt-br/assuntos/exploracao-mineral/Cadastro-para-Requerimentos/como-realizar-o-cadastro
