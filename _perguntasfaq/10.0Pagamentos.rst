@@ -33,22 +33,22 @@ Filtros
 Pagamento de Lance
 ##################
 
-Para cada área que se encontra na situação "Arrematada", é habilitado o ícone (:fa:`fa-solid fa-credit-card`) "Gerar Boleto Lance", que abre uma tela com o boleto para impressão.
+    Para cada área que se encontra na situação "Arrematada", é habilitado o ícone (:fa:`fa-solid fa-credit-card`) "Gerar Boleto Lance", que abre uma tela com o boleto para impressão.
 
-.. image:: ../imagens/10.RequerimentoBotaoBoleto.png
+    .. image:: ../imagens/10.RequerimentoBotaoBoleto.png
 
-O sistema vai abrir uma tela para impressão do boleto, através do botão "Gerar".
+    O sistema vai abrir uma tela para impressão do boleto, através do botão "Gerar".
 
-.. image:: ../imagens/10.GerarBoleto.png
+    .. image:: ../imagens/10.GerarBoleto.png
 
-Caso precise baixar novamente o boleto, ao acessar o botão (:fa:`fa-solid fa-credit-card`) "Gerar Boleto Lance", será possível imprimir uma segunda via.
+    Esse boleto deve ser guardado pelo usuário, pois não existe uma segunda via, caso tenha perdido, clique em **+ Gerar Novo Boleto** para ter um novo boleto.
 
-.. image:: ../imagens/10.SegundaViaBoleto.png
+    .. image:: ../imagens/10.GerarNovoBoletoPagamento.png
 
-Ao realizar o pagamento o sistema pode levar até 3 dias úteis para a compensação do mesmo, assim que for compensado o valor a situação do Boleto passa para **Pago**.
+    Ao realizar o pagamento o sistema pode levar até 5 dias úteis para a compensação do mesmo, assim que for compensado o valor a situação do Boleto passa para **Pago**.
 
-.. image:: ../imagens/10.BoletoPago.png
-
+    .. image:: ../imagens/10.BoletoPago.png
+   
 
 Pagamento de Emolumento
 #######################
