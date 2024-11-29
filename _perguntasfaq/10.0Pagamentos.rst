@@ -1,7 +1,7 @@
 Como realizar o pagamento dos Lances e Emolumentos?
 ===================================================
 
-Fase de pagamento é realizada pelos usuários após ao fim da fase de Homologação e Adjudicação, onde o ficará habilitado o para a geração conforme a situação da área.
+Fase de pagamento é realizada pelos usuários após o fim da fase de Homologação e Adjudicação, onde o ficará habilitado para a geração conforme a situação da área.
 
 O pagamento fica junto ao Requerimento de áreas tendo seu acesso através:
 
@@ -13,11 +13,11 @@ O pagamento fica junto ao Requerimento de áreas tendo seu acesso através:
 
 **Painel do Minerador:**
 
-    Acessando em Protal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
+    Acessando em Portal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
 
     .. image:: ../imagens/10.TelaRequerimentoPainel.png
 
-**Observação:** Em ambas as opções a possibilidade de fazer o pagamento de Lance e Emolumentos fica atrelada a fase do edital, que deve estar na situação **"Em Registro de Requerimentos"**.
+**Observação:** Em ambas as opções a possibilidade de fazer o pagamento de Lance e Emolumentos fica atrelada à fase do edital, que deve estar na situação **"Em Registro de Requerimentos"**.
 
 Página de Requerimentos:
 
@@ -59,7 +59,7 @@ Modelo de pagamento para áreas que são do **Regime de Pesquisa**, é habilitad
 
 O sistema abrirá uma tela com o botão + Gerar Boleto de Emolumento e a lista de emolumentos já criados. Ao clicar em Gerar Boleto de Emolumento, um novo boleto é criado, lembrando que para requerer a área em partes é necessário pagar um emolumento por parte.
 
-.. image:: ../imagens/10.GerarNovoEmoluamento.png
+.. image:: ../imagens/10.GerarNovoEmolumento.png
 
 Caso precise baixar novamente o emolumento gerado em "Gerar Emolumentos", será possível imprimir uma segunda via.
 
@@ -70,12 +70,12 @@ Ao realizar o pagamento o sistema pode levar até 3 dias úteis para a compensa�
 .. image:: ../imagens/10.EmolumentoPago.png
 
 
-Perguntas Frequêntes
+Perguntas Frequentes
 ####################
 
 1 - Fui gerar meu boleto de lance e uma tela para preencher o endereço apareceu, o que fazer?
 *********************************************************************************************
-    Para alguns usuário que não tem todos os dados cadastrais no sistema de Arrecadação, será apresentanda a tela:
+    Para alguns usuários que não tem todos os dados cadastrais no sistema de Arrecadação, será apresentada a tela:
 
         .. image:: ../imagens/10.TelaEnderecoImpressaoBoleto.png
     
@@ -88,6 +88,6 @@ Perguntas Frequêntes
 
 3 - Não tenho o cadastro no Sistema de Dados Cadastrais - SDC para gerar o boleto de Emolumento, o que fazer?
 *************************************************************************************************************
-    Existe no site na ANM um passo a passo do cadastro no **Sistema de Dados Cadastrais - SDC**, siga as orientações e após o caedastro faça um novo acesso ao SOPLE.
+    Existe no site na ANM um passo a passo do cadastro no **Sistema de Dados Cadastrais - SDC**, siga as orientações e após o cadastro faça um novo acesso ao SOPLE.
 
     **Como Realizar o Cadastro** no link: https://www.gov.br/anm/pt-br/assuntos/exploracao-mineral/Cadastro-para-Requerimentos/como-realizar-o-cadastro
