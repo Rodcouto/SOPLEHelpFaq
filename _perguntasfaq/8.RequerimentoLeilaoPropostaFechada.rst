@@ -89,7 +89,7 @@ Lavra-Concessão
 
 **2 - Dados de pagamento:**
 ***************************
-    Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentando para conferência.
+    Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentado para conferência.
 
         .. image:: ../imagens/8.DadosPagamentoRequerimento.png
 
@@ -132,7 +132,7 @@ Lavra-Concessão
         .. image:: ../imagens/8.ConclusaoLavraMensagem.png
     
     
-    Confirmando o envio, o processo de protocolização vai iniciar e uma menagem informando que a rotina pode levar até 5 minutos para ser concluída será apresentada, neste ponto se faz necessário aguardar todo o processo.
+    Confirmando o envio, o processo de protocolização vai iniciar e uma mensagem informando que a rotina pode levar até 5 minutos para ser concluída será apresentada, neste ponto se faz necessário aguardar todo o processo.
 
     
         .. image:: ../imagens/8.ConclusaoLavraEnvio.png
@@ -205,7 +205,7 @@ Pesquisa
 **2 - Dados de pagamento:**
 ***************************
 
-    Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentando junto ao pagamento do emolumento referente ao requerimento que está sendo realizado.
+    Caso a área tenha sido **Arrematada**, o valor do pagamento do lance será apresentado junto ao pagamento do emolumento referente ao requerimento que está sendo realizado.
 
         .. image:: ../imagens/8.PagamentosArrematadosPesquisa.png
 
@@ -249,7 +249,7 @@ Pesquisa
 
         Para editar uma coordenada o usuário deve clicar no botão **Editar coordenada** (:fa:`fa-solid fa-pencil`).
 
-        AAo clicar, o sistema  permitirá a alteração. A inclusão da atualização será feita através do botão **+ Adicionar**.
+        Ao clicar, o sistema  permitirá a alteração. A inclusão da atualização será feita através do botão **+ Adicionar**.
 
             .. image:: ../imagens/8.EditarCoordenadaRequerimentoPesquisa.png
     
@@ -271,7 +271,7 @@ Pesquisa
         
             .. image:: ../imagens/8.AlertaInclusaoArquivoRequerimentoPesquisa.png
         
-        **Observação:** Ao lado do título **Latitudes e Longitudes (Rumos Verdadeiros)** existe um botão de Alerta (:fa:`fa-solid fa-exclamation-triangle`), clicando nele o sistema apresenta informações sobre o padrão do preenchimento e dos arquivos utilizado.
+        **Observação:** Ao lado do título **Latitudes e Longitudes (Rumos Verdadeiros)** existe um botão de Alerta (:fa:`fa-solid fa-exclamation-triangle`), clicando nele o sistema apresenta Informações sobre o padrão do preenchimento e dos arquivos utilizados.
 
 
     **Validar/Visualizar Mapa**
@@ -295,7 +295,7 @@ Pesquisa
         **Observações:**
 
             - Não é permitido lançar a mesma substância com o mesmo tipo de uso mais de uma única vez.
-            - O tamanho da área requerida deverá respeitar o limite máximo  definido pela legislação mineral vigentec.
+            - O tamanho da área requerida deverá respeitar o limite máximo  definido pela legislação mineral vigente.
         
     **Excluindo a(s) Substância(s) e Tipo(s) de Uso**
 
@@ -429,7 +429,7 @@ Pesquisa
         .. image:: ../imagens/8.MensagemConclusaoRequerimentoPesquisa.png
     
     
-    Confirmando o envio, o processo de protocolização vai iniciar e uma menagem informando que a rotina pode levar até 5 minutos para ser concluída será apresentada, neste ponto se faz necessário aguardar todo o processo.
+    Confirmando o envio, o processo de protocolização vai iniciar e uma mensagem informando que a rotina pode levar até 5 minutos para ser concluída será apresentada, neste ponto se faz necessário aguardar todo o processo.
 
     
         .. image:: ../imagens/8.ConclusaoPesquisaEnvio.png
