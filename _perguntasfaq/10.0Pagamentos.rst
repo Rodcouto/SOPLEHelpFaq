@@ -1,7 +1,7 @@
 Como realizar o pagamento dos Lances e Emolumentos?
 ===================================================
 
-Fase de pagamento é realizada pelos usuários após o fim da fase de Homologação e Adjudicação, onde o ficará habilitado para a geração conforme a situação da área.
+Fase de pagamento é realizada pelos usuários após o fim da fase de Homologação e Adjudicação, onde ficará habilitado para a geração conforme a situação da área.
 
 O pagamento fica junto ao Requerimento de áreas tendo seu acesso através:
 
