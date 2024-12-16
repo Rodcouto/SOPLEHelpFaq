@@ -6,7 +6,7 @@ Importante
 ##########
  - O Interessado deve estar logado no SOPLE para ter acesso a realizar a solicitação de reanálise de áreas;
  - A Solicitação pode ser feita até o prazo definido em edital;
- - Todas as solcitações serão analisadas pela CED (Comissão do Edital de Disponibilidade);
+ - Todas as solicitações serão analisadas pela CED (Comissão do Edital de Disponibilidade);
 
 Rotas de Acesso a Solicitação
 =============================
@@ -57,7 +57,7 @@ Na tabela seguinte é apresentado os campos:
     - **Regime:** campo referente ao tipo de regime de disponibilidade no qual a área foi disponibilizada no edital.
     - **Área Pol:** campo referente ao tamanho da poligonal da área em hectares.
     - **Estado:** campo referente ao Estado em que se encontra a área.
-    - **Munícípio:** campo referente município que se encontra a área.
+    - **Município:** campo referente município que se encontra a área.
     - **Substância(s):** campo referente a(s) substância(s) relacionada(s) a área no edital vinculada ao cadastro mineiro.
     - **Situação da Área:** campo referente a situação da área no edital.
     - **Interessado Vencedor:** campo referente ao nome do interessado vencedor na fase de Oferta Pública ou de Leilão.
