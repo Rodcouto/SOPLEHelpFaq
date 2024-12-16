@@ -13,7 +13,7 @@ Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apr
 
 
 • **Número do processo:** número reduzido (formato XXX.XXX/AAAA) do Processo ANM.
-• **Área poligonal (hectares):** área total, em hectares, do Processo. Caso o Processo tenha mais de uma poligonal remanescente a ele atrelada, é indicado neste campo a soma da área de todas elas.
+• **Área poligonal (hectares):** área total, em hectares, do Processo. Caso o Processo tenha mais de uma poligonal remanescente a ele atrelada, é indicado neste campo a soma das área de todas elas.
 • **Estado:** Unidade da Federação na qual o Processo foi originado.
 • **Regime de Disponibilidade:** regime identificado para qual a área do Processo será/foi destinada em Edital de Disponibilidade. São três os regimes possíveis de Disponibilidade, estipulados no Art. 3º da Resolução ANM Nº 24, de 3 de fevereiro de 2020: pesquisa, lavra (plg) e lavra (concessão). Uma vez que a determinação do regime de disponibilidade depende - via de regra - da depuração técnica do Processo pela ANM, esta informação pode não estar presente em todos os Processos.
 • **Substância:** relação de substâncias atreladas aos Processos. Esta informação pode não estar presente em todos os Processos.
@@ -24,8 +24,8 @@ Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apr
 
     1) **Para análise:** situação padrão em que todos os Processos inseridos na base do Estoque de Áreas (seja via rotina automática, seja via nominação) são classificadas.
     2) **Em análise:** situação na qual se enquadra os Processos remetidos à depuração técnica, que avaliará se estes atendem condições mínimas para integrar (ou não) futuro Edital de Disponibilidade.
-    3) **Apta para disponibilidade:** situação que indica que o Processo passou por depuração técnica, que concluiu que ele atende, de fato, as condições mínimas para integrar futuro Edital de Disponibilidade. Esta situação é a essencial para que o Processo seja inserido em Rodada de Disponibilidade (ou seja, Processos que não se encontram em situação “Apta para disponibilidade” não podem participar de Rodadas).
-    4) **Não apta para disponibilidade:** situação que indica que o Processo passou por depuração técnica que concluiu que ele possui alguma deficiência técnica (falta de previsão legal, instrução documental deficitária ou condição espacial adversa) que o impede de ser inserido em Rodada de Disponibilidade.
+    3) **Apta para disponibilidade:** situação que indica que o Processo passou por depuração técnica, que concluiu que ele atende, de fato, às condições mínimas para integrar futuro Edital de Disponibilidade. Esta situação é essencial para que o Processo seja inserido em Rodada de Disponibilidade (ou seja, Processos que não se encontram em situação “Apta para disponibilidade” não podem participar de Rodadas).
+    4) **Não apta para disponibilidade:** situação que indica que o Processo passou por depuração técnica que concluiu que ele apresenta alguma deficiência técnica (falta de previsão legal, instrução documental deficitária ou condição espacial adversa) que o impede de ser inserido em Rodada de Disponibilidade.
 
 • **Ação:** contém ícone que permite a expansão de card com maiores detalhes sobre um Processo específico. Ao acessar esta opção, é exibido um card (ver exemplo abaixo) específico sobre o Processo, que contempla, além das informações já detalhadas anteriormente, diversas informações extraídas do histórico do Processo no Sistema de Cadastro Mineiro (SCM) e algumas outras. Ressaltamos as seguintes:
 
@@ -37,13 +37,13 @@ Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apr
 
 Pesquisar Áreas
 ===============
-Recurso disponibilizado de forma pública para que qualquer pessoa possa ver o Estoque de Áreas do SOPLE e buscar a situação específica de um Processo ou de um grupo deles.
+Recurso disponibilizado ao público para que qualquer pessoa possa ver o Estoque de Áreas do SOPLE e buscar a situação específica de um Processo ou de um grupo deles.
 
 O módulo de pesquisa é acessível a partir do canto esquerdo da tela (ver figura abaixo) são disponibilizados os filtros de:
 
     - **Estado:** possibilita a busca de Processos a partir da Unidade da Federação nos quais estes foram gerados.
     - **Situação da Área:** permite a busca de Processos a partir de sua situação de aptidão do SOPLE (para maiores detalhes, ver seção “Informações gerais dos Processos”).
-    - **Número do Processo:** campo utilizado para pesquisa de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA) no Estoque de Áreas do SOPLE.
+    - **Número do Processo:** campo utilizado para a pesquisa de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA) no Estoque de Áreas do SOPLE.
     - **NUP:** mesma funcionalidade do campo “Numero do Processo”, mas que pede como entrada o número completo do Processo ANM (formato XXXXX.XXXXXX/AAAA-DV).
     - **Situação Processo:** permite a busca de Processos a partir de sua situação (ativo/inativo) no Sistema de Cadastro Mineiro (SCM).
 
@@ -54,7 +54,7 @@ O módulo de pesquisa é acessível a partir do canto esquerdo da tela (ver figu
 Nominar Áreas
 =============
 
-Ferramenta disponibilizada para que os usuários indiquem à ANM as áreas de Processos que sejam de seu interesse, visando a inserção destes em futuros Editais de Disponibilidade. Este procedimento se denomina como “Nominação de Áreas”.
+Ferramenta disponibilizada para que os usuários indiquem à ANM as áreas de Processos que sejam de seu interesse, com o objetivo de inseri-los em futuros Editais de Disponibilidade. Este procedimento se denomina como “Nominação de Áreas”.
 
 Para nominar um Processo basta inserir seu número em formato reduzido (XXX.XXX/AAAA) no campo “Número do Processo”; as demais informações são recuperadas, de forma automática, do Sistema de Cadastro Mineiro (SCM).
 
@@ -69,7 +69,7 @@ Para nominar um Processo basta inserir seu número em formato reduzido (XXX.XXX/
     • Os Processos nominados serão objeto de depuração para verificação da real aptidão à oferta de suas áreas em Rodadas de Disponibilidade.
     • Compete à ANM a seleção das áreas aptas para serem disponibilizadas nos próximos editais.
 
-Estatísticas das Áreas
+Estatísticas de Áreas
 ======================
 Recurso que aponta a quantidade de áreas dentro e fora do Estoque do SOPLE por Situação.
 
