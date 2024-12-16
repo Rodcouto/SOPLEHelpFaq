@@ -1,6 +1,6 @@
 O que são os arquivos do Data Room?
 ====================================
-São documentos extraídos dos processos minerários e/ou as Fichas Técnicas (conjunto de informações referentes à área do direito minerário, elaboradas com dados do Serviço Geológico do Brasil – SGB/CPRM e ANM), e outras informações relativas a cada área que poderão ser disponibilizados pela ANM, para fins de consulta meramente informativa, em meio digital, em endereço eletrônico a ser disponibilizado na seção de documentos da rodada na Plataforma SOPLE  (https://
+São documentos extraídos dos processos minerários e/ou Fichas Técnicas (conjunto de informações referentes à área do direito minerário, elaboradas com dados do Serviço Geológico do Brasil – SGB/CPRM e da ANM), além de outras informações relativas a cada área, que poderão ser disponibilizados pela ANM, para fins de consulta meramente informativa, em meio digital, no endereço eletrônico a ser disponibilizado na seção de documentos da rodada na Plataforma SOPLE  (https://
 sople.anm.gov.br) a partir da data de publicação do Edital.
 
 Todos os documentos são de domínio público e podem ser acessados a qualquer momento.
