@@ -13,7 +13,7 @@ O pagamento fica junto ao Requerimento de áreas tendo seu acesso através:
 
 **Painel do Minerador:**
 
-    Acessando em Portal do Minerador, Rodadas, Requerimentos, Edital em Requerimento.
+    Acesse o Portal do Minerador, vá até Rodadas, Requerimentos e selecione o Edital em Requerimento.
 
     .. image:: ../imagens/10.TelaRequerimentoPainel.png
 
@@ -45,7 +45,7 @@ Pagamento de Lance
 
     .. image:: ../imagens/10.GerarNovoBoletoPagamento.png
 
-    Ao realizar o pagamento o sistema pode levar até 5 dias úteis para a compensação do mesmo, assim que for compensado o valor a situação do Boleto passa para **Pago**.
+    Após o pagamento, o sistema pode levar até 5 dias úteis para a compensação. Assim que o valor for compensado, a situação do boleto será atualizada para **pago**..
 
     .. image:: ../imagens/10.BoletoPago.png
    
@@ -84,10 +84,10 @@ Perguntas Frequentes
 
 2 - Realizei o(s) pagamento(s) integral(is) do(s) valor(es) da proposta financeira vencedora e/ou do emolumento mas não habilitou o requerimento. O que fazer?
 **************************************************************************************************************************************************************
-    O participante deverá encaminhar para o e-mail **sople@anm.gov.br** um print demonstrando o fato acompanhado das informações de login utilizadas como nome do Usuário no SOPLE e CPF/CNPJ da pessoa/empresa sendo representadas.
+    O participante deverá encaminhar para o e-mail **sople@anm.gov.br** um print demonstrando o fato, acompanhado das informações de login utilizadas, como nome do Usuário no SOPLE e CPF/CNPJ da pessoa/empresa sendo representadas.
 
 3 - Não tenho o cadastro no Sistema de Dados Cadastrais - SDC para gerar o boleto de Emolumento, o que fazer?
 *************************************************************************************************************
-    Existe no site na ANM um passo a passo do cadastro no **Sistema de Dados Cadastrais - SDC**, siga as orientações e após o cadastro faça um novo acesso ao SOPLE.
+    Existe no site da ANM um passo a passo do cadastro no **Sistema de Dados Cadastrais - SDC**, siga as orientações e após o cadastro faça um novo acesso ao SOPLE.
 
     **Como Realizar o Cadastro** no link: https://www.gov.br/anm/pt-br/assuntos/exploracao-mineral/Cadastro-para-Requerimentos/como-realizar-o-cadastro
