@@ -8,7 +8,7 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas em Disponibilidade.
 Quando começa a funcionar o Sistema de Oferta Pública e Leilão de áreas?
 ========================================================================
 
-O Sistema  de Oferta Pública e Leilão irá começar a funcionar a partir da publicação do Edital no Diário Oficial da União.
+O sistema  de Oferta Pública e Leilão irá começar a funcionar a partir da publicação do Edital no Diário Oficial da União.
 
 Quais os dias e horários de funcionamento do SOPLE?
 ===================================================
@@ -17,9 +17,9 @@ Todos os dias, 24h por dia. O SOPLE funcionará sempre de acordo com o fuso hor�
 
 Serão aceitas manifestações de interesse em áreas e participação em leilões nos períodos e datas definidos nos Editais.
 
-Quando começa a 8.a Rodada de Disponibilidade?
+Quando começa a 8ª Rodada de Disponibilidade?
 ===================================================
 
- O planejamento da 8.a Rodada se iniciou em Novembro de 2023. O Edital encontra-se publicado e a Oferta Pública, terá início em 21 de maio de 2024.  
+ O planejamento da 8.a Rodada se iniciou em Novembro de 2023. O Edital encontra-se publicado e a Oferta Pública terá início em 21 de maio de 2024.  
 
 
