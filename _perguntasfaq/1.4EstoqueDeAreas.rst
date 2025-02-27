@@ -12,6 +12,7 @@ a partir da verificação, caso a caso, da instrução do Processo e da condiç�
 Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apresentados os Processos constantes na base do SOPLE e suas informações gerais. São elas:
 
 ·	Número do processo: número reduzido (formato XXX.XXX/AAAA) do Processo ANM.
+
 ·	Estado: Unidade da Federação na qual o Processo foi originado.
 ·	Município: Município onde incide a poligonal minerária
 ·	Área (ha): área total, em hectares, do Processo. Caso o Processo tenha mais de uma poligonal remanescente a ele atrelada, é indicado neste campo a soma das áreas de todas elas.
