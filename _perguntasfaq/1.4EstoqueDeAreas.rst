@@ -46,7 +46,7 @@ Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apr
 6.	Botão “Histórico de Ações”: habilita o histórico de atualização de informações da área no Banco do Estoque do SOPLE.
 
 
-.. image:: ../imagens/1.4Detalhes.png
+.. image:: ../imagens/1.4InfoGerais.png
 
 Pesquisar Áreas
 ===============
