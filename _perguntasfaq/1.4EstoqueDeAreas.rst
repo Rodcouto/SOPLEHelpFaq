@@ -81,7 +81,7 @@ O módulo de pesquisa é acessível a partir do canto esquerdo da tela (ver figu
 Neste módulo é possível especificar múltiplas combinações dos critérios de pesquisa, o que possibilita um resultado mais direcionado e específico de pesquisa.
 
 
-.. image:: ../imagens/1.4PesquisarAreas.png
+.. image:: ..imagens/1.4PesquisarAreas.png
 
 **Link para acesso:** `Pesquisar Áreas <https://sople.anm.gov.br/portalpublico/areas-nominadas/pesquisar>`_
 
