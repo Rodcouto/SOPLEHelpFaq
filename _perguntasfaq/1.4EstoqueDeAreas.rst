@@ -84,7 +84,7 @@ A última tabela (Quantitativo de Áreas Em Rodadas) contempla o quantitativo to
 •  “Requeridas”: quantitativo de áreas conquistadas e arrematadas que foram objeto de novos Requerimentos.
 •  “Não requeridas”: quantitativo de áreas conquistadas e arrematadas que não foram objeto de novos Requerimentos.
 
-. . image:: . ./imagens/1.4EstatisticasDeAreas.png
+.. image:: ../imagens/1.4EstatisticasDeAreas.png
 
 Em ambas as tabelas a coluna “Nominadas” apresenta o quantitativo de Processos (e suas respectivas situações) que foram objetos de indicações de interesse (nominações) por usuários externos, enquanto a coluna “ANM” apresenta o quantitativo de Processos inseridos na base do Estoque de Áreas a partir de rotina automatizada de pesquisa, via dados do Sistema de Cadastro Mineiro (SCM). São informações excludentes, ou seja, se um Processo foi objeto de nominação é contabilizado somente na coluna “Nominadas”, não sendo contado na coluna “ANM”.
 
