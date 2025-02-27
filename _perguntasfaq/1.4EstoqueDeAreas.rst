@@ -11,10 +11,11 @@ a partir da verificação, caso a caso, da instrução do Processo e da condiç�
 
 Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apresentados os Processos constantes na base do SOPLE e suas informações gerais. São elas:
 
-·Número do processo: número reduzido (formato XXX.XXX/AAAA) do Processo ANM.
+- Número do processo: número reduzido (formato XXX.XXX/AAAA) do Processo ANM.
 
-·Estado: Unidade da Federação na qual o Processo foi originado.
-·	Município: Município onde incide a poligonal minerária
+- Estado: Unidade da Federação na qual o Processo foi originado.
+
+- Município: Município onde incide a poligonal minerária
 ·	Área (ha): área total, em hectares, do Processo. Caso o Processo tenha mais de uma poligonal remanescente a ele atrelada, é indicado neste campo a soma das áreas de todas elas.
 ·	Substância: relação de substâncias atreladas aos Processos. Esta informação pode não estar presente em todos os Processos.
 ·	Regime de Disponibilidade: regime identificado para qual a área do Processo será/foi destinada em Edital de Disponibilidade. São três os regimes possíveis de Disponibilidade, estipulados no Art. 3º da Resolução ANM Nº 24, de 3 de fevereiro de 2020: pesquisa, lavra (PLG) e lavra (concessão). Uma vez que, em alguns casos, a determinação do regime de disponibilidade é indicada no momento da depuração da área pela equipe técnica da ANM, esta informação pode não estar presente em todos os Processos.
