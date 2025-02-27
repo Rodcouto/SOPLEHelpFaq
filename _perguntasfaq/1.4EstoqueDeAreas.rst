@@ -67,7 +67,7 @@ Recurso disponibilizado ao público para que qualquer pessoa possa ver o Estoque
 
 O módulo de pesquisa é acessível a partir do canto esquerdo da tela (ver figura abaixo) são disponibilizados os filtros de:
 
-    •	Número do Processo: campo utilizado para a pesquisa da área de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA);
+•	Número do Processo: campo utilizado para a pesquisa da área de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA);
 •	NUP: mesma funcionalidade do campo “Número do Processo”, mas que pede como entrada o número completo do Processo ANM (formato XXXXX.XXXXXX/AAAA-DV);
 •	Substância: permite a busca de áreas a partir das substâncias atreladas aos seus respectivos Processos de origem. Atenção: a informação “substância” pode não estar presente em todas as áreas constantes no Estoque do SOPLE;
 •	Estado: possibilita a busca de áreas partir da Unidade da Federação nos quais seus respectivos Processos foram gerados;
