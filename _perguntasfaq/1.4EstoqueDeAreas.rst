@@ -67,11 +67,19 @@ Recurso disponibilizado ao público para que qualquer pessoa possa ver o Estoque
 
 O módulo de pesquisa é acessível a partir do canto esquerdo da tela (ver figura abaixo) são disponibilizados os filtros de:
 
-    - **Estado:** possibilita a busca de Processos a partir da Unidade da Federação nos quais estes foram gerados.
-    - **Situação da Área:** permite a busca de Processos a partir de sua situação de aptidão do SOPLE (para maiores detalhes, ver seção “Informações gerais dos Processos”).
-    - **Número do Processo:** campo utilizado para a pesquisa de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA) no Estoque de Áreas do SOPLE.
-    - **NUP:** mesma funcionalidade do campo “Numero do Processo”, mas que pede como entrada o número completo do Processo ANM (formato XXXXX.XXXXXX/AAAA-DV).
-    - **Situação Processo:** permite a busca de Processos a partir de sua situação (ativo/inativo) no Sistema de Cadastro Mineiro (SCM).
+    •	Número do Processo: campo utilizado para a pesquisa da área de um Processo específico, no formato reduzido (formato XXX.XXX/AAAA);
+•	NUP: mesma funcionalidade do campo “Número do Processo”, mas que pede como entrada o número completo do Processo ANM (formato XXXXX.XXXXXX/AAAA-DV);
+•	Substância: permite a busca de áreas a partir das substâncias atreladas aos seus respectivos Processos de origem. Atenção: a informação “substância” pode não estar presente em todas as áreas constantes no Estoque do SOPLE;
+•	Estado: possibilita a busca de áreas partir da Unidade da Federação nos quais seus respectivos Processos foram gerados;
+•	Município: possibilita a busca de áreas a partir dos Municípios onde elas incidem.
+•	Situação da Área no Estoque: permite a busca de áreas a partir de sua situação de aptidão do SOPLE (para maiores detalhes, ver seção “Informações gerais dos Processos”).
+•	Última Situação em Edital: permite a busca de áreas a partir das suas situações específicas em Rodadas de Disponibilidade passadas ou em andamento (para maiores detalhes, ver seção “Informações gerais dos Processos”).
+•	Já disponibilizada em Edital: possibilita a pesquisa rápida de todas as áreas que já participaram (ou não) de Rodadas de Disponibilidade passadas ou em andamento
+•	Áreas nominadas: permite a pesquisa rápida de todas as áreas nominadas (ou não) existentes no Estoque do SOPLE
+•	Situação Processo: permite a pesquisa rápida das áreas existentes no Estoque do SOPLE a partir da condição de seu respectivo Processo no SCM (se inativo ou não)
+
+Neste módulo é possível especificar múltiplas combinações dos critérios de pesquisa, o que possibilita um resultado mais direcionado e específico de pesquisa.
+
 
 .. image:: ../imagens/1.4PesquisarAreas.png
 
