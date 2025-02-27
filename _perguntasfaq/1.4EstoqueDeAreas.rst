@@ -29,10 +29,10 @@ Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apr
 
 - Situação no Estoque: indica a situação do Processo no SOPLE. São quatros as possibilidades:
 
-1. Para análise: situação padrão de todas as áreas ainda não depuradas, inseridas na base do Estoque de Áreas via rotina automática;
-2. Em análise: situação padrão de todas as áreas nominadas (ou seja, objeto de manifestação de interesse por terceiros) ainda não depuradas constantes na base do Estoque de Áreas;
-3. Apta para disponibilidade: situação que indica que o Processo passou por depuração técnica, que concluiu que ele atende às condições mínimas para integrar futura Rodada de Disponibilidade. Esta situação é essencial para que o Processo seja inserido em Rodada de Disponibilidade (ou seja, Processos que não se encontram em situação “Apta para disponibilidade” não podem participar de Rodadas).
-4. Não apta para disponibilidade: situação que indica que o Processo passou por depuração técnica que concluiu que ele apresenta alguma deficiência técnica (falta de previsão legal, instrução documental deficitária ou condição espacial adversa) que o impede de ser inserido em Rodada de Disponibilidade.
+    1. Para análise: situação padrão de todas as áreas ainda não depuradas, inseridas na base do Estoque de Áreas via rotina automática;
+    2. Em análise: situação padrão de todas as áreas nominadas (ou seja, objeto de manifestação de interesse por terceiros) ainda não depuradas constantes na base do Estoque de Áreas;
+    3. Apta para disponibilidade: situação que indica que o Processo passou por depuração técnica, que concluiu que ele atende às condições mínimas para integrar futura Rodada de Disponibilidade. Esta situação é essencial para que o Processo seja inserido em Rodada de Disponibilidade (ou seja, Processos que não se encontram em situação “Apta para disponibilidade” não podem participar de Rodadas).
+    4. Não apta para disponibilidade: situação que indica que o Processo passou por depuração técnica que concluiu que ele apresenta alguma deficiência técnica (falta de previsão legal, instrução documental deficitária ou condição espacial adversa) que o impede de ser inserido em Rodada de Disponibilidade.
 
 
 - Já disponibilizada em Edital: indica se a área já foi (ou não) inserida em Rodada de Disponibilidade anterior
