@@ -75,7 +75,15 @@ Recurso que aponta a quantidade de áreas dentro e fora do Estoque do SOPLE por 
 
 A primeira tabela **(Quantitativo de Áreas em Estoque por Situação)** apresenta número de Processos contantes no Estoque de Áreas do SOPLE cujas áreas encontram-se nas situações “para análise de aptidão”, “em análise de aptidão” e “apta para disponibilidade”. Esta tabela apresenta o quantitativo de Processos que possuem, em maior ou menor grau, potencial de serem inseridos em Rodada de Disponibilidade. Ressalte-se, em tempo, que os Processos já depurados e considerados em condições ideais de terem suas áreas ofertadas estão sintetizados na linha “apta para disponibilidade”.
 
-A segunda tabela **(Quantitativo de Áreas Fora Estoque)**, por sua vez apresenta os dados compilados de Processos que foram objeto de depuração e classificados em condição que os impedem, de forma definitiva ou temporária, de terem suas áreas disponibilizadas (linha “Não apta para disponibilidade”), bem como de Processos que foram/são objetos de Rodadas ou procedimentos de Disponibilidade prévios, concluídos ou não (linha “Áreas em rodadas”).
+A última tabela (Quantitativo de Áreas Em Rodadas) contempla o quantitativo total de áreas inseridas em Editais passados (linha “Disponibilizadas”) bem como alguns dos desdobramentos possíveis – caso o Edital já esteja finalizado – para estas áreas:
+
+•  “Conquistadas”: refere-se ao montante de áreas conquistadas em Oferta Pública (manifestação pública) ou na Avaliação Social (6ª Rodada). 
+•  “Arrematadas”: quantitativo de áreas arrematadas em Leilão (disputa de lances).
+•  “Livre”: quantidade de áreas disponibilizadas em Editais sem nenhuma manifestação de interesse ou sem lance.
+•  “Retiradas”: áreas inseridas em Editais, mas retiradas do certame
+•  “Requeridas”: quantitativo de áreas conquistadas e arrematadas que foram objeto de novos Requerimentos.
+•  “Não requeridas”: quantitativo de áreas conquistadas e arrematadas que não foram objeto de novos Requerimentos.
+
 
 Em ambas as tabelas a coluna “Nominadas” apresenta o quantitativo de Processos (e suas respectivas situações) que foram objetos de indicações de interesse (nominações) por usuários externos, enquanto a coluna “ANM” apresenta o quantitativo de Processos inseridos na base do Estoque de Áreas a partir de rotina automatizada de pesquisa, via dados do Sistema de Cadastro Mineiro (SCM). São informações excludentes, ou seja, se um Processo foi objeto de nominação é contabilizado somente na coluna “Nominadas”, não sendo contado na coluna “ANM”.
 
