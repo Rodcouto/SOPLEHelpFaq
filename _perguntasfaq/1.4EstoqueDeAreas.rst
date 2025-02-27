@@ -11,27 +11,40 @@ a partir da verificação, caso a caso, da instrução do Processo e da condiç�
 
 Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apresentados os Processos constantes na base do SOPLE e suas informações gerais. São elas:
 
+·	Número do processo: número reduzido (formato XXX.XXX/AAAA) do Processo ANM.
+·	Estado: Unidade da Federação na qual o Processo foi originado.
+·	Município: Município onde incide a poligonal minerária.
+·	Área (ha): área total, em hectares, do Processo. Caso o Processo tenha mais de uma poligonal remanescente a ele atrelada, é indicado neste campo a soma das áreas de todas elas.
+·	Substância: relação de substâncias atreladas aos Processos. Esta informação pode não estar presente em todos os Processos.
+·	Regime de Disponibilidade: regime identificado para qual a área do Processo será/foi destinada em Edital de Disponibilidade. São três os regimes possíveis de Disponibilidade, estipulados no Art. 3º da Resolução ANM Nº 24, de 3 de fevereiro de 2020: pesquisa, lavra (PLG) e lavra (concessão). Uma vez que, em alguns casos, a determinação do regime de disponibilidade é indicada no momento da depuração da área pela equipe técnica da ANM, esta informação pode não estar presente em todos os Processos.
+·	Área nominada?: indica se o Processo foi objeto de nominação ou não (maiores informações na seção “Nominar Áreas” abaixo).
+·	Situação Processo: indica se o Processo está ativo ou inativo no Sistema de Cadastro Mineiro (SCM).
+·	Situação no Estoque: indica a situação do Processo no SOPLE. São quatros as possibilidades:
+1.	Para análise: situação padrão de todas as áreas ainda não depuradas, inseridas na base do Estoque de Áreas via rotina automática;
+2.	Em análise: situação padrão de todas as áreas nominadas (ou seja, objeto de manifestação de interesse por terceiros) ainda não depuradas constantes na base do Estoque de Áreas;
+3.	Apta para disponibilidade: situação que indica que o Processo passou por depuração técnica, que concluiu que ele atende às condições mínimas para integrar futura Rodada de Disponibilidade. Esta situação é essencial para que o Processo seja inserido em Rodada de Disponibilidade (ou seja, Processos que não se encontram em situação “Apta para disponibilidade” não podem participar de Rodadas).
+4.	Não apta para disponibilidade: situação que indica que o Processo passou por depuração técnica que concluiu que ele apresenta alguma deficiência técnica (falta de previsão legal, instrução documental deficitária ou condição espacial adversa) que o impede de ser inserido em Rodada de Disponibilidade.
+·	Já disponibilizada em Edital: indica se a área já foi (ou não) inserida em Rodada de Disponibilidade anterior
+·	Última situação em Edital:  indicação do destino da área na última Rodada de Disponibilidade que ela tenha participado (indicação “sim” na coluna “Já disponibilizada em Edital”). São 11 as possibilidades:
+1.	Em Edital: condição das áreas pertencentes a Rodada de Disponibilidade em curso (ainda em prazo de manifestação de interesse ou etapa anterior);
+2.	Conquistada: área conquistada a partir de manifestação única de interesse em etapa de Oferta Pública; não se computam, aqui, as áreas que já passaram por etapa de requerimento.
+3.	Aguardando Leilão: área objeto de mais de uma manifestação de interesse em etapa de Oferta Pública e que ainda não passou por etapa de Leilão.
+4.	Arrematada: área conquistada em etapa de Leilão; não se computam, aqui, as áreas que já passaram por etapa de requerimento.
+5.	Requerido: área conquistada/arrematada que já foi objeto de requerimento, após a homologação do resultado final da Rodada;
+6.	Sem lance: áreas que participaram de etapa de Leilão mas não tiveram proposta de lance.
+7.	Livre: área que, via de regra, não foi objetivo de manifestação de interesse em etapa de Oferta Pública ou que não foram objeto de lances em etapa de Leilão; pode contemplar, também, áreas que se tornaram livres por eventuais previsões diversas expressas em Edital;
+8.	Retirada: área retirada da Rodada;
+9.	Suspensa: área cuja procedimento de disponibilidade foi suspenso;
+10.	Removida: área removida de Rodada ainda em fase de planejamento (quando já houve a publicidade da lista, mas ainda não foi aberto o prazo para manifestação de interesse).
+11.	Não requerida: área conquistada/arrematada que não foi objeto de requerimento.
+·	Ação: contém ícone que permite a expansão de card com maiores detalhes sobre um Processo específico. Ao acessar esta opção, é exibido um card (ver exemplo abaixo) específico sobre a área em questão, que contempla, além das informações já detalhadas anteriormente, diversas informações extraídas do histórico do respectivo Processo no Sistema de Cadastro Mineiro (SCM) e algumas outras. Ressaltamos as seguintes:
+1.	Nome cenário: situações de desoneração nas quais são previstas a disponibilidade da área do Processo, estipuladas no Art. 2º da Resolução ANM Nº 24, de 3 de fevereiro de 2020.
+2.	Justificativa e Data de reanálise: informações específicas que somente são apresentadas para áreas que foram objetos de depuração e tiveram sua situação no SOPLE definida como “Não apta para disponibilidade”. O campo “justificativa” refere-se ao motivo pelo qual a área foi considerada como inapta, enquanto o campo “Data de reanálise” indica a data em que o respectivo Processo terá sua situação retornada para “Em análise”, para ser oportunamente objeto de nova verificação de aptidão.
+3.	Interferências: quadro que demonstra as interferências observadas entre a área com outras (poligonais minerárias e áreas de uso especial) constantes na base georreferenciada da ANM.
+4.	Edital participante: quadro apresentado somente para os Processos já incluídos em Rodadas de Disponibilidade realizadas por meio da plataforma SOPLE. Indica as informações gerais do(s) Edital(s) que contemplou(aram) o a área, bem como qual foi seu destino neste(s) Edital(is).
+5.	Botão “Visualizar Mapa da Área”: habilita mapa com a localização da poligonal minerária em justaposição à imagem de satélite.
+6.	Botão “Histórico de Ações”: habilita o histórico de atualização de informações da área no Banco do Estoque do SOPLE.
 
-• **Número do processo:** número reduzido (formato XXX.XXX/AAAA) do Processo ANM.
-• **Área poligonal (hectares):** área total, em hectares, do Processo. Caso o Processo tenha mais de uma poligonal remanescente a ele atrelada, é indicado neste campo a soma das área de todas elas.
-• **Estado:** Unidade da Federação na qual o Processo foi originado.
-• **Regime de Disponibilidade:** regime identificado para qual a área do Processo será/foi destinada em Edital de Disponibilidade. São três os regimes possíveis de Disponibilidade, estipulados no Art. 3º da Resolução ANM Nº 24, de 3 de fevereiro de 2020: pesquisa, lavra (plg) e lavra (concessão). Uma vez que a determinação do regime de disponibilidade depende - via de regra - da depuração técnica do Processo pela ANM, esta informação pode não estar presente em todos os Processos.
-• **Substância:** relação de substâncias atreladas aos Processos. Esta informação pode não estar presente em todos os Processos.
-• **Tipo de uso:** informação referente à(s) substância(s) do Processo, quando aplicável.
-• **Área nominada:** indica se o Processo foi objeto de nominação ou não (maiores informações na seção “Nominar Áreas” abaixo).
-• **Situação Processo:** indica se o Processo está ativo ou inativo no Sistema de Cadastro Mineiro (SCM).
-• **Situação:** indica a situação do Processo no SOPLE. São quatros as possibilidades:
-
-    1) **Para análise:** situação padrão em que todos os Processos inseridos na base do Estoque de Áreas (seja via rotina automática, seja via nominação) são classificadas.
-    2) **Em análise:** situação na qual se enquadra os Processos remetidos à depuração técnica, que avaliará se estes atendem condições mínimas para integrar (ou não) futuro Edital de Disponibilidade.
-    3) **Apta para disponibilidade:** situação que indica que o Processo passou por depuração técnica, que concluiu que ele atende, de fato, às condições mínimas para integrar futuro Edital de Disponibilidade. Esta situação é essencial para que o Processo seja inserido em Rodada de Disponibilidade (ou seja, Processos que não se encontram em situação “Apta para disponibilidade” não podem participar de Rodadas).
-    4) **Não apta para disponibilidade:** situação que indica que o Processo passou por depuração técnica que concluiu que ele apresenta alguma deficiência técnica (falta de previsão legal, instrução documental deficitária ou condição espacial adversa) que o impede de ser inserido em Rodada de Disponibilidade.
-
-• **Ação:** contém ícone que permite a expansão de card com maiores detalhes sobre um Processo específico. Ao acessar esta opção, é exibido um card (ver exemplo abaixo) específico sobre o Processo, que contempla, além das informações já detalhadas anteriormente, diversas informações extraídas do histórico do Processo no Sistema de Cadastro Mineiro (SCM) e algumas outras. Ressaltamos as seguintes:
-
-• **Nome cenário:** situações de desoneração nas quais são previstas a disponibilidade da área do Processo, estipuladas no Art. 2º da Resolução ANM Nº 24, de 3 de fevereiro de 2020
-• **Justificativa e Data de reanálise:** informações específicas  que somente são apresentadas para Processos que foram objetos de depuração e tiveram sua situação no SOPLE definida como “Não apta para disponibilidade”. O campo “justificativa” refere-se ao motivo pelo qual o Processo foi considerado como inapto, enquanto o campo “Data de reanálise” indica a data em que o Processo terá sua situação retornada para “Em análise”, para ser oportunamente objeto de nova verificação de aptidão.
-• **Edital participante:** quadro apresentado somente para os Processos já incluídos em Rodadas de Disponibilidade realizadas por meio da plataforma SOPLE. Indica as informações gerais do(s) Edital(s) que contemplou(aram) o Processo, bem como qual foi o destino do Processo neste(s) Edital(is).
 
 .. image:: ../imagens/1.4Detalhes.png
 
