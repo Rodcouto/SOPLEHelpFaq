@@ -28,6 +28,7 @@ Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apr
 - Situação Processo: indica se o Processo está ativo ou inativo no Sistema de Cadastro Mineiro (SCM).
 
 - Situação no Estoque: indica a situação do Processo no SOPLE. São quatros as possibilidades:
+
     1.	Para análise: situação padrão de todas as áreas ainda não depuradas, inseridas na base do Estoque de Áreas via rotina automática;
     2.	Em análise: situação padrão de todas as áreas nominadas (ou seja, objeto de manifestação de interesse por terceiros) ainda não depuradas constantes na base do Estoque de Áreas;
     3.	Apta para disponibilidade: situação que indica que o Processo passou por depuração técnica, que concluiu que ele atende às condições mínimas para integrar futura Rodada de Disponibilidade. Esta situação é essencial para que o Processo seja inserido em Rodada de Disponibilidade (ou seja, Processos que não se encontram em situação “Apta para disponibilidade” não podem participar de Rodadas).
@@ -36,6 +37,7 @@ Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apr
 - Já disponibilizada em Edital: indica se a área já foi (ou não) inserida em Rodada de Disponibilidade anterior
 
 - Última situação em Edital:  indicação do destino da área na última Rodada de Disponibilidade que ela tenha participado (indicação “sim” na coluna “Já disponibilizada em Edital”). São 11 as possibilidades:
+
     1.	Em Edital: condição das áreas pertencentes a Rodada de Disponibilidade em curso (ainda em prazo de manifestação de interesse ou etapa anterior);
     2.	Conquistada: área conquistada a partir de manifestação única de interesse em etapa de Oferta Pública; não se computam, aqui, as áreas que já passaram por etapa de requerimento
     3.	Aguardando Leilão: área objeto de mais de uma manifestação de interesse em etapa de Oferta Pública e que ainda não passou por etapa de Leilão
