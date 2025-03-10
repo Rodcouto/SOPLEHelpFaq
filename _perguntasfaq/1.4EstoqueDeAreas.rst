@@ -112,10 +112,15 @@ A primeira tabela **(Quantitativo de Áreas em Estoque por Situação)** apresen
 A última tabela (Quantitativo de Áreas Em Rodadas) contempla o quantitativo total de áreas inseridas em Editais passados (linha “Disponibilizadas”) bem como alguns dos desdobramentos possíveis – caso o Edital já esteja finalizado – para estas áreas:
 
 •  “Conquistadas”: refere-se ao montante de áreas conquistadas em Oferta Pública (manifestação pública) ou na Avaliação Social (6ª Rodada). 
+
 •  “Arrematadas”: quantitativo de áreas arrematadas em Leilão (disputa de lances).
+
 •  “Livre”: quantidade de áreas disponibilizadas em Editais sem nenhuma manifestação de interesse ou sem lance.
+
 •  “Retiradas”: áreas inseridas em Editais, mas retiradas do certame
+
 •  “Requeridas”: quantitativo de áreas conquistadas e arrematadas que foram objeto de novos Requerimentos.
+
 •  “Não requeridas”: quantitativo de áreas conquistadas e arrematadas que não foram objeto de novos Requerimentos.
 
 .. image:: ../imagens/1.4EstatisticasDeAreas.png
