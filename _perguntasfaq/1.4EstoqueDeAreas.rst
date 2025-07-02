@@ -127,24 +127,24 @@ Pesquisa de Áreas com Geopotencial:
 ***********************************
 Para facilitar a identificação das informações do Geopotencial, o SOPLE disponibiliza um filtro específico para a pesquisa de áreas e a coluna Geopotencial. 
 
-    1. Na tela de pesquisa de áreas, o usuário pode selecionar o filtro "Geopotencial" que possibilita a busca por substâncias específicas, como ouro, cobre, níquel, entre outras.
+1. Na tela de pesquisa de áreas, o usuário pode selecionar o filtro "Geopotencial" que possibilita a busca por substâncias específicas, como ouro, cobre, níquel, entre outras.
 
-    .. image:: ../imagens/1.4FiltroGeopotencial.png
+.. image:: ../imagens/1.4FiltroGeopotencial.png
+
     
-        
-    2. Após aplicar o filtro, o sistema exibirá uma lista de áreas que atendem aos critérios de pesquisa, contendo uma lista das substâncias de Geopotencial.        
+2. Após aplicar o filtro, o sistema exibirá uma lista de áreas que atendem aos critérios de pesquisa, contendo uma lista das substâncias de Geopotencial.        
 
-    .. image:: ../imagens/1.4ResultadoPesquisaGeopotencial.png
+.. image:: ../imagens/1.4ResultadoPesquisaGeopotencial.png
+
     
-        
-    3. Clicando na ação "Detalhes" (:fa:`fa-solid fa-eye`), o usuário poderá visualizar informações adicionais sobre a área, incluindo as substâncias de Geopotencial.
+3. Clicando na ação "Detalhes" (:fa:`fa-solid fa-eye`), o usuário poderá visualizar informações adicionais sobre a área, incluindo as substâncias de Geopotencial.
 
-    .. image:: ../imagens/1.4AcaoDetalheArea.png
+.. image:: ../imagens/1.4AcaoDetalheArea.png
+
     
-        
-    4. Na tela de detalhes, o usuário encontrará uma tabela para os dados do **Portal GeoSGB**, sendo Geopotencial, Status Econômico, Importância e Descrição.
+4. Na tela de detalhes, o usuário encontrará uma tabela para os dados do **Portal GeoSGB**, sendo Geopotencial, Status Econômico, Importância e Descrição.
 
-    .. image:: ../imagens/1.4GeopotencialDetalhes.png   
+.. image:: ../imagens/1.4GeopotencialDetalhes.png   
     
         
 Nominar Áreas
