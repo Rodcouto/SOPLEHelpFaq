@@ -61,6 +61,8 @@ Na tela principal do Estoque de Áreas (módulo “Pesquisar Áreas”) são apr
 
 .. image:: ../imagens/1.4InfoGerais.png
 
+
+
 Pesquisar Áreas
 ===============
 Recurso disponibilizado ao público para que qualquer pessoa possa ver o Estoque de Áreas do SOPLE e buscar a situação específica de um Processo ou de um grupo deles.
@@ -85,6 +87,55 @@ Neste módulo é possível especificar múltiplas combinações dos critérios d
 
 **Link para acesso:** `Pesquisar Áreas <https://sople.anm.gov.br/portalpublico/areas-nominadas/pesquisar>`_
 
+
+Geopotencial
+============
+A ferramenta Geopotencial visa integrar os bancos de dados do Portal SOPLE e do Serviço Geológico do Brasil (SGB), facilitando o acesso público às informações geológicas das áreas incluídas no estoque de disponibilidade da ANM, ampliando a transparência e o potencial de aproveitamento dos recursos minerais. 
+
+Com base no **Manual Técnico do Departamento de Geologia (1996)**, o SGB estabelece critérios padronizados para a catalogação de ocorrências minerais. Esses critérios foram aplicados ao projeto Geopotencial, que correlaciona dados do **Portal GeoSGB** (https://geosgb.sgb.gov.br/home.html) com a base de processos em disponibilidade da ANM. 
+
+A integração utilizou técnicas de geoprocessamento, cruzando a camada **Brase RECMIN** com as áreas disponíveis. Como resultado, os atributos Status Econômico, Importância e Descrição foram incorporados ao estoque de áreas do sistema SOPLE. Os dados da ferramenta Geopotencial são atualizados mensalmente. 
+
+
+Atributos Definidos pelo SGB:
+*****************************
+
+1. **Status Econômico**
+    - **Mina**: Jazida em lavra (ativa ou temporariamente suspensa). 
+    - **Garimpo**: Concentração mineral explorada por métodos rudimentares, individualmente ou em cooperativas.
+    - **Indeterminado/Não explotado**: Sem definição precisa por parte do SGB. 
+
+2. **Importância**
+    - **Indício:** Presença de minerais ou substâncias úteis, mas com parâmetros geológicos desconhecidos. 
+    - **Ocorrência mineral:** Concentração mineral preliminarmente avaliada, com identificação de parâmetros como associação mineralógica (minério-ganga), rocha hospedeira e indícios de morfologia/extensão. 
+    - **Depósito:** Concentração mineral detalhada por pesquisas, com corpos delimitados, reservas calculadas e teores conhecidos, além de compreensão dos aspectos metalogenéticos.  
+
+3. **Descrição**
+    Informações técnicas que consideram:
+        - Exposição natural ou artificial de rochas, minerais ou solos. 
+
+        - Características documentadas em bibliografias prévias ou pontos de referência existentes. 
+
+**Aviso:**
+    A ANM não se responsabiliza pelo uso inadequado das informações contidas na ferramenta Geopotencial. Para maiores informações sobre os estudos que originaram os dados disponíveis, sugerimos consultar o Portal GEOSGB (https://geosgb.sgb.gov.br/home.html).
+
+Pesquisa de Áreas com Geopotencial:
+***********************************
+Para facilitar a identificação das informações do Geopotencial, o SOPLE disponibiliza um filtro específico para a pesquisa de áreas e a coluna Geopotencial. 
+
+    1. Na tela de pesquisa de áreas, o usuário pode selecionar o filtro "Geopotencial" que possibilita a busca por substâncias específicas, como ouro, cobre, níquel, entre outras.
+        .. image:: ../imagens/1.4FiltroGeopotencial.png
+        
+    2. Após aplicar o filtro, o sistema exibirá uma lista de áreas que atendem aos critérios de pesquisa, contendo uma lista das substâncias de Geopotencial.        
+        .. image:: ../imagens/1.4ResultadoPesquisaGeopotencial.png
+        
+    3. Clicando na ação "Detalhes" (:fa:`fa-solid fa-eye`), o usuário poderá visualizar informações adicionais sobre a área, incluindo as substâncias de Geopotencial.
+        .. image:: ../imagens/1.4AcaoDetalheArea.png
+        
+    4. Na tela de detalhes, o usuário encontrará uma tabela para os dados do **Portal GeoSGB**, sendo Geopotencial, Status Econômico, Importância e Descrição.
+        .. image:: ../imagens/1.4GeopotencialDetalhes.png   
+
+
 Nominar Áreas
 =============
 
@@ -102,6 +153,7 @@ Para nominar um Processo basta inserir seu número em formato reduzido (XXX.XXX/
     • Considera-se, para todos os efeitos, que as nominações de Processos são somente sugestões – ou seja, não é garantia que suas respectivas áreas serão ofertadas.
     • Os Processos nominados serão objeto de depuração para verificação da real aptidão à oferta de suas áreas em Rodadas de Disponibilidade.
     • Compete à ANM a seleção das áreas aptas para serem disponibilizadas nos próximos editais.
+
 
 Estatísticas de Áreas
 ======================
