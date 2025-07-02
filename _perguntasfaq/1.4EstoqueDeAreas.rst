@@ -117,6 +117,7 @@ Atributos Definidos pelo SGB:
     Informações técnicas que consideram:        
         -   Exposição natural ou artificial de rochas, minerais ou solos. 
         -   Características documentadas em bibliografias prévias ou pontos de referência existentes. 
+       
 Aviso:
     A ANM não se responsabiliza pelo uso inadequado das informações contidas na ferramenta Geopotencial. Para maiores informações sobre os estudos que originaram os dados disponíveis, sugerimos consultar o Portal GEOSGB (https://geosgb.sgb.gov.br/home.html).
 
@@ -124,7 +125,7 @@ Pesquisa de Áreas com Geopotencial:
 ***********************************
 Para facilitar a identificação das informações do Geopotencial, o SOPLE disponibiliza um filtro específico para a pesquisa de áreas e a coluna Geopotencial. 
 
-1. Na tela de pesquisa de áreas, o usuário pode selecionar o filtro "Geopotencial" que possibilita a busca por substâncias específicas, como ouro, cobre, níquel, entre outras.
+1. Na tela de pesquisa de áreas, o usuário pode selecionar o filtro **Geopotencial** que possibilita a busca por substâncias específicas, como ouro, cobre, níquel, entre outras.
 
 .. image:: ../imagens/1.4FiltroGeopotencial.png
 
