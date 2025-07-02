@@ -100,26 +100,26 @@ A integração utilizou técnicas de geoprocessamento, cruzando a camada **Brase
 Atributos Definidos pelo SGB:
 *****************************
 
-**1. Status Econômico** 
+1. **Status Econômico** 
 
     - **Mina**: Jazida em lavra (ativa ou temporariamente suspensa). 
     - **Garimpo**: Concentração mineral explorada por métodos rudimentares, individualmente ou em cooperativas.
     - **Indeterminado/Não explotado**: Sem definição precisa por parte do SGB. 
 
-**2. Importância**    
+2. **Importância**    
 
     - **Indício:** Presença de minerais ou substâncias úteis, mas com parâmetros geológicos desconhecidos. 
     - **Ocorrência mineral:** Concentração mineral preliminarmente avaliada, com identificação de parâmetros como associação mineralógica (minério-ganga), rocha hospedeira e indícios de morfologia/extensão. 
     - **Depósito:** Concentração mineral detalhada por pesquisas, com corpos delimitados, reservas calculadas e teores conhecidos, além de compreensão dos aspectos metalogenéticos.  
 
-**3. Descrição**
+3. **Descrição**
 
     Informações técnicas que consideram:        
+       
         -   Exposição natural ou artificial de rochas, minerais ou solos. 
         -   Características documentadas em bibliografias prévias ou pontos de referência existentes. 
        
-Aviso:
-    A ANM não se responsabiliza pelo uso inadequado das informações contidas na ferramenta Geopotencial. Para maiores informações sobre os estudos que originaram os dados disponíveis, sugerimos consultar o Portal GEOSGB (https://geosgb.sgb.gov.br/home.html).
+**Aviso: ** A ANM não se responsabiliza pelo uso inadequado das informações contidas na ferramenta Geopotencial. Para maiores informações sobre os estudos que originaram os dados disponíveis, sugerimos consultar o Portal GEOSGB (https://geosgb.sgb.gov.br/home.html).
 
 Pesquisa de Áreas com Geopotencial:
 ***********************************
