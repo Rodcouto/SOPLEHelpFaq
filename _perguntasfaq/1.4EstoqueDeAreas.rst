@@ -118,9 +118,8 @@ Atributos Definidos pelo SGB:
        
     -   Exposição natural ou artificial de rochas, minerais ou solos. 
     -   Características documentadas em bibliografias prévias ou pontos de referência existentes. 
-       
-
-**Aviso: ** 
+           
+**Aviso:**
 A ANM não se responsabiliza pelo uso inadequado das informações contidas na ferramenta Geopotencial. Para maiores informações sobre os estudos que originaram os dados disponíveis, sugerimos consultar o Portal GEOSGB (https://geosgb.sgb.gov.br/home.html).
 
 Pesquisa de Áreas com Geopotencial:
