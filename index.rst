@@ -35,54 +35,7 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
    :maxdepth: 3
    :caption: Monitorar Áreas   
 
-   _perguntasfaq/2.0MonitorarAreas.rst
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Solicitar Reanálise de Áreas
-
-   _perguntasfaq/12.SolicitarReanaliseAreas.rst
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Oferta Pública
-   
-   _perguntasfaq/4.2PortalPublicodeAcessandoDetalhesEdital
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Leilão - Proposta Fechada
-
-   _perguntasfaq/7.1EncontrandoOLeilao
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Recursos Administrativos
-
-   _perguntasfaq/11.0RecursosAdministrativos
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Avaliação Social 
-   
-   _perguntasfaq/5.0OqueEAvaliacaoSocial
-   _perguntasfaq/3.7CadastroAvalialcaoSocial
-   _perguntasfaq/9.RegistrarInteresseAvaliacaoSocial
-   _perguntasfaq/4.10NovoVisualizarHistoricoManifestacoesDeInteresse
-   _perguntasfaq/4.11DeclaracaoDeInteresse
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Pagamentos
-
-   _perguntasfaq/10.0Pagamentos.rst
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Requerimentos
-
-   _perguntasfaq/8.RequerimentoLeilaoPropostaFechada.rst
-   
+   _perguntasfaq/2.0MonitorarAreas.rst   
 
 .. toctree::
    :maxdepth: 3
