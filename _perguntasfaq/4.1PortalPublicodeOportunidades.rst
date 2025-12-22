@@ -1,4 +1,4 @@
-Painel Público de Oportunidades
+Painel Público de Oportunidades 
 ===============================
 
 Acesse o endereço https://sople.anm.gov.br; 
@@ -11,8 +11,8 @@ Clicando na imagem com um “i” (Detalhes) serão exibidas as Informações do
 
 .. image:: ../imagens/4.1PortalPublicodeOportunidades1.png
 
-Informações do Edital
-#####################
+Informações do Edital de 1ª à 8ª Rodada
+#########################################
 
 .. image:: ../imagens/4.1InformacoesDoEdital.png
 
@@ -46,6 +46,46 @@ Fase aplicável somente ás áreas que são objeto de mais de uma manifestação
 - **Recursos Administrativos**
 
 Fase que os participantes podem interpor recursos após os resultados das fases de Oferta Pública e de Leilão ou Avaliação Social. 
+
+- **Homologação e Adjudicação**
+
+Fase que serão validados e divulgados de maneira oficial o resultado e os vencedores da rodada de disponibilidade de áreas. 
+
+- **Requerimentos**
+
+Fase que os participantes que foram os únicos que realizaram manifestação de interesse na área de maneira única , na fase de Oferta Pública Prévia , bem como e os participantes vencedores da fase de Leilão ou de Avaliação Social podem realizar os seus requerimentos de título minerário.
+
+- **Sanções**
+
+Fase que serão realizadas as notificações de infrações e penalidades decorrentes do edital de disponibilidade de áreas. 
+
+Informações do Edital
+#####################
+
+.. image:: ../imagens/4.1InformacoesDoEdital.png
+
+1. Apresenta-se informações relevantes como a Rodada, o Objeto, a Modalidade, o nº Processo, nº Edital e a Situação.
+
+.. image:: ../imagens/4.1Detalhes.png
+
+2. Botões de ação: atalhos para recursos do edital.
+
+.. image:: ../imagens/4.1Acoes.png
+
+3. Fases do edital: as fases indicadas contêm um período definido e links que são habilitados durante este período.
+
+.. image:: ../imagens/4.9.B3Etapas.png  
+
+Definição das Fases:
+#####################
+ 
+- **Planejamento**
+
+Fase que o edital está sendo elaborado pela ANM e as áreas estão sendo selecionadas a partir de critérios estabelecidos. 
+
+- **Gestão de Oferta Pública e Leilão**
+
+Fase que será gerida no ambiente B3, as etapas são elaboradas e dispobilizadas em outra plataforma, no SOPLE serão apresentadas as integrações, documentos e detalhes das áreas. 
 
 - **Homologação e Adjudicação**
 
