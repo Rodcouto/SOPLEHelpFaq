@@ -93,7 +93,7 @@ Fase que serão validados e divulgados de maneira oficial o resultado e os vence
 
 - **Requerimentos**
 
-Fase que os participantes que foram os únicos que realizaram manifestação de interesse na área de maneira única , na fase de Oferta Pública Prévia , bem como e os participantes vencedores da fase de Leilão ou de Avaliação Social podem realizar os seus requerimentos de título minerário.
+Fase onde os participantes que conquistaram ou arremataram áreas na plataforma B3, faram o requerimento de título minerario.
 
 - **Sanções**
 
