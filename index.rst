@@ -39,6 +39,12 @@ SOPLE - Sistema de Oferta Pública e Leilão de Áreas
 
 .. toctree::
    :maxdepth: 3
+   :caption: Atendimento ao Minerador
+
+   _perguntasfaq/13.AtendimentoMinerador.rst 
+
+.. toctree::
+   :maxdepth: 3
    :caption: Problemas 
 
    _perguntasfaq/6.07esqueciMinhaSenhaLoginUnico
